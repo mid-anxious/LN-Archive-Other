@@ -1,637 +1,637 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: RJ-Novels</title>
-  <updated>2026-05-27T16:26:59.581347Z</updated>
+  <updated>2026-05-27T18:06:17.591367Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_rj.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>A.Romantic.Comedy.About.Flirting.and.Getting.Married.to.a.Popular.Voice.Actress.RJ.Vol.1</title>
-    <id>uuid:3030057632016523042</id>
+    <id>uuid:-2719563060423871910</id>
     <updated>2026-05-27T09:50:30Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A.Romantic.Comedy.About.Flirting.and.Getting.Married.to.a.Popular.Voice.Actress.RJ.Vol.1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A.Romantic.Comedy.About.Flirting.and.Getting.Married.to.a.Popular.Voice.Actress.RJ.Vol.1.epub" type="application/epub+zip" length="2507648"/>
   </entry>
   <entry>
     <title>About the Case Where the Beautiful Girl I Rescued by Chance Became Attached to Me for Some Reason Volume 1</title>
-    <id>uuid:-5823804204232691850</id>
+    <id>uuid:8998021651926867399</id>
     <updated>2026-05-27T06:49:49Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--About_the_Case_Where_the_Beautiful_Girl_I_Rescued_by_Chance_Became_Attached_to_Me_for_Some_Reason_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--About_the_Case_Where_the_Beautiful_Girl_I_Rescued_by_Chance_Became_Attached_to_Me_for_Some_Reason_Volume_1.epub" type="application/epub+zip" length="3400395"/>
   </entry>
   <entry>
     <title>After My Sister Enrolling in Girl Knights School I Became a Hero Volume 1</title>
-    <id>uuid:-5419303889081659157</id>
+    <id>uuid:2237866764942483370</id>
     <updated>2026-05-27T09:44:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_Volume_1.epub" type="application/epub+zip" length="2698903"/>
   </entry>
   <entry>
     <title>After My Sister Enrolling in Girl Knights School I Became a Hero Volume 2</title>
-    <id>uuid:4767359804661105506</id>
+    <id>uuid:5106122848472514424</id>
     <updated>2026-05-27T09:44:13Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_Volume_2.epub" type="application/epub+zip" length="3894540"/>
   </entry>
   <entry>
     <title>After School at a Family Restaurant at Night With That Girl From My Class Volume 1</title>
-    <id>uuid:-1375951257789229594</id>
+    <id>uuid:-5683244699011843204</id>
     <updated>2026-05-27T06:49:58Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_1.epub" type="application/epub+zip" length="2154329"/>
   </entry>
   <entry>
     <title>After School at a Family Restaurant at Night With That Girl From My Class Volume 2</title>
-    <id>uuid:-3236887182075231808</id>
+    <id>uuid:7243960150407925093</id>
     <updated>2026-05-27T06:50:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_2.epub" type="application/epub+zip" length="2589752"/>
   </entry>
   <entry>
     <title>Amari-chan the Girl I Found Next to the Number-One Girl Everyone Wants as a Girlfriend Volume 1</title>
-    <id>uuid:2914168611424297885</id>
+    <id>uuid:-359678914289686000</id>
     <updated>2026-05-27T09:53:22Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Amari-chan_the_Girl_I_Found_Next_to_the_Number-One_Girl_Everyone_Wants_as_a_Girlfriend_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Amari-chan_the_Girl_I_Found_Next_to_the_Number-One_Girl_Everyone_Wants_as_a_Girlfriend_Volume_1.epub" type="application/epub+zip" length="4810145"/>
   </entry>
   <entry>
     <title>Ano Natsu ni Sasagu ai Kotoba Volume 1</title>
-    <id>uuid:1035581067537441223</id>
+    <id>uuid:8094565332253971703</id>
     <updated>2026-05-27T09:46:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Ano_Natsu_ni_Sasagu_ai_Kotoba_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Ano_Natsu_ni_Sasagu_ai_Kotoba_Volume_1.epub" type="application/epub+zip" length="2908590"/>
   </entry>
   <entry>
     <title>Ascendance of a Scummy Hero Volume 1</title>
-    <id>uuid:3175571904337690705</id>
+    <id>uuid:-1987518820050501539</id>
     <updated>2026-05-27T06:45:56Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Ascendance_of_a_Scummy_Hero_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Ascendance_of_a_Scummy_Hero_Volume_1.epub" type="application/epub+zip" length="3954505"/>
   </entry>
   <entry>
     <title>A Childhood Friend Who Has Already Won but Mistakenly Believes Herself to Be the Losing Heroine Volume 1</title>
-    <id>uuid:6291248511029679852</id>
+    <id>uuid:-8923773608173931110</id>
     <updated>2026-05-27T09:48:47Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Childhood_Friend_Who_Has_Already_Won_but_Mistakenly_Believes_Herself_to_Be_the_Losing_Heroine_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Childhood_Friend_Who_Has_Already_Won_but_Mistakenly_Believes_Herself_to_Be_the_Losing_Heroine_Volume_1.epub" type="application/epub+zip" length="4368551"/>
   </entry>
   <entry>
     <title>A Romantic Comedy About Flirting and Getting Married to a Popular Voice Actress Volume 2</title>
-    <id>uuid:3754386155642777642</id>
+    <id>uuid:3616692929053700183</id>
     <updated>2026-05-27T09:50:26Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Romantic_Comedy_About_Flirting_and_Getting_Married_to_a_Popular_Voice_Actress_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Romantic_Comedy_About_Flirting_and_Getting_Married_to_a_Popular_Voice_Actress_Volume_2.epub" type="application/epub+zip" length="2507648"/>
   </entry>
   <entry>
     <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 1</title>
-    <id>uuid:5364738978942090428</id>
+    <id>uuid:-121994834118879502</id>
     <updated>2026-05-27T06:46:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_1.epub" type="application/epub+zip" length="1780131"/>
   </entry>
   <entry>
     <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 3</title>
-    <id>uuid:-1893664643358048763</id>
+    <id>uuid:7013057168852996278</id>
     <updated>2026-05-27T06:46:58Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_3.epub" type="application/epub+zip" length="2700680"/>
   </entry>
   <entry>
     <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 4</title>
-    <id>uuid:-4403539347693909243</id>
+    <id>uuid:-670836057573148762</id>
     <updated>2026-05-27T06:47:08Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_4.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_4.epub" type="application/epub+zip" length="2475197"/>
   </entry>
   <entry>
     <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga Ore ni Dake Amaetekuru Riyuu Volume 1</title>
-    <id>uuid:1219098089841425516</id>
+    <id>uuid:-1954408579582279020</id>
     <updated>2026-05-27T09:53:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga_Ore_ni_Dake_Amaetekuru_Riyuu_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga_Ore_ni_Dake_Amaetekuru_Riyuu_Volume_1.epub" type="application/epub+zip" length="2272092"/>
   </entry>
   <entry>
     <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga Ore ni Dake Amaetekuru Riyuu Volume 2</title>
-    <id>uuid:-8203445194810896688</id>
+    <id>uuid:-6030300222770164638</id>
     <updated>2026-05-27T09:53:37Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga_Ore_ni_Dake_Amaetekuru_Riyuu_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga_Ore_ni_Dake_Amaetekuru_Riyuu_Volume_2.epub" type="application/epub+zip" length="7671169"/>
   </entry>
   <entry>
     <title>Defy Winter Volume 1</title>
-    <id>uuid:2354021086897697052</id>
+    <id>uuid:-6187045311598165011</id>
     <updated>2026-05-27T09:45:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Defy_Winter_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Defy_Winter_Volume_1.epub" type="application/epub+zip" length="932218"/>
   </entry>
   <entry>
     <title>For Some Reason The Girl Whos Too Popular Only Drinks with Me Volume 1</title>
-    <id>uuid:-630029956781036335</id>
+    <id>uuid:8959892307659722426</id>
     <updated>2026-05-27T09:51:12Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--For_Some_Reason_The_Girl_Whos_Too_Popular_Only_Drinks_with_Me_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--For_Some_Reason_The_Girl_Whos_Too_Popular_Only_Drinks_with_Me_Volume_1.epub" type="application/epub+zip" length="1628235"/>
   </entry>
   <entry>
     <title>Kanojo wo Deresaseru Houhou wo Shorai Kekon Suru Oredake ga Shitteiru Volume 1</title>
-    <id>uuid:-5413237420145543191</id>
+    <id>uuid:-6885073161491237464</id>
     <updated>2026-05-27T06:36:33Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Kanojo_wo_Deresaseru_Houhou_wo_Shorai_Kekon_Suru_Oredake_ga_Shitteiru_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/RJ--Kanojo_wo_Deresaseru_Houhou_wo_Shorai_Kekon_Suru_Oredake_ga_Shitteiru_Volume_1.epub" type="application/epub+zip" length="4160181"/>
   </entry>
   <entry>
     <title>Ichizuna Kanojo ga Fura rete Kurenai Volume 1</title>
-    <id>uuid:-1214643389262792141</id>
+    <id>uuid:6310996020705246637</id>
     <updated>2026-05-27T09:46:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Ichizuna_Kanojo_ga_Fura_rete_Kurenai_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Ichizuna_Kanojo_ga_Fura_rete_Kurenai_Volume_1.epub" type="application/epub+zip" length="2579574"/>
   </entry>
   <entry>
     <title>If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy She Becomes a Commuting Wife and Comes Pressing for a Relationship Volume 1</title>
-    <id>uuid:1746716191336212015</id>
+    <id>uuid:9034681491162600545</id>
     <updated>2026-05-27T09:47:43Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commuting_Wife_and_Comes_Pressing_for_a_Relationship_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commuting_Wife_and_Comes_Pressing_for_a_Relationship_Volume_1.epub" type="application/epub+zip" length="5327857"/>
   </entry>
   <entry>
     <title>Imoto no Meikyu Haishin o Yetsudatte Ita Ore ga Ukkari Esuranku Monsuta Aite ni Muso Shita Kekka ga Kochiradesu Volume 1</title>
-    <id>uuid:7008571651325153699</id>
+    <id>uuid:-6392920180940502909</id>
     <updated>2026-05-27T09:44:30Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Imoto_no_Meikyu_Haishin_o_Yetsudatte_Ita_Ore_ga_Ukkari_Esuranku_Monsuta_Aite_ni_Muso_Shita_Kekka_ga_Kochiradesu_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Imoto_no_Meikyu_Haishin_o_Yetsudatte_Ita_Ore_ga_Ukkari_Esuranku_Monsuta_Aite_ni_Muso_Shita_Kekka_ga_Kochiradesu_Volume_1.epub" type="application/epub+zip" length="5373903"/>
   </entry>
   <entry>
     <title>Ippanjin no Ore o Geino-ka Joshi-tachi ga Nigashite Kurenai Kudan Volume 1</title>
-    <id>uuid:1124069173618688786</id>
+    <id>uuid:155766029688092828</id>
     <updated>2026-05-27T09:43:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Ippanjin_no_Ore_o_Geino-ka_Joshi-tachi_ga_Nigashite_Kurenai_Kudan_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Ippanjin_no_Ore_o_Geino-ka_Joshi-tachi_ga_Nigashite_Kurenai_Kudan_Volume_1.epub" type="application/epub+zip" length="6476731"/>
   </entry>
   <entry>
     <title>It Was Like Snow Quietly Falling and Piling Up Volume 1</title>
-    <id>uuid:-9043672405881057204</id>
+    <id>uuid:-979741971814040270</id>
     <updated>2026-05-27T06:49:00Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--It_Was_Like_Snow_Quietly_Falling_and_Piling_Up_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--It_Was_Like_Snow_Quietly_Falling_and_Piling_Up_Volume_1.epub" type="application/epub+zip" length="4179751"/>
   </entry>
   <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class Volume 1</title>
-    <id>uuid:3772149531063586807</id>
+    <id>uuid:-1163202150443192220</id>
     <updated>2026-05-27T09:45:39Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_1.epub" type="application/epub+zip" length="1362142"/>
   </entry>
   <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class Volume 2</title>
-    <id>uuid:-7859897856431679512</id>
+    <id>uuid:-1481086758147839193</id>
     <updated>2026-05-27T09:45:44Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_2.epub" type="application/epub+zip" length="1410217"/>
   </entry>
   <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class Volume 3</title>
-    <id>uuid:-2129602459612746799</id>
+    <id>uuid:-2974013616355512501</id>
     <updated>2026-05-27T09:45:54Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_3.epub" type="application/epub+zip" length="3269497"/>
   </entry>
   <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class Volume 4</title>
-    <id>uuid:1387639386963143699</id>
+    <id>uuid:-1023122753931658922</id>
     <updated>2026-05-27T09:46:01Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_4.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class_Volume_4.epub" type="application/epub+zip" length="3374438"/>
   </entry>
   <entry>
     <title>I Fell in Love with a Delusional Loner Girl and Now Things Are Giga Heavy Volume 1</title>
-    <id>uuid:-8622439913622916269</id>
+    <id>uuid:-8483647535518927387</id>
     <updated>2026-05-27T09:54:15Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Fell_in_Love_with_a_Delusional_Loner_Girl_and_Now_Things_Are_Giga_Heavy_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Fell_in_Love_with_a_Delusional_Loner_Girl_and_Now_Things_Are_Giga_Heavy_Volume_1.epub" type="application/epub+zip" length="20357931"/>
   </entry>
   <entry>
     <title>I Have A Rejuvenated Ex-wife In My Class Volume 1</title>
-    <id>uuid:3557078329406403835</id>
+    <id>uuid:4960512237280238577</id>
     <updated>2026-05-27T06:32:51Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_A_Rejuvenated_Ex-wife_In_My_Class_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_A_Rejuvenated_Ex-wife_In_My_Class_Volume_1.epub" type="application/epub+zip" length="739432"/>
   </entry>
   <entry>
     <title>I Have A Rejuvenated Ex-wife In My Class Volume 2</title>
-    <id>uuid:-5803327174124254459</id>
+    <id>uuid:8562747508189480993</id>
     <updated>2026-05-27T06:32:56Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_A_Rejuvenated_Ex-wife_In_My_Class_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_A_Rejuvenated_Ex-wife_In_My_Class_Volume_2.epub" type="application/epub+zip" length="682930"/>
   </entry>
   <entry>
     <title>I Have been Reincarnated As a Lazy Arrogant Noble but When I Destroyed The Scenario Through Effort I Became The Most Powerful With Extraordinary Magical Power Volume 1</title>
-    <id>uuid:-5233859646385511405</id>
+    <id>uuid:-3521548458728933875</id>
     <updated>2026-05-27T09:46:10Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effort_I_Became_The_Most_Powerful_With_Extraordinary_Magical_Power_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effort_I_Became_The_Most_Powerful_With_Extraordinary_Magical_Power_Volume_1.epub" type="application/epub+zip" length="2453385"/>
   </entry>
   <entry>
     <title>I Made the Girl I Liked My Maid and Now Shes Secretly Doing Something in My Room Volume 1</title>
-    <id>uuid:-1010800257795887354</id>
+    <id>uuid:-5963217293551214251</id>
     <updated>2026-05-27T09:44:33Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Made_the_Girl_I_Liked_My_Maid_and_Now_Shes_Secretly_Doing_Something_in_My_Room_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Made_the_Girl_I_Liked_My_Maid_and_Now_Shes_Secretly_Doing_Something_in_My_Room_Volume_1.epub" type="application/epub+zip" length="1697526"/>
   </entry>
   <entry>
     <title>I Risked My Life to Save a Pair of Beautiful Twin Sisters and Now These Secret Yanderes Are Totally Obsessed With Me Volume 1</title>
-    <id>uuid:6549292038441173920</id>
+    <id>uuid:9154369610594741237</id>
     <updated>2026-05-27T09:52:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Risked_My_Life_to_Save_a_Pair_of_Beautiful_Twin_Sisters_and_Now_These_Secret_Yanderes_Are_Totally_Obsessed_With_Me_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Risked_My_Life_to_Save_a_Pair_of_Beautiful_Twin_Sisters_and_Now_These_Secret_Yanderes_Are_Totally_Obsessed_With_Me_Volume_1.epub" type="application/epub+zip" length="13609968"/>
   </entry>
   <entry>
     <title>I Risked My Life to Save a Pair of Beautiful Twin Sisters and Now These Secret Yanderes Are Totally Obsessed With Me Volume 2</title>
-    <id>uuid:-8254295144254127005</id>
+    <id>uuid:-4876142714783754540</id>
     <updated>2026-05-27T09:53:02Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Risked_My_Life_to_Save_a_Pair_of_Beautiful_Twin_Sisters_and_Now_These_Secret_Yanderes_Are_Totally_Obsessed_With_Me_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Risked_My_Life_to_Save_a_Pair_of_Beautiful_Twin_Sisters_and_Now_These_Secret_Yanderes_Are_Totally_Obsessed_With_Me_Volume_2.epub" type="application/epub+zip" length="17514060"/>
   </entry>
   <entry>
     <title>Jikan wo Tomete Dere Makuru Saikyou Muteki no Kurono-san Volume 1</title>
-    <id>uuid:-8559056048890575998</id>
+    <id>uuid:-8299769887122981438</id>
     <updated>2026-05-27T06:33:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Jikan_wo_Tomete_Dere_Makuru_Saikyou_Muteki_no_Kurono-san_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Jikan_wo_Tomete_Dere_Makuru_Saikyou_Muteki_no_Kurono-san_Volume_1.epub" type="application/epub+zip" length="4836603"/>
   </entry>
   <entry>
     <title>Kanojo no ane wa 2-shu-me no kanojo Volume 1</title>
-    <id>uuid:-4345367129541889986</id>
+    <id>uuid:6169103524748131923</id>
     <updated>2026-05-27T09:50:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kanojo_no_ane_wa_2-shu-me_no_kanojo_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kanojo_no_ane_wa_2-shu-me_no_kanojo_Volume_1.epub" type="application/epub+zip" length="17058701"/>
   </entry>
   <entry>
     <title>Kasshoku musume no ratina-san ni ore no karada ga nerawarete iru Volume 1</title>
-    <id>uuid:-9132712620724078758</id>
+    <id>uuid:4017930438890196179</id>
     <updated>2026-05-27T09:45:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kasshoku_musume_no_ratina-san_ni_ore_no_karada_ga_nerawarete_iru_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kasshoku_musume_no_ratina-san_ni_ore_no_karada_ga_nerawarete_iru_Volume_1.epub" type="application/epub+zip" length="1714746"/>
   </entry>
   <entry>
     <title>Koibito Daiko no Baito o Hajimeta ore Nazedarou Fukusu no Bishojo Kara Shimei Irai ga Haitte Kuru Volume 1</title>
-    <id>uuid:8576407862666672585</id>
+    <id>uuid:2894422375807247299</id>
     <updated>2026-05-27T09:44:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_1.epub" type="application/epub+zip" length="1894448"/>
   </entry>
   <entry>
     <title>Koibito Daiko no Baito o Hajimeta ore Nazedarou Fukusu no Bishojo Kara Shimei Irai ga Haitte Kuru Volume 2</title>
-    <id>uuid:-6598256240923549071</id>
+    <id>uuid:-4687549964289252411</id>
     <updated>2026-05-27T09:44:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_2.epub" type="application/epub+zip" length="2245524"/>
   </entry>
   <entry>
     <title>Koibito Daiko no Baito o Hajimeta ore Nazedarou Fukusu no Bishojo Kara Shimei Irai ga Haitte Kuru Volume 3</title>
-    <id>uuid:2257239906094194401</id>
+    <id>uuid:8620975272426193028</id>
     <updated>2026-05-27T09:44:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru_Volume_3.epub" type="application/epub+zip" length="2563320"/>
   </entry>
   <entry>
     <title>Kono Monogatari O Kimi Ni Sasagu Volume 1</title>
-    <id>uuid:-5735573340387498900</id>
+    <id>uuid:-3943479517468135498</id>
     <updated>2026-05-27T09:51:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kono_Monogatari_O_Kimi_Ni_Sasagu_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kono_Monogatari_O_Kimi_Ni_Sasagu_Volume_1.epub" type="application/epub+zip" length="1586344"/>
   </entry>
   <entry>
     <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama Volume 1</title>
-    <id>uuid:3961290234599360735</id>
+    <id>uuid:-8247007387634545300</id>
     <updated>2026-05-27T09:49:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_Volume_1.epub" type="application/epub+zip" length="19426210"/>
   </entry>
   <entry>
     <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama Volume 2</title>
-    <id>uuid:-7309229424594308609</id>
+    <id>uuid:-3089717226300370105</id>
     <updated>2026-05-27T09:49:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_Volume_2.epub" type="application/epub+zip" length="4406594"/>
   </entry>
   <entry>
     <title>Listen Actually Its My First Time 87 Days Until My First Time With a Loose-Ish Innocent Girlfriend Volume 1</title>
-    <id>uuid:-5353414548371594362</id>
+    <id>uuid:39810150791466089</id>
     <updated>2026-05-27T06:33:25Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Listen_Actually_Its_My_First_Time_87_Days_Until_My_First_Time_With_a_Loose-Ish_Innocent_Girlfriend_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Listen_Actually_Its_My_First_Time_87_Days_Until_My_First_Time_With_a_Loose-Ish_Innocent_Girlfriend_Volume_1.epub" type="application/epub+zip" length="2124486"/>
   </entry>
   <entry>
     <title>My Love Comedy with the Unfallable Beautiful Girl Classmate Is Way Too Easy Volume 1</title>
-    <id>uuid:4361962191597177594</id>
+    <id>uuid:-5944044214899740835</id>
     <updated>2026-05-27T09:47:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--My_Love_Comedy_with_the_Unfallable_Beautiful_Girl_Classmate_Is_Way_Too_Easy_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--My_Love_Comedy_with_the_Unfallable_Beautiful_Girl_Classmate_Is_Way_Too_Easy_Volume_1.epub" type="application/epub+zip" length="9073682"/>
   </entry>
   <entry>
     <title>My Three Pure Girlfriends Who Want to Be My Number One Volume 1</title>
-    <id>uuid:8817109342557607263</id>
+    <id>uuid:-278802210445359628</id>
     <updated>2026-05-27T09:54:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--My_Three_Pure_Girlfriends_Who_Want_to_Be_My_Number_One_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--My_Three_Pure_Girlfriends_Who_Want_to_Be_My_Number_One_Volume_1.epub" type="application/epub+zip" length="2995851"/>
   </entry>
   <entry>
     <title>Soshiki no Shukuteki to Kekkon Shitara Mecha Amai Volume 1</title>
-    <id>uuid:6136130379082300398</id>
+    <id>uuid:9203753622460413767</id>
     <updated>2026-05-27T06:37:00Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai_Volume_1.epub" type="application/epub+zip" length="8820883"/>
   </entry>
   <entry>
     <title>No Way a Boy Wouldnt Want to Be Pampered by a Beautiful Onee-san Volume 1</title>
-    <id>uuid:-4976043747143210023</id>
+    <id>uuid:8404914528784985465</id>
     <updated>2026-05-27T09:45:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_1.epub" type="application/epub+zip" length="3382733"/>
   </entry>
   <entry>
     <title>No Way a Boy Wouldnt Want to Be Pampered by a Beautiful Onee-san Volume 2</title>
-    <id>uuid:-704458659285015139</id>
+    <id>uuid:6708312104029084469</id>
     <updated>2026-05-27T09:45:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_2.epub" type="application/epub+zip" length="1723130"/>
   </entry>
   <entry>
     <title>No Way a Boy Wouldnt Want to Be Pampered by a Beautiful Onee-san Volume 3</title>
-    <id>uuid:-4949525275023072713</id>
+    <id>uuid:-4201241347214596091</id>
     <updated>2026-05-27T09:45:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--No_Way_a_Boy_Wouldnt_Want_to_Be_Pampered_by_a_Beautiful_Onee-san_Volume_3.epub" type="application/epub+zip" length="1549481"/>
   </entry>
   <entry>
     <title>Omoi Tabako o Sutteru Fukenko-sona Toshiue Bijin to Dorodoro no Kankei ni Natte Ita Hanashi Volume 1</title>
-    <id>uuid:5406082434569637988</id>
+    <id>uuid:-6650285026811645766</id>
     <updated>2026-05-27T09:46:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Omoi_Tabako_o_Sutteru_Fukenko-sona_Toshiue_Bijin_to_Dorodoro_no_Kankei_ni_Natte_Ita_Hanashi_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Omoi_Tabako_o_Sutteru_Fukenko-sona_Toshiue_Bijin_to_Dorodoro_no_Kankei_ni_Natte_Ita_Hanashi_Volume_1.epub" type="application/epub+zip" length="5948903"/>
   </entry>
   <entry>
     <title>Osananajimi no Imouto no Kateikyoushi wo Hajimetara Soen Datta Osananajimi ga Kowai Volume 1</title>
-    <id>uuid:-5268751758064768040</id>
+    <id>uuid:4262567036399053532</id>
     <updated>2026-05-27T09:46:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_1.epub" type="application/epub+zip" length="1266138"/>
   </entry>
   <entry>
     <title>Osananajimi no Imouto no Kateikyoushi wo Hajimetara Soen Datta Osananajimi ga Kowai Volume 2</title>
-    <id>uuid:-7166897045586030447</id>
+    <id>uuid:-3885828699823906793</id>
     <updated>2026-05-27T09:46:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_2.epub" type="application/epub+zip" length="942602"/>
   </entry>
   <entry>
     <title>Osananajimi no Imouto no Kateikyoushi wo Hajimetara Soen Datta Osananajimi ga Kowai Volume 3</title>
-    <id>uuid:-8231067386197414447</id>
+    <id>uuid:2581726917084083204</id>
     <updated>2026-05-27T09:46:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_3.epub" type="application/epub+zip" length="1207322"/>
   </entry>
   <entry>
     <title>Osananajimi no Imouto no Kateikyoushi wo Hajimetara Soen Datta Osananajimi ga Kowai Volume 4</title>
-    <id>uuid:-3112528739895391570</id>
+    <id>uuid:-8968141108781600839</id>
     <updated>2026-05-27T09:46:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_4.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Osananajimi_no_Imouto_no_Kateikyoushi_wo_Hajimetara_Soen_Datta_Osananajimi_ga_Kowai_Volume_4.epub" type="application/epub+zip" length="2097489"/>
   </entry>
   <entry>
     <title>Our Secret Youth in the Night School Volume 1</title>
-    <id>uuid:7065369459515736766</id>
+    <id>uuid:3990302326358048579</id>
     <updated>2026-05-27T09:52:18Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Our_Secret_Youth_in_the_Night_School_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Our_Secret_Youth_in_the_Night_School_Volume_1.epub" type="application/epub+zip" length="5524011"/>
   </entry>
   <entry>
     <title>Sekai de Ichiban Kawaii Amamiya-san Nibanme wa Ore Volume 1</title>
-    <id>uuid:-862313907353411906</id>
+    <id>uuid:1338490014087358858</id>
     <updated>2026-05-27T09:46:51Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_1.epub" type="application/epub+zip" length="1519573"/>
   </entry>
   <entry>
     <title>Sekai de Ichiban Kawaii Amamiya-san Nibanme wa Ore Volume 2</title>
-    <id>uuid:6898749805833979052</id>
+    <id>uuid:-2083367975663837382</id>
     <updated>2026-05-27T09:46:56Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_2.epub" type="application/epub+zip" length="1539807"/>
   </entry>
   <entry>
     <title>Sekai de Ichiban Kawaii Amamiya-san Nibanme wa Ore Volume 3</title>
-    <id>uuid:-6730789494017219650</id>
+    <id>uuid:2342235168924350347</id>
     <updated>2026-05-27T09:47:01Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sekai_de_Ichiban_Kawaii_Amamiya-san_Nibanme_wa_Ore_Volume_3.epub" type="application/epub+zip" length="1216960"/>
   </entry>
   <entry>
     <title>Senchi kara Kaette kita Takashi Kun Futsuu ni Koukou Seikatsu Okuritai Volume 1</title>
-    <id>uuid:-2064832658429398483</id>
+    <id>uuid:5614529494900808082</id>
     <updated>2026-05-27T09:51:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Senchi_kara_Kaette_kita_Takashi_Kun_Futsuu_ni_Koukou_Seikatsu_Okuritai_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Senchi_kara_Kaette_kita_Takashi_Kun_Futsuu_ni_Koukou_Seikatsu_Okuritai_Volume_1.epub" type="application/epub+zip" length="17301076"/>
   </entry>
   <entry>
     <title>Senchi kara Kaette kita Takashi Kun Futsuu ni Koukou Seikatsu Okuritai Volume 2</title>
-    <id>uuid:2288244534724783619</id>
+    <id>uuid:-6347641013712723768</id>
     <updated>2026-05-27T09:50:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Senchi_kara_Kaette_kita_Takashi_Kun_Futsuu_ni_Koukou_Seikatsu_Okuritai_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Senchi_kara_Kaette_kita_Takashi_Kun_Futsuu_ni_Koukou_Seikatsu_Okuritai_Volume_2.epub" type="application/epub+zip" length="8161427"/>
   </entry>
   <entry>
     <title>Sensei Kisu wa Jugyo no Hani-gaidesu Volume 1</title>
-    <id>uuid:-4177213462053390936</id>
+    <id>uuid:7666321956178733276</id>
     <updated>2026-05-27T09:52:22Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sensei_Kisu_wa_Jugyo_no_Hani-gaidesu_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/RJ--Sensei_Kisu_wa_Jugyo_no_Hani-gaidesu_Volume_1.epub" type="application/epub+zip" length="6219410"/>
   </entry>
   <entry>
     <title>Takane-san Kimi no Koto Sukirashii yo Volume 1</title>
-    <id>uuid:-8476693194035470466</id>
+    <id>uuid:7355914704320816403</id>
     <updated>2026-05-27T06:22:06Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Takane-san_Kimi_no_Koto_Sukirashii_yo_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Takane-san_Kimi_no_Koto_Sukirashii_yo_Volume_1.epub" type="application/epub+zip" length="749048"/>
   </entry>
   <entry>
     <title>The Cheeky Junior Gal Becomes Too Cute When She Gets Attached to Me Volume 1</title>
-    <id>uuid:-4487694861754076756</id>
+    <id>uuid:1433131736463041472</id>
     <updated>2026-05-27T09:47:33Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Cheeky_Junior_Gal_Becomes_Too_Cute_When_She_Gets_Attached_to_Me_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Cheeky_Junior_Gal_Becomes_Too_Cute_When_She_Gets_Attached_to_Me_Volume_1.epub" type="application/epub+zip" length="4963908"/>
   </entry>
   <entry>
     <title>The Cheeky Junior Gal Becomes Too Cute When She Gets Attached to Me Volume 2</title>
-    <id>uuid:-2411783694113318683</id>
+    <id>uuid:-4420965373653913873</id>
     <updated>2026-05-27T09:47:29Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Cheeky_Junior_Gal_Becomes_Too_Cute_When_She_Gets_Attached_to_Me_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Cheeky_Junior_Gal_Becomes_Too_Cute_When_She_Gets_Attached_to_Me_Volume_2.epub" type="application/epub+zip" length="1048415"/>
   </entry>
   <entry>
     <title>The Despised Level 0 Incompetent Explorer Is Actually the Worlds Strongest  The First Place in the Exploration Ranking Is a Mysterious Person Volume 1</title>
-    <id>uuid:-8329433675001540562</id>
+    <id>uuid:462811276262750440</id>
     <updated>2026-05-27T09:44:38Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_1.epub" type="application/epub+zip" length="1347933"/>
   </entry>
   <entry>
     <title>The Despised Level 0 Incompetent Explorer Is Actually the Worlds Strongest  The First Place in the Exploration Ranking Is a Mysterious Person Volume 2</title>
-    <id>uuid:-8294438271044081859</id>
+    <id>uuid:4384954993243736137</id>
     <updated>2026-05-27T09:44:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_2.epub" type="application/epub+zip" length="3934346"/>
   </entry>
   <entry>
     <title>The Despised Level 0 Incompetent Explorer Is Actually the Worlds Strongest  The First Place in the Exploration Ranking Is a Mysterious Person Volume 3</title>
-    <id>uuid:3765141108998999127</id>
+    <id>uuid:6052337286243700452</id>
     <updated>2026-05-27T09:44:52Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Despised_Level_0_Incompetent_Explorer_Is_Actually_the_Worlds_Strongest__The_First_Place_in_the_Exploration_Ranking_Is_a_Mysterious_Person_Volume_3.epub" type="application/epub+zip" length="2926380"/>
   </entry>
   <entry>
     <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game Volume 1</title>
-    <id>uuid:8696496750324811980</id>
+    <id>uuid:-3638962321352827766</id>
     <updated>2026-05-27T09:53:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_1.epub" type="application/epub+zip" length="2620651"/>
   </entry>
   <entry>
     <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game Volume 2</title>
-    <id>uuid:1916015092130729345</id>
+    <id>uuid:-2014821258958487072</id>
     <updated>2026-05-27T09:53:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_2.epub" type="application/epub+zip" length="1645549"/>
   </entry>
   <entry>
     <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game Volume 3</title>
-    <id>uuid:-8219443514125632168</id>
+    <id>uuid:-9197288190425742642</id>
     <updated>2026-05-27T09:53:29Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad_Ending_Otome_Game_Volume_3.epub" type="application/epub+zip" length="6238122"/>
   </entry>
   <entry>
     <title>The Jack-of-all-trades Kicked Out of the Heros Party  The Swordsman Who Became a Support Mage Due to Party Circumstances Becomes All Powerful Volume 1</title>
-    <id>uuid:-1408807156416813929</id>
+    <id>uuid:7422489382300521920</id>
     <updated>2026-05-27T06:22:14Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip" length="1516386"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 1</title>
-    <id>uuid:-4266926072245455562</id>
+    <id>uuid:1480028517778446249</id>
     <updated>2026-05-27T09:51:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_1.epub" type="application/epub+zip" length="4461557"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 2</title>
-    <id>uuid:-7820976269240793051</id>
+    <id>uuid:4609268175923924166</id>
     <updated>2026-05-27T09:51:26Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_2.epub" type="application/epub+zip" length="3687807"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 3</title>
-    <id>uuid:3366606871870267902</id>
+    <id>uuid:431888988867441798</id>
     <updated>2026-05-27T09:51:30Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_3.epub" type="application/epub+zip" length="3795395"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 4</title>
-    <id>uuid:3019715599835936108</id>
+    <id>uuid:-4721172238196259595</id>
     <updated>2026-05-27T09:51:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_4.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_4.epub" type="application/epub+zip" length="4008257"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 5</title>
-    <id>uuid:8271375425907496726</id>
+    <id>uuid:-5373558780809174694</id>
     <updated>2026-05-27T09:51:45Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_5.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_5.epub" type="application/epub+zip" length="6044934"/>
   </entry>
   <entry>
     <title>The Magician Who Was Constantly Called Incompetent Is Actually the Strongest in the World but Was Imprisoned and Didnt Realize It Volume 6</title>
-    <id>uuid:9202987959205373156</id>
+    <id>uuid:-3593925108730418224</id>
     <updated>2026-05-27T09:51:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_6.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Magician_Who_Was_Constantly_Called_Incompetent_Is_Actually_the_Strongest_in_the_World_but_Was_Imprisoned_and_Didnt_Realize_It_Volume_6.epub" type="application/epub+zip" length="6805004"/>
   </entry>
   <entry>
     <title>The Masked Black Knight Now That My Identitys Been Exposed I Might As Well Dominate the Academy Too Volume 1</title>
-    <id>uuid:-4073961822470967725</id>
+    <id>uuid:4095611472254304</id>
     <updated>2026-05-27T09:43:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Masked_Black_Knight_Now_That_My_Identitys_Been_Exposed_I_Might_As_Well_Dominate_the_Academy_Too_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Masked_Black_Knight_Now_That_My_Identitys_Been_Exposed_I_Might_As_Well_Dominate_the_Academy_Too_Volume_1.epub" type="application/epub+zip" length="4297060"/>
   </entry>
   <entry>
     <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trials Returning to the Pre-Calamity World to Dominate Volume 1</title>
-    <id>uuid:3325461223672219034</id>
+    <id>uuid:6475373046303264023</id>
     <updated>2026-05-27T09:47:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trials_Returning_to_the_Pre-Calamity_World_to_Dominate_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trials_Returning_to_the_Pre-Calamity_World_to_Dominate_Volume_1.epub" type="application/epub+zip" length="3276939"/>
   </entry>
   <entry>
     <title>The Quarter-Beauty of the Class Became My Stepsister I Had Been Unknowingly Flirting With Her Volume 1</title>
-    <id>uuid:-5929507510615821855</id>
+    <id>uuid:-3602559387244808605</id>
     <updated>2026-05-27T09:43:49Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Quarter-Beauty_of_the_Class_Became_My_Stepsister_I_Had_Been_Unknowingly_Flirting_With_Her_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Quarter-Beauty_of_the_Class_Became_My_Stepsister_I_Had_Been_Unknowingly_Flirting_With_Her_Volume_1.epub" type="application/epub+zip" length="3555814"/>
   </entry>
   <entry>
     <title>The Relationship of Play Volume 1</title>
-    <id>uuid:616422301337041012</id>
+    <id>uuid:-8514106623696515445</id>
     <updated>2026-05-27T09:50:09Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Relationship_of_Play_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Relationship_of_Play_Volume_1.epub" type="application/epub+zip" length="5510241"/>
   </entry>
   <entry>
     <title>The Secret Life Of An Honor Student Volume 1</title>
-    <id>uuid:-9096481194634359375</id>
+    <id>uuid:4745283340885081685</id>
     <updated>2026-05-27T09:47:25Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Secret_Life_Of_An_Honor_Student_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Secret_Life_Of_An_Honor_Student_Volume_1.epub" type="application/epub+zip" length="2015247"/>
   </entry>
   <entry>
     <title>The So-Called Solitary Flower is a British Beauty Whos Awkwardly Attached to Me Now That Shes My Stepsister Volume 1</title>
-    <id>uuid:4057557744482718385</id>
+    <id>uuid:-1611840424244599477</id>
     <updated>2026-05-27T09:43:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_1.epub" type="application/epub+zip" length="1735226"/>
   </entry>
   <entry>
     <title>The So-Called Solitary Flower is a British Beauty Whos Awkwardly Attached to Me Now That Shes My Stepsister Volume 2</title>
-    <id>uuid:-4895529948066426406</id>
+    <id>uuid:-6673054417515700697</id>
     <updated>2026-05-27T09:43:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_2.epub" type="application/epub+zip" length="1610782"/>
   </entry>
   <entry>
     <title>The So-Called Solitary Flower is a British Beauty Whos Awkwardly Attached to Me Now That Shes My Stepsister Volume 3</title>
-    <id>uuid:2014264888456823318</id>
+    <id>uuid:-7224471427385092067</id>
     <updated>2026-05-27T09:43:40Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_So-Called_Solitary_Flower_is_a_British_Beauty_Whos_Awkwardly_Attached_to_Me_Now_That_Shes_My_Stepsister_Volume_3.epub" type="application/epub+zip" length="1480073"/>
   </entry>
   <entry>
     <title>The Unsuccessful Yet Academically Unparalleled Sage A Cheating S-Rank Sorcerers Post-Rebirth Adventurer Log Volume 1</title>
-    <id>uuid:37442453856163107</id>
+    <id>uuid:-45596113507575478</id>
     <updated>2026-05-27T06:22:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Unsuccessful_Yet_Academically_Unparalleled_Sage_A_Cheating_S-Rank_Sorcerers_Post-Rebirth_Adventurer_Log_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--The_Unsuccessful_Yet_Academically_Unparalleled_Sage_A_Cheating_S-Rank_Sorcerers_Post-Rebirth_Adventurer_Log_Volume_1.epub" type="application/epub+zip" length="1339786"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters The Four Famous Sisters Cant Live Without Me Volume 1</title>
-    <id>uuid:-1053200184881421144</id>
+    <id>uuid:-6395105229516908540</id>
     <updated>2026-05-27T09:49:37Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_1.epub" type="application/epub+zip" length="9811674"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters The Four Famous Sisters Cant Live Without Me Volume 2</title>
-    <id>uuid:-2069046993605949529</id>
+    <id>uuid:-2273078988709176095</id>
     <updated>2026-05-27T09:49:50Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_2.epub" type="application/epub+zip" length="7401356"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters The Four Famous Sisters Cant Live Without Me Volume 3</title>
-    <id>uuid:-7778336419399882881</id>
+    <id>uuid:-3842271064629389157</id>
     <updated>2026-05-27T09:49:58Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tier_1_Sisters_The_Four_Famous_Sisters_Cant_Live_Without_Me_Volume_3.epub" type="application/epub+zip" length="4320615"/>
   </entry>
   <entry>
     <title>Tsunna Megami-sama to Darenimoienai Himitsu no Kankei Volume 1</title>
-    <id>uuid:-9003520654523509913</id>
+    <id>uuid:7969174780083655872</id>
     <updated>2026-05-27T09:48:01Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tsunna_Megami-sama_to_Darenimoienai_Himitsu_no_Kankei_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tsunna_Megami-sama_to_Darenimoienai_Himitsu_no_Kankei_Volume_1.epub" type="application/epub+zip" length="1260280"/>
   </entry>
   <entry>
     <title>Tsunna Megami-sama to Darenimoienai Himitsu no Kankei Volume 2</title>
-    <id>uuid:6470361929707608073</id>
+    <id>uuid:-5786557123034316687</id>
     <updated>2026-05-27T09:48:11Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tsunna_Megami-sama_to_Darenimoienai_Himitsu_no_Kankei_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Tsunna_Megami-sama_to_Darenimoienai_Himitsu_no_Kankei_Volume_2.epub" type="application/epub+zip" length="1714487"/>
   </entry>
   <entry>
     <title>Uchi no Seiso-kei Inch ga Katsute Chunibyo Aidorudatta Koto o Oredake ga Shitte Iru Volume 1</title>
-    <id>uuid:-7480936872267193902</id>
+    <id>uuid:-4729995194493902421</id>
     <updated>2026-05-27T09:45:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Uchi_no_Seiso-kei_Inch_ga_Katsute_Chunibyo_Aidorudatta_Koto_o_Oredake_ga_Shitte_Iru_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Uchi_no_Seiso-kei_Inch_ga_Katsute_Chunibyo_Aidorudatta_Koto_o_Oredake_ga_Shitte_Iru_Volume_1.epub" type="application/epub+zip" length="5307557"/>
   </entry>
   <entry>
     <title>Uchi no Seiso-kei Inch ga Katsute Chunibyo Aidorudatta Koto o Oredake ga Shitte Iru Volume 2</title>
-    <id>uuid:-4997665799127827972</id>
+    <id>uuid:1352354032545251678</id>
     <updated>2026-05-27T09:45:18Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Uchi_no_Seiso-kei_Inch_ga_Katsute_Chunibyo_Aidorudatta_Koto_o_Oredake_ga_Shitte_Iru_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Uchi_no_Seiso-kei_Inch_ga_Katsute_Chunibyo_Aidorudatta_Koto_o_Oredake_ga_Shitte_Iru_Volume_2.epub" type="application/epub+zip" length="5988363"/>
   </entry>
   <entry>
     <title>Wai no Honto no Shokugyo ga -sei kishi Toka Ienai Volume 1</title>
-    <id>uuid:-6145994402075315653</id>
+    <id>uuid:-7275973668136439458</id>
     <updated>2026-05-27T09:47:54Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Wai_no_Honto_no_Shokugyo_ga_-sei_kishi_Toka_Ienai_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Wai_no_Honto_no_Shokugyo_ga_-sei_kishi_Toka_Ienai_Volume_1.epub" type="application/epub+zip" length="4758650"/>
   </entry>
   <entry>
     <title>When I Reunited with My Older Childhood Friend She and Her Sister Started Fighting Over Me Want to Test Which One of Us is Better Volume 1</title>
-    <id>uuid:-4565596954750269570</id>
+    <id>uuid:-6414705399174595400</id>
     <updated>2026-05-27T09:53:16Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--When_I_Reunited_with_My_Older_Childhood_Friend_She_and_Her_Sister_Started_Fighting_Over_Me_Want_to_Test_Which_One_of_Us_is_Better_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--When_I_Reunited_with_My_Older_Childhood_Friend_She_and_Her_Sister_Started_Fighting_Over_Me_Want_to_Test_Which_One_of_Us_is_Better_Volume_1.epub" type="application/epub+zip" length="7805918"/>
   </entry>
   <entry>
     <title>Yome ni Uwaki Saretara Daigaku Jidai ni Modotte Kimashita Volume 1</title>
-    <id>uuid:3399802641293162600</id>
+    <id>uuid:-70132094422870006</id>
     <updated>2026-05-27T09:52:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yome_ni_Uwaki_Saretara_Daigaku_Jidai_ni_Modotte_Kimashita_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yome_ni_Uwaki_Saretara_Daigaku_Jidai_ni_Modotte_Kimashita_Volume_1.epub" type="application/epub+zip" length="5356637"/>
   </entry>
   <entry>
     <title>Yuukai Saresou ni Natte Iru Kou Tasuketara Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken Volume 1</title>
-    <id>uuid:157154285316505661</id>
+    <id>uuid:6219855755813298894</id>
     <updated>2026-05-27T07:01:09Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_1.epub" type="application/epub+zip" length="3764394"/>
   </entry>
   <entry>
     <title>Yuukai Saresou ni Natte Iru Kou Tasuketara Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken Volume 2</title>
-    <id>uuid:3202778241327908092</id>
+    <id>uuid:2885271768926926525</id>
     <updated>2026-05-27T07:17:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/RJ--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_2.epub" type="application/epub+zip" length="3785764"/>
   </entry>
   <entry>
     <title>.Slimey.Translations.Archery.Senpai.01.-.Shijou.Kanata</title>
-    <id>uuid:-1178119753029366376</id>
+    <id>uuid:7228276743933393351</id>
     <updated>2026-05-27T09:48:25Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--.Slimey.Translations.Archery.Senpai.01.-.Shijou.Kanata.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--.Slimey.Translations.Archery.Senpai.01.-.Shijou.Kanata.epub" type="application/epub+zip" length="10869811"/>
   </entry>
   <entry>
     <title>.Slimey.Translations.Archery.Senpai.02.-.Shijou.Kanata</title>
-    <id>uuid:-5842835428632990739</id>
+    <id>uuid:-6902980731589220777</id>
     <updated>2026-05-27T09:48:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--.Slimey.Translations.Archery.Senpai.02.-.Shijou.Kanata.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--.Slimey.Translations.Archery.Senpai.02.-.Shijou.Kanata.epub" type="application/epub+zip" length="7033305"/>
   </entry>
   <entry>
     <title>10-Nen-buri ni Saikai Shita Kusogaki wa Seijun Bishojo JK ni Seicho Shite Ita Volume 1</title>
-    <id>uuid:1868440185815504744</id>
+    <id>uuid:-1659130300403924528</id>
     <updated>2026-05-27T09:48:29Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_1.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_1.epub" type="application/epub+zip" length="1917003"/>
   </entry>
   <entry>
     <title>10-Nen-buri ni Saikai Shita Kusogaki wa Seijun Bishojo JK ni Seicho Shite Ita Volume 2</title>
-    <id>uuid:3894686572220992670</id>
+    <id>uuid:-1186807992240682902</id>
     <updated>2026-05-27T09:48:33Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_2.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_2.epub" type="application/epub+zip" length="3203379"/>
   </entry>
   <entry>
     <title>10-Nen-buri ni Saikai Shita Kusogaki wa Seijun Bishojo JK ni Seicho Shite Ita Volume 3</title>
-    <id>uuid:-7215467117852212548</id>
+    <id>uuid:-7407228616381367648</id>
     <updated>2026-05-27T09:48:37Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_3.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/RJ--10-Nen-buri_ni_Saikai_Shita_Kusogaki_wa_Seijun_Bishojo_JK_ni_Seicho_Shite_Ita_Volume_3.epub" type="application/epub+zip" length="1615955"/>
   </entry>
 </feed>
