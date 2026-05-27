@@ -1,540 +1,540 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-05-27T18:06:17.590614Z</updated>
+  <updated>2026-05-27T18:22:34.479164Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>Ano natsu ni sasagu ai kotoba   English   Volume 1</title>
-    <id>uuid:8368747644592343861</id>
+    <id>uuid:7723159021945378151</id>
     <updated>2026-05-27T06:45:41Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ano_natsu_ni_sasagu_ai_kotoba___English___Volume_1.epub" type="application/epub+zip" length="2657430"/>
   </entry>
   <entry>
     <title>Bon nou no Kazu Dake Koi o Suru 108-tsu no Sainou e Aiwokomete LN    Volume 1</title>
-    <id>uuid:8964952697264310807</id>
+    <id>uuid:872125988565995425</id>
     <updated>2026-05-27T09:53:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Bon_nou_no_Kazu_Dake_Koi_o_Suru_108-tsu_no_Sainou_e_Aiwokomete_LN____Volume_1.epub" type="application/epub+zip" length="793319"/>
   </entry>
   <entry>
     <title>ENG  Asobi no Kankei   Volume 1</title>
-    <id>uuid:-2241378179786597681</id>
+    <id>uuid:5598408757063436854</id>
     <updated>2026-05-27T06:20:57Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Asobi_no_Kankei___Volume_1.epub" type="application/epub+zip" length="3305110"/>
   </entry>
   <entry>
     <title>ENG  Asobi no Kankei   Volume 2</title>
-    <id>uuid:7255506904279816655</id>
+    <id>uuid:-5582936607277426675</id>
     <updated>2026-05-27T06:21:08Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Asobi_no_Kankei___Volume_2.epub" type="application/epub+zip" length="3003475"/>
   </entry>
   <entry>
     <title>ENG  A childhood friend who has already won but mistakenly believes herself to be the losing heroine   Volume 1</title>
-    <id>uuid:4785109523250019605</id>
+    <id>uuid:-1943545771509913526</id>
     <updated>2026-05-27T06:49:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine___Volume_1.epub" type="application/epub+zip" length="1405608"/>
   </entry>
   <entry>
     <title>ENG  If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy  She Becomes a Commuting Wife and Comes Pressing for a Relationship   Volume 1</title>
-    <id>uuid:-9060941357118431184</id>
+    <id>uuid:-928486262834086770</id>
     <updated>2026-05-27T06:49:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy__She_Becomes_a_Commuting_Wife_and_Comes_Pressing_for_a_Relationship___Volume_1.epub" type="application/epub+zip" length="1548658"/>
   </entry>
   <entry>
     <title>ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class Transfer  Seem Able to Spend a Slow Life with the Beautiful Girls   Volume 1</title>
-    <id>uuid:-292281301539964278</id>
+    <id>uuid:-1756577702957047919</id>
     <updated>2026-05-27T06:21:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class_Transfer__Seem_Able_to_Spend_a_Slow_Life_with_the_Beautiful_Girls___Volume_1.epub" type="application/epub+zip" length="4991276"/>
   </entry>
   <entry>
     <title>ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class Transfer  Seem Able to Spend a Slow Life with the Beautiful Girls   Volume 2</title>
-    <id>uuid:-891040592391641121</id>
+    <id>uuid:3120611651701151586</id>
     <updated>2026-05-27T06:21:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class_Transfer__Seem_Able_to_Spend_a_Slow_Life_with_the_Beautiful_Girls___Volume_2.epub" type="application/epub+zip" length="3994256"/>
   </entry>
   <entry>
     <title>ENG  I Reincarnated as the Brutal Protagonist of a Cruel Erotic Game  but I m Not Actually That Much of a Pervert.  The 18  Plot Twists Keep Coming Anyway    Volume 1</title>
-    <id>uuid:5044902922878328467</id>
+    <id>uuid:-1752090223130936990</id>
     <updated>2026-05-27T06:21:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_Reincarnated_as_the_Brutal_Protagonist_of_a_Cruel_Erotic_Game__but_I_m_Not_Actually_That_Much_of_a_Pervert.__The_18__Plot_Twists_Keep_Coming_Anyway____Volume_1.epub" type="application/epub+zip" length="6668414"/>
   </entry>
   <entry>
     <title>ENG  I was scolded by my younger female instructor again today  English   Volume 1</title>
-    <id>uuid:6329617271691467883</id>
+    <id>uuid:3989910640367446302</id>
     <updated>2026-05-27T06:21:34Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English___Volume_1.epub" type="application/epub+zip" length="935002"/>
   </entry>
   <entry>
     <title>ENG  I was scolded by my younger female instructor again today  English   Volume 2</title>
-    <id>uuid:3066879460535824660</id>
+    <id>uuid:-2793929872900759139</id>
     <updated>2026-05-27T06:21:40Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English___Volume_2.epub" type="application/epub+zip" length="975928"/>
   </entry>
   <entry>
     <title>ENG  Our Secret Youth in the Night School   Volume 1</title>
-    <id>uuid:957664302494405766</id>
+    <id>uuid:2858327945942490321</id>
     <updated>2026-05-27T07:37:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Our_Secret_Youth_in_the_Night_School___Volume_1.epub" type="application/epub+zip" length="2003977"/>
   </entry>
   <entry>
     <title>ENG  Sensei   kisu wa jugyo no han i-gaidesu   English   Volume 1</title>
-    <id>uuid:2011100992959759240</id>
+    <id>uuid:7180568849573997835</id>
     <updated>2026-05-27T07:37:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Sensei___kisu_wa_jugyo_no_han_i-gaidesu___English___Volume_1.epub" type="application/epub+zip" length="1576201"/>
   </entry>
   <entry>
     <title>ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World   Volume 1</title>
-    <id>uuid:1712562856526380409</id>
+    <id>uuid:-3401934433827142421</id>
     <updated>2026-05-27T07:37:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World___Volume_1.epub" type="application/epub+zip" length="3694022"/>
   </entry>
   <entry>
     <title>ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World   Volume 2</title>
-    <id>uuid:8528664548248159366</id>
+    <id>uuid:1362626002772734447</id>
     <updated>2026-05-27T07:38:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World___Volume_2.epub" type="application/epub+zip" length="3724438"/>
   </entry>
   <entry>
     <title>ENG  The Exiled Baron s Son s Magnificent Territory Reform  My Piece-of-Trash Father Called Me Useless  but I m the World s Strongest Dragon Mage   Volume 1</title>
-    <id>uuid:-4445056896101941022</id>
+    <id>uuid:-5379759056000015094</id>
     <updated>2026-05-27T07:37:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_Exiled_Baron_s_Son_s_Magnificent_Territory_Reform__My_Piece-of-Trash_Father_Called_Me_Useless__but_I_m_the_World_s_Strongest_Dragon_Mage___Volume_1.epub" type="application/epub+zip" length="5823582"/>
   </entry>
   <entry>
     <title>ENG  The National Young Lady Bought Worthless Me for 300 Million   Volume 1</title>
-    <id>uuid:9135107465545848998</id>
+    <id>uuid:7301035673079274609</id>
     <updated>2026-05-27T07:37:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_National_Young_Lady_Bought_Worthless_Me_for_300_Million___Volume_1.epub" type="application/epub+zip" length="1038458"/>
   </entry>
   <entry>
     <title>ENG  The Time I Woke Up in Bed with My Childhood Friend Who Happens to Be Way Too Good-Looking   Volume 1</title>
-    <id>uuid:-1722762400915082905</id>
+    <id>uuid:-2453148340802799689</id>
     <updated>2026-05-27T07:37:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_Time_I_Woke_Up_in_Bed_with_My_Childhood_Friend_Who_Happens_to_Be_Way_Too_Good-Looking___Volume_1.epub" type="application/epub+zip" length="5074325"/>
   </entry>
   <entry>
     <title>Eng  Wai no honto no shokugyo ga  -sei kishi  toka ienai   Volume 1</title>
-    <id>uuid:8823171784955717393</id>
+    <id>uuid:659123404972095208</id>
     <updated>2026-05-27T07:37:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eng__Wai_no_honto_no_shokugyo_ga__-sei_kishi__toka_ienai___Volume_1.epub" type="application/epub+zip" length="1705592"/>
   </entry>
   <entry>
     <title>ENG  When I Reunited with My Older Childhood Friend  She and Her Sister Started Fighting Over Me   Want to Test Which One of Us is Better     Volume 1</title>
-    <id>uuid:-9161733806930755313</id>
+    <id>uuid:4917792968573147645</id>
     <updated>2026-05-27T07:37:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__When_I_Reunited_with_My_Older_Childhood_Friend__She_and_Her_Sister_Started_Fighting_Over_Me___Want_to_Test_Which_One_of_Us_is_Better_____Volume_1.epub" type="application/epub+zip" length="1268018"/>
   </entry>
   <entry>
     <title>ENG  Why Did I  a Onee-san Enthusiast  Fall for Tiny You    Volume 1</title>
-    <id>uuid:600097356369273674</id>
+    <id>uuid:4676065616906023127</id>
     <updated>2026-05-27T07:37:39Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Why_Did_I__a_Onee-san_Enthusiast__Fall_for_Tiny_You____Volume_1.epub" type="application/epub+zip" length="1006005"/>
   </entry>
   <entry>
     <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 1</title>
-    <id>uuid:7398250780451441789</id>
+    <id>uuid:-2439616667451562201</id>
     <updated>2026-05-27T06:21:46Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_1.epub" type="application/epub+zip" length="1534955"/>
   </entry>
   <entry>
     <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 2</title>
-    <id>uuid:7506086846899738783</id>
+    <id>uuid:-5152555393543460609</id>
     <updated>2026-05-27T06:21:53Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_2.epub" type="application/epub+zip" length="1533787"/>
   </entry>
   <entry>
     <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 3</title>
-    <id>uuid:-8767315290061240402</id>
+    <id>uuid:-8762846469250213242</id>
     <updated>2026-05-27T06:22:01Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_3.epub" type="application/epub+zip" length="1979199"/>
   </entry>
   <entry>
     <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 1</title>
-    <id>uuid:-67677658976582214</id>
+    <id>uuid:2110297733191643400</id>
     <updated>2026-05-27T06:47:12Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_1.epub" type="application/epub+zip" length="945370"/>
   </entry>
   <entry>
     <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 2</title>
-    <id>uuid:-594612251133643664</id>
+    <id>uuid:-9017834847801518826</id>
     <updated>2026-05-27T06:47:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_2.epub" type="application/epub+zip" length="1189615"/>
   </entry>
   <entry>
     <title>ENG  Exhausted with Life  I Arrived at a Village Where Beautiful Women Won t Let Me Go   Volume 1</title>
-    <id>uuid:3549223935497927046</id>
+    <id>uuid:260226288028592347</id>
     <updated>2026-05-27T06:50:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Exhausted_with_Life__I_Arrived_at_a_Village_Where_Beautiful_Women_Won_t_Let_Me_Go___Volume_1.epub" type="application/epub+zip" length="3851756"/>
   </entry>
   <entry>
     <title>ENG  Hello hello  this is the Quit-Club Alliance    English   Volume 1</title>
-    <id>uuid:-308579346148091242</id>
+    <id>uuid:1184037424558966429</id>
     <updated>2026-05-27T06:50:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Hello_hello__this_is_the_Quit-Club_Alliance____English___Volume_1.epub" type="application/epub+zip" length="1718686"/>
   </entry>
   <entry>
     <title>ENG  Kanojo no ane wa 2-shu-me no kanojo   Volume 1</title>
-    <id>uuid:-7719221727313522781</id>
+    <id>uuid:8356465225987814625</id>
     <updated>2026-05-27T06:50:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Kanojo_no_ane_wa_2-shu-me_no_kanojo___Volume_1.epub" type="application/epub+zip" length="6004090"/>
   </entry>
   <entry>
     <title>ENG  Killed Again  Mr. Detective   Volume 1</title>
-    <id>uuid:6186793565698890975</id>
+    <id>uuid:-7168935092528303357</id>
     <updated>2026-05-27T06:50:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_1.epub" type="application/epub+zip" length="2421500"/>
   </entry>
   <entry>
     <title>ENG  Killed Again  Mr. Detective   Volume 2</title>
-    <id>uuid:2592360768184998242</id>
+    <id>uuid:-8225088656674860762</id>
     <updated>2026-05-27T06:50:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_2.epub" type="application/epub+zip" length="2318406"/>
   </entry>
   <entry>
     <title>ENG  Killed Again  Mr. Detective   Volume 3</title>
-    <id>uuid:-5638949363741323590</id>
+    <id>uuid:-7719225180757048193</id>
     <updated>2026-05-27T06:51:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_3.epub" type="application/epub+zip" length="1506051"/>
   </entry>
   <entry>
     <title>ENG  Onee-chan wa  kanojo de sensei de cho burakon   Volume 1</title>
-    <id>uuid:3030348476102973309</id>
+    <id>uuid:547199256762471620</id>
     <updated>2026-05-27T06:51:13Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Onee-chan_wa__kanojo_de_sensei_de_cho_burakon___Volume_1.epub" type="application/epub+zip" length="4419306"/>
   </entry>
   <entry>
     <title>Farewell Flowers for  AI  Angel Looking For Love LN    Volume 1</title>
-    <id>uuid:-2157211853617337703</id>
+    <id>uuid:-8831718592138365611</id>
     <updated>2026-05-27T06:51:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Farewell_Flowers_for__AI__Angel_Looking_For_Love_LN____Volume_1.epub" type="application/epub+zip" length="404169"/>
   </entry>
   <entry>
     <title>Furaku no Bishoujo Doukyuusei to no Rabukome ga Iijii Moodo Sugiru Ken   Volume 1</title>
-    <id>uuid:2886939199184747831</id>
+    <id>uuid:6162349967289131715</id>
     <updated>2026-05-27T06:51:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Furaku_no_Bishoujo_Doukyuusei_to_no_Rabukome_ga_Iijii_Moodo_Sugiru_Ken___Volume_1.epub" type="application/epub+zip" length="644159"/>
   </entry>
   <entry>
     <title>Higawari kanojo   hatsukoi wa usotsuki no hajimari   English   Volume 1</title>
-    <id>uuid:3334447799864149485</id>
+    <id>uuid:1821647640778581051</id>
     <updated>2026-05-27T07:01:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo___hatsukoi_wa_usotsuki_no_hajimari___English___Volume_1.epub" type="application/epub+zip" length="802557"/>
   </entry>
   <entry>
     <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN    Volume 1</title>
-    <id>uuid:5642118679965455979</id>
+    <id>uuid:8670898453537893000</id>
     <updated>2026-05-27T07:33:41Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN____Volume_1.epub" type="application/epub+zip" length="1751752"/>
   </entry>
   <entry>
     <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN    Volume 2</title>
-    <id>uuid:-8070401348348788981</id>
+    <id>uuid:7623149925835404084</id>
     <updated>2026-05-27T07:33:46Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN____Volume_2.epub" type="application/epub+zip" length="2465447"/>
   </entry>
   <entry>
     <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 1</title>
-    <id>uuid:-8686374285882232411</id>
+    <id>uuid:900250342869101724</id>
     <updated>2026-05-27T07:33:51Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_1.epub" type="application/epub+zip" length="681129"/>
   </entry>
   <entry>
     <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 2</title>
-    <id>uuid:6183541686995443386</id>
+    <id>uuid:7087538445006170301</id>
     <updated>2026-05-27T07:33:54Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_2.epub" type="application/epub+zip" length="601583"/>
   </entry>
   <entry>
     <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 3</title>
-    <id>uuid:-1448407564042235247</id>
+    <id>uuid:2634965986378628213</id>
     <updated>2026-05-27T07:33:57Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_3.epub" type="application/epub+zip" length="673539"/>
   </entry>
   <entry>
     <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 4</title>
-    <id>uuid:-2980808270076024105</id>
+    <id>uuid:3475532066643927919</id>
     <updated>2026-05-27T07:34:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_4.epub" type="application/epub+zip" length="871422"/>
   </entry>
   <entry>
     <title>Ichizuna kanojo ga fura rete kurenai   English   Volume 1</title>
-    <id>uuid:-8127745157325637625</id>
+    <id>uuid:3574111492439391016</id>
     <updated>2026-05-27T07:34:15Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai___English___Volume_1.epub" type="application/epub+zip" length="1327598"/>
   </entry>
   <entry>
     <title>Ippanjin no ore o geino-ka joshi-tachi ga nigashite kurenai kudan LN    Volume 1</title>
-    <id>uuid:-7247978138523360170</id>
+    <id>uuid:5648973502674711568</id>
     <updated>2026-05-27T07:34:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ippanjin_no_ore_o_geino-ka_joshi-tachi_ga_nigashite_kurenai_kudan_LN____Volume_1.epub" type="application/epub+zip" length="1273715"/>
   </entry>
   <entry>
     <title>I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World. But This Is My Second Reincarnation    English   Volume 1</title>
-    <id>uuid:-8018354302337867695</id>
+    <id>uuid:-4169212350597897750</id>
     <updated>2026-05-27T07:34:04Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_Died_Protecting_My_Comrades_and_Was_Reborn_Twenty_Years_Later_in_the_Same_World._But_This_Is_My_Second_Reincarnation____English___Volume_1.epub" type="application/epub+zip" length="697821"/>
   </entry>
   <entry>
     <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some reason  I m revered as the greatest ruler of all time  but can someone tell me why   English   Volume 1</title>
-    <id>uuid:-2652800682250120186</id>
+    <id>uuid:6703841489532440197</id>
     <updated>2026-05-27T07:34:07Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_reason__I_m_revered_as_the_greatest_ruler_of_all_time__but_can_someone_tell_me_why___English___Volume_1.epub" type="application/epub+zip" length="934886"/>
   </entry>
   <entry>
     <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some reason  I m revered as the greatest ruler of all time  but can someone tell me why   English   Volume 2</title>
-    <id>uuid:-3269414776316603570</id>
+    <id>uuid:-1669466486556108108</id>
     <updated>2026-05-27T07:34:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_reason__I_m_revered_as_the_greatest_ruler_of_all_time__but_can_someone_tell_me_why___English___Volume_2.epub" type="application/epub+zip" length="707162"/>
   </entry>
   <entry>
     <title>Jikan wo Tomete Dere Makuru  Saikyou Muteki no Kurono-san   Volume 1</title>
-    <id>uuid:-5477346828434950725</id>
+    <id>uuid:7387703202077188123</id>
     <updated>2026-05-27T07:34:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Jikan_wo_Tomete_Dere_Makuru__Saikyou_Muteki_no_Kurono-san___Volume_1.epub" type="application/epub+zip" length="6044095"/>
   </entry>
   <entry>
     <title>Kanojo wo Deresaseru Houhou wo  Shorai Kekon Suru Oredake ga Shitteiru LN    Volume 1</title>
-    <id>uuid:562279320650047963</id>
+    <id>uuid:7542591987917266817</id>
     <updated>2026-05-27T07:34:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kanojo_wo_Deresaseru_Houhou_wo__Shorai_Kekon_Suru_Oredake_ga_Shitteiru_LN____Volume_1.epub" type="application/epub+zip" length="1221009"/>
   </entry>
   <entry>
     <title>Kokona kanojo to  kanojonoheya de shi teru koto  English   Volume 1</title>
-    <id>uuid:4100943963795983957</id>
+    <id>uuid:-8133576221691682795</id>
     <updated>2026-05-27T07:34:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to__kanojonoheya_de_shi_teru_koto__English___Volume_1.epub" type="application/epub+zip" length="745271"/>
   </entry>
   <entry>
     <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN    Volume 1</title>
-    <id>uuid:7027977374662777441</id>
+    <id>uuid:6238950685564544072</id>
     <updated>2026-05-27T07:34:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN____Volume_1.epub" type="application/epub+zip" length="698654"/>
   </entry>
   <entry>
     <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN    Volume 2</title>
-    <id>uuid:4944431201048845940</id>
+    <id>uuid:-7915366733049171768</id>
     <updated>2026-05-27T07:34:34Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN____Volume_2.epub" type="application/epub+zip" length="632215"/>
   </entry>
   <entry>
     <title>Nawagami-san Wants to Be Tied Up  English   Volume 1</title>
-    <id>uuid:-1303241184884009119</id>
+    <id>uuid:-4547057502838070079</id>
     <updated>2026-05-27T07:34:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Nawagami-san_Wants_to_Be_Tied_Up__English___Volume_1.epub" type="application/epub+zip" length="2627947"/>
   </entry>
   <entry>
     <title>Netori Mahoutsukai no Bouken LN    Volume 1</title>
-    <id>uuid:1698156306463675476</id>
+    <id>uuid:9222939633407881711</id>
     <updated>2026-05-27T07:34:46Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN____Volume_1.epub" type="application/epub+zip" length="706658"/>
   </entry>
   <entry>
     <title>Netori Mahoutsukai no Bouken LN    Volume 2</title>
-    <id>uuid:-3788786182444819425</id>
+    <id>uuid:-845205886501883957</id>
     <updated>2026-05-27T07:34:53Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN____Volume_2.epub" type="application/epub+zip" length="615572"/>
   </entry>
   <entry>
     <title>Omoi tabako o sutteru fukenko-sona toshiue bijin to dorodoro no kankei ni natte ita hanashi  English   Volume 1</title>
-    <id>uuid:7799414790586846026</id>
+    <id>uuid:-6083132288835700900</id>
     <updated>2026-05-27T07:34:57Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko-sona_toshiue_bijin_to_dorodoro_no_kankei_ni_natte_ita_hanashi__English___Volume_1.epub" type="application/epub+zip" length="1423340"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 1</title>
-    <id>uuid:4995712368101613632</id>
+    <id>uuid:972159927799483387</id>
     <updated>2026-05-27T07:35:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_1.epub" type="application/epub+zip" length="987120"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 4</title>
-    <id>uuid:8279078369566804767</id>
+    <id>uuid:4851580679130036358</id>
     <updated>2026-05-27T07:35:06Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_4.epub" type="application/epub+zip" length="1441869"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 5</title>
-    <id>uuid:-2338749211806102686</id>
+    <id>uuid:-7657654421747027992</id>
     <updated>2026-05-27T07:35:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_5.epub" type="application/epub+zip" length="1276958"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 6</title>
-    <id>uuid:-4742006851416864325</id>
+    <id>uuid:1076472276086211212</id>
     <updated>2026-05-27T07:35:16Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_6.epub" type="application/epub+zip" length="1269757"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 7</title>
-    <id>uuid:-8219110015716998816</id>
+    <id>uuid:-8404765916016693795</id>
     <updated>2026-05-27T07:35:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_7.epub" type="application/epub+zip" length="1349315"/>
   </entry>
   <entry>
     <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 8</title>
-    <id>uuid:5886512460537837771</id>
+    <id>uuid:4952958899226058790</id>
     <updated>2026-05-27T07:35:23Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_8.epub" type="application/epub+zip" length="1905582"/>
   </entry>
   <entry>
     <title>Overwhelming Magic Power  The Strongest in Another World  - It Seems These Troubled Beauties Can t Do Without Me   English   Volume 1</title>
-    <id>uuid:3983250737218188873</id>
+    <id>uuid:-1714180533012703698</id>
     <updated>2026-05-27T07:35:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power__The_Strongest_in_Another_World__-_It_Seems_These_Troubled_Beauties_Can_t_Do_Without_Me___English___Volume_1.epub" type="application/epub+zip" length="1076302"/>
   </entry>
   <entry>
     <title>Senchi Kara Kaette Takashi-kun LN    Volume 1</title>
-    <id>uuid:7150695836082929688</id>
+    <id>uuid:4204037573337916155</id>
     <updated>2026-05-27T07:35:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN____Volume_1.epub" type="application/epub+zip" length="3995660"/>
   </entry>
   <entry>
     <title>Senchi Kara Kaette Takashi-kun LN    Volume 2</title>
-    <id>uuid:-8336209911269533185</id>
+    <id>uuid:4771334018429037381</id>
     <updated>2026-05-27T07:36:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN____Volume_2.epub" type="application/epub+zip" length="3966003"/>
   </entry>
   <entry>
     <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 1</title>
-    <id>uuid:-4211244376918063030</id>
+    <id>uuid:5718173183755075529</id>
     <updated>2026-05-27T07:35:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_1.epub" type="application/epub+zip" length="4397391"/>
   </entry>
   <entry>
     <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 2</title>
-    <id>uuid:5292802881083341613</id>
+    <id>uuid:-7722672809012004436</id>
     <updated>2026-05-27T07:35:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_2.epub" type="application/epub+zip" length="5191281"/>
   </entry>
   <entry>
     <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 3</title>
-    <id>uuid:-1096494007761495032</id>
+    <id>uuid:4604812133108949772</id>
     <updated>2026-05-27T07:35:45Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_3.epub" type="application/epub+zip" length="5223735"/>
   </entry>
   <entry>
     <title>Soshiki no Shukuteki to Kekkon Shitara Mecha Amai   Volume 1</title>
-    <id>uuid:-2193326369850504775</id>
+    <id>uuid:413671253259389292</id>
     <updated>2026-05-27T07:36:03Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai___Volume_1.epub" type="application/epub+zip" length="1067678"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 1</title>
-    <id>uuid:977576104391918444</id>
+    <id>uuid:-2106645139803480666</id>
     <updated>2026-05-27T07:36:15Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_1.epub" type="application/epub+zip" length="1918112"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 2</title>
-    <id>uuid:5570902868473978648</id>
+    <id>uuid:1743795018169902782</id>
     <updated>2026-05-27T07:36:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_2.epub" type="application/epub+zip" length="1967644"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 3</title>
-    <id>uuid:4444095683848851240</id>
+    <id>uuid:-3826728538470164628</id>
     <updated>2026-05-27T07:36:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_3.epub" type="application/epub+zip" length="2122887"/>
   </entry>
   <entry>
     <title>Tomodachi ijo uwaki-miman no kanojo-tachi   English   Volume 1</title>
-    <id>uuid:-3672099784379024258</id>
+    <id>uuid:6147423416202659426</id>
     <updated>2026-05-27T07:36:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki-miman_no_kanojo-tachi___English___Volume_1.epub" type="application/epub+zip" length="823072"/>
   </entry>
   <entry>
     <title>TS tensei bishojo-on tora Reiko wa netora reiko   English   Volume 1</title>
-    <id>uuid:5538070762342904752</id>
+    <id>uuid:-6746015855436533478</id>
     <updated>2026-05-27T07:36:07Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English___Volume_1.epub" type="application/epub+zip" length="1012555"/>
   </entry>
   <entry>
     <title>TS tensei bishojo-on tora Reiko wa netora reiko   English   Volume 2</title>
-    <id>uuid:-7287531493936456427</id>
+    <id>uuid:6132230855783555354</id>
     <updated>2026-05-27T07:36:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English___Volume_2.epub" type="application/epub+zip" length="1392613"/>
   </entry>
   <entry>
     <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN    Volume 1</title>
-    <id>uuid:6025702123022711938</id>
+    <id>uuid:3173621558756844018</id>
     <updated>2026-05-27T07:36:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN____Volume_1.epub" type="application/epub+zip" length="1262259"/>
   </entry>
   <entry>
     <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN    Volume 2</title>
-    <id>uuid:8365847879843654105</id>
+    <id>uuid:4860784557376561185</id>
     <updated>2026-05-27T07:36:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN____Volume_2.epub" type="application/epub+zip" length="1085312"/>
   </entry>
   <entry>
     <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English   Volume 1</title>
-    <id>uuid:3573657127450626255</id>
+    <id>uuid:-4736151482903050822</id>
     <updated>2026-05-27T07:36:34Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English___Volume_1.epub" type="application/epub+zip" length="824797"/>
   </entry>
   <entry>
     <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English   Volume 2</title>
-    <id>uuid:-1707199589170703883</id>
+    <id>uuid:-669263573965182485</id>
     <updated>2026-05-27T07:36:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English___Volume_2.epub" type="application/epub+zip" length="1013978"/>
   </entry>
   <entry>
     <title>Yome ni Uwaki Saretara  Daigaku Jidai ni Modotte Kimashita  LN    Volume 1</title>
-    <id>uuid:-8150574643630289757</id>
+    <id>uuid:7594065572588788054</id>
     <updated>2026-05-27T07:36:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yome_ni_Uwaki_Saretara__Daigaku_Jidai_ni_Modotte_Kimashita__LN____Volume_1.epub" type="application/epub+zip" length="485077"/>
   </entry>
   <entry>
     <title>Yuukai Saresou ni Natte Iru Kou Tasuketara Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken Volume 1</title>
-    <id>uuid:6625843884008207839</id>
+    <id>uuid:3659432269242493583</id>
     <updated>2026-05-27T06:22:23Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_1.epub" type="application/epub+zip" length="3764394"/>
   </entry>
   <entry>
     <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken   Volume 1</title>
-    <id>uuid:-365887546178499362</id>
+    <id>uuid:1968256405635562820</id>
     <updated>2026-05-27T07:36:49Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken___Volume_1.epub" type="application/epub+zip" length="1776749"/>
   </entry>
   <entry>
     <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken   Volume 2</title>
-    <id>uuid:873667167720736631</id>
+    <id>uuid:260143158565479036</id>
     <updated>2026-05-27T07:36:45Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken___Volume_2.epub" type="application/epub+zip" length="1161071"/>
   </entry>
   <entry>
     <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 1</title>
-    <id>uuid:-952958476412238192</id>
+    <id>uuid:-959203546610070769</id>
     <updated>2026-05-27T07:36:53Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_1.epub" type="application/epub+zip" length="1024200"/>
   </entry>
   <entry>
     <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 2</title>
-    <id>uuid:-9122310696064297083</id>
+    <id>uuid:6986346025758302603</id>
     <updated>2026-05-27T07:36:57Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_2.epub" type="application/epub+zip" length="744091"/>
   </entry>
   <entry>
     <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 3</title>
-    <id>uuid:-5790476334838878381</id>
+    <id>uuid:368489773789374273</id>
     <updated>2026-05-27T07:37:00Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_3.epub" type="application/epub+zip" length="1230747"/>
   </entry>
   <entry>
     <title>Yuusha Party wo Tsuihou Sareta Hakuma Doushi  S-Rank Bouken Shani Hirowa reru LN    Volume 1</title>
-    <id>uuid:-3571938036834610209</id>
+    <id>uuid:6413130024282334637</id>
     <updated>2026-05-27T07:37:04Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi__S-Rank_Bouken_Shani_Hirowa_reru_LN____Volume_1.epub" type="application/epub+zip" length="602549"/>
   </entry>
   <entry>
     <title>Zense Fujimi no Maou Nitotte Death Game ha Nurusugiru LN    Volume 1</title>
-    <id>uuid:-8116838438024108893</id>
+    <id>uuid:6576630088887586681</id>
     <updated>2026-05-27T07:37:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Zense_Fujimi_no_Maou_Nitotte_Death_Game_ha_Nurusugiru_LN____Volume_1.epub" type="application/epub+zip" length="6083846"/>
   </entry>
   <entry>
     <title>Ojo-sama no oshioki-gakari   sekuhara giwaku de shikkyaku shitara naze ka hentai ojo no goshujinsama ni natta ndaga   English   Volume 1</title>
-    <id>uuid:-1557711032297298069</id>
+    <id>uuid:-3482763526322928491</id>
     <updated>2026-05-27T07:37:47Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--Ojo-sama_no_oshioki-gakari___sekuhara_giwaku_de_shikkyaku_shitara_naze_ka_hentai_ojo_no_goshujinsama_ni_natta_ndaga___English___Volume_1.epub" type="application/epub+zip" length="1099564"/>
   </entry>
