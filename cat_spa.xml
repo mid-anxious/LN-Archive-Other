@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: Spanish Translations</title>
+  <updated>2026-05-27T16:26:59.583861Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_spa.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>TL. 1LDK.Soshite.2JK.-.Volumen.01.EHJR</title>
+    <id>uuid:-5694383190894256967</id>
+    <updated>2026-05-27T06:37:18Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.01.EHJR.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>TL. 1LDK.Soshite.2JK.-.Volumen.02.EHJR</title>
+    <id>uuid:-4840451463188471816</id>
+    <updated>2026-05-27T06:37:26Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.02.EHJR.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>TL. 1LDK.Soshite.2JK.-.Volumen.03.EHJR</title>
+    <id>uuid:8191231967041956804</id>
+    <updated>2026-05-27T06:37:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.03.EHJR.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>TL. 1LDK.Soshite.2JK.-.Volumen.04.EHJR</title>
+    <id>uuid:-296781047700767426</id>
+    <updated>2026-05-27T06:37:41Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.04.EHJR.epub" type="application/epub+zip"/>
+  </entry>
+</feed>
