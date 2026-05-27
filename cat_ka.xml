@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: Kaori Translations</title>
+  <updated>2026-05-27T07:58:56.846108Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title> Ano natsu ni sasagu ai kotoba   English   Volume 1</title>
+    <id>uuid:2531724802453120802</id>
+    <updated>2026-05-27T02:05:23Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Ano_natsu_ni_sasagu_ai_kotoba___English___Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Bon nou no Kazu Dake Koi o Suru 108-tsu no Sainou e Aiwokomete LN    Volume 1</title>
+    <id>uuid:6470260495879164240</id>
+    <updated>2026-05-27T02:10:27Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Bon_nou_no_Kazu_Dake_Koi_o_Suru_108-tsu_no_Sainou_e_Aiwokomete_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 1</title>
+    <id>uuid:3635357154352303382</id>
+    <updated>2026-05-27T02:11:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 2</title>
+    <id>uuid:6542792883179875219</id>
+    <updated>2026-05-27T02:11:28Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_2.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Dauna Kei no Gyaru Yukikawa-san LN    Volume 1</title>
+    <id>uuid:2763232353128593843</id>
+    <updated>2026-05-27T02:11:33Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Dauna_Kei_no_Gyaru_Yukikawa-san_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 1</title>
+    <id>uuid:6717954488167805817</id>
+    <updated>2026-05-27T02:16:27Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 2</title>
+    <id>uuid:-7133019735160106224</id>
+    <updated>2026-05-27T02:16:30Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_2.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 1</title>
+    <id>uuid:2741911295406484940</id>
+    <updated>2026-05-27T02:16:33Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 2</title>
+    <id>uuid:-6752348463376504191</id>
+    <updated>2026-05-27T02:16:36Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_2.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 3</title>
+    <id>uuid:8084912218667325690</id>
+    <updated>2026-05-27T02:16:44Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_3.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Farewell Flowers for  AI  Angel Looking For Love LN    Volume 1</title>
+    <id>uuid:7407380209483932321</id>
+    <updated>2026-05-27T02:16:47Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Farewell_Flowers_for__AI__Angel_Looking_For_Love_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title> Furaku no Bishoujo Doukyuusei to no Rabukome ga Iijii Moodo Sugiru Ken   Volume 1</title>
+    <id>uuid:-6978431102801760605</id>
+    <updated>2026-05-27T02:21:28Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA._Furaku_no_Bishoujo_Doukyuusei_to_no_Rabukome_ga_Iijii_Moodo_Sugiru_Ken___Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+</feed>
