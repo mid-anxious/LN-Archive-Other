@@ -1,43 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Miscellaneous</title>
-  <updated>2026-05-27T07:58:56.845907Z</updated>
+  <updated>2026-05-27T16:26:59.581173Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
-    <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 1</title>
-    <id>uuid:1548004116176138966</id>
-    <updated>2026-05-27T02:04:22Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_1.epub" type="application/epub+zip"/>
+    <title>Alone.in.a.Room.With.a.Beautifu.-.Kizu.Kanada</title>
+    <id>uuid:-5929281435194505444</id>
+    <updated>2026-05-27T09:55:31Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone.in.a.Room.With.a.Beautifu.-.Kizu.Kanada.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 2</title>
-    <id>uuid:6750382246651071764</id>
-    <updated>2026-05-27T02:04:26Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_2.epub" type="application/epub+zip"/>
+    <title>Angel.Only.Drinks.Soda.v01</title>
+    <id>uuid:-1214076760956470163</id>
+    <updated>2026-05-27T09:55:12Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v01.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 3</title>
-    <id>uuid:-1086911037000926571</id>
-    <updated>2026-05-27T02:04:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_3.epub" type="application/epub+zip"/>
+    <title>Angel.Only.Drinks.Soda.v02</title>
+    <id>uuid:774565323931000978</id>
+    <updated>2026-05-27T09:55:18Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v02.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <title>A Story Of Taking Home A Lonely Gal From My Class And Turning Her Into An Elegant Beauty Volume 4</title>
-    <id>uuid:8580575889984663118</id>
-    <updated>2026-05-27T02:04:44Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/A_Story_Of_Taking_Home_A_Lonely_Gal_From_My_Class_And_Turning_Her_Into_An_Elegant_Beauty_Volume_4.epub" type="application/epub+zip"/>
+    <title>Angel.Only.Drinks.Soda.v03</title>
+    <id>uuid:1684282556544353649</id>
+    <updated>2026-05-27T09:55:21Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v03.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <title>Amari-chan the Girl I Found Next to the Number-One Girl Everyone Wants as a Girlfriend Volume 1</title>
-    <id>uuid:-7481853077164665724</id>
-    <updated>2026-05-27T02:05:18Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Amari-chan_the_Girl_I_Found_Next_to_the_Number-One_Girl_Everyone_Wants_as_a_Girlfriend_Volume_1.epub" type="application/epub+zip"/>
+    <title>Angel.Only.Drinks.Soda.v04</title>
+    <id>uuid:3902396531125960963</id>
+    <updated>2026-05-27T09:55:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v04.epub" type="application/epub+zip"/>
   </entry>
   <entry>
-    <title>Ascendance of a Scummy Hero Volume 1</title>
-    <id>uuid:-598992331515832848</id>
-    <updated>2026-05-27T02:08:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Ascendance_of_a_Scummy_Hero_Volume_1.epub" type="application/epub+zip"/>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 1</title>
+    <id>uuid:8941177680353192450</id>
+    <updated>2026-05-27T03:20:24Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 2</title>
+    <id>uuid:8975639144397698611</id>
+    <updated>2026-05-27T03:20:27Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_2.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>1LDK Soshite 2JK Volume 2 English</title>
+    <id>uuid:4870367823813590000</id>
+    <updated>2026-05-27T06:33:36Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK_Volume_2_English.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.01.-.Futaba.Ono</title>
+    <id>uuid:3371740596667807122</id>
+    <updated>2026-05-27T09:55:41Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.01.-.Futaba.Ono.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.02.-.Futaba.Ono</title>
+    <id>uuid:-3541650619542283026</id>
+    <updated>2026-05-27T09:55:54Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.02.-.Futaba.Ono.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.03.-.Futaba.Ono</title>
+    <id>uuid:938012993489644987</id>
+    <updated>2026-05-27T09:56:07Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.03.-.Futaba.Ono.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame.v01</title>
+    <id>uuid:8645581491074018185</id>
+    <updated>2026-05-27T09:57:28Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v01.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame.v02</title>
+    <id>uuid:3165676834367730911</id>
+    <updated>2026-05-27T09:57:20Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v02.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame.v03</title>
+    <id>uuid:1639815525369932956</id>
+    <updated>2026-05-27T09:57:35Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v03.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame Volume4 Final</title>
+    <id>uuid:2277536929279575516</id>
+    <updated>2026-05-27T09:56:17Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume4_Final.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame Volume5 Final</title>
+    <id>uuid:6159231533809569663</id>
+    <updated>2026-05-27T09:56:26Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume5_Final.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>RabuDame Volume6 Final</title>
+    <id>uuid:-6361007357191992019</id>
+    <updated>2026-05-27T09:56:29Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume6_Final.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>ReincarnatedVillainEnjoyingYouth volume 1</title>
+    <id>uuid:-5461884907721359804</id>
+    <updated>2026-05-27T09:57:42Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>ReincarnatedVillainEnjoyingYouth volume 2</title>
+    <id>uuid:-8803170000364993555</id>
+    <updated>2026-05-27T09:57:51Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_2.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>The.Method.to.Make.That.Novelist-Wannabe.Write</title>
+    <id>uuid:8097208195507096422</id>
+    <updated>2026-05-27T09:57:57Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The.Method.to.Make.That.Novelist-Wannabe.Write.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>.Slimey.Translations. Secret Night Call 01</title>
+    <id>uuid:-3905928124621851287</id>
+    <updated>2026-05-27T09:55:04Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--.Slimey.Translations._Secret_Night_Call_01.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>1LDK.Soshite.2JK.-.Volume.01</title>
+    <id>uuid:7642559341226469478</id>
+    <updated>2026-05-27T09:54:35Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1LDK.Soshite.2JK.-.Volume.01.epub" type="application/epub+zip"/>
   </entry>
 </feed>
