@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Main Library</title>
-  <updated>2026-05-27T18:22:34.482497Z</updated>
+  <updated>2026-05-27T19:53:01.771835Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>EsNovels</title>
-    <id>uuid:-7347042239986379928</id>
-    <updated>2026-05-27T18:22:34.482510Z</updated>
+    <id>uuid:9199416324752250957</id>
+    <updated>2026-05-27T19:53:01.771848Z</updated>
     <content type="text">Browse books from EsNovels</content>
     <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_es.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
   <entry>
     <title>Kaori Translations</title>
-    <id>uuid:-1430752314358535622</id>
-    <updated>2026-05-27T18:22:34.482526Z</updated>
+    <id>uuid:-5187395192011491354</id>
+    <updated>2026-05-27T19:53:01.771861Z</updated>
     <content type="text">Browse books from Kaori Translations</content>
     <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
   <entry>
+    <title>KDT Translations</title>
+    <id>uuid:5588956638539557440</id>
+    <updated>2026-05-27T19:53:01.771869Z</updated>
+    <content type="text">Browse books from KDT Translations</content>
+    <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_kdt.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
     <title>Miscellaneous</title>
-    <id>uuid:3385903866100617781</id>
-    <updated>2026-05-27T18:22:34.482539Z</updated>
+    <id>uuid:-7602683830478414175</id>
+    <updated>2026-05-27T19:53:01.771875Z</updated>
     <content type="text">Browse books from Miscellaneous</content>
     <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
   <entry>
     <title>RJ-Novels</title>
-    <id>uuid:-8576388546444270765</id>
-    <updated>2026-05-27T18:22:34.482549Z</updated>
+    <id>uuid:-1543738689838799637</id>
+    <updated>2026-05-27T19:53:01.771881Z</updated>
     <content type="text">Browse books from RJ-Novels</content>
     <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_rj.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
   <entry>
-    <title>Yuki Kitsuneko</title>
-    <id>uuid:8002705425768595564</id>
-    <updated>2026-05-27T18:22:34.482558Z</updated>
-    <content type="text">Browse books from Yuki Kitsuneko</content>
-    <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
-  </entry>
-  <entry>
-    <title>KDT Translations</title>
-    <id>uuid:-4524032548204450568</id>
-    <updated>2026-05-27T18:22:34.482566Z</updated>
-    <content type="text">Browse books from KDT Translations</content>
-    <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_kdt.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
-  </entry>
-  <entry>
     <title>Spanish Translations</title>
-    <id>uuid:6847473607804370151</id>
-    <updated>2026-05-27T18:22:34.482574Z</updated>
+    <id>uuid:3269042535990224555</id>
+    <updated>2026-05-27T19:53:01.771887Z</updated>
     <content type="text">Browse books from Spanish Translations</content>
     <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_spa.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  </entry>
+  <entry>
+    <title>Yuki Kitsuneko</title>
+    <id>uuid:-2670304586255896096</id>
+    <updated>2026-05-27T19:53:01.771893Z</updated>
+    <content type="text">Browse books from Yuki Kitsuneko</content>
+    <link rel="subsection" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   </entry>
 </feed>
