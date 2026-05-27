@@ -1,139 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Miscellaneous</title>
-  <updated>2026-05-27T18:22:34.479950Z</updated>
+  <updated>2026-05-27T19:53:01.769735Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>Alone.in.a.Room.With.a.Beautifu.-.Kizu.Kanada</title>
-    <id>uuid:-4398692576961779343</id>
+    <id>uuid:-7694511637856311455</id>
     <updated>2026-05-27T09:55:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone.in.a.Room.With.a.Beautifu.-.Kizu.Kanada.epub" type="application/epub+zip" length="11965452"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone.in.a.Room.With.a.Beautifu.-.Kizu.Kanada.epub" type="application/epub+zip" title="Original" length="11965452"/>
   </entry>
   <entry>
     <title>Angel.Only.Drinks.Soda.v01</title>
-    <id>uuid:-2723571225957365334</id>
+    <id>uuid:-2905556358532733017</id>
     <updated>2026-05-27T09:55:12Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v01.epub" type="application/epub+zip" length="3348764"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v01.epub" type="application/epub+zip" title="Original" length="3348764"/>
   </entry>
   <entry>
     <title>Angel.Only.Drinks.Soda.v02</title>
-    <id>uuid:-2105332473912416819</id>
+    <id>uuid:-8971172619619321906</id>
     <updated>2026-05-27T09:55:18Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v02.epub" type="application/epub+zip" length="6533274"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v02.epub" type="application/epub+zip" title="Original" length="6533274"/>
   </entry>
   <entry>
     <title>Angel.Only.Drinks.Soda.v03</title>
-    <id>uuid:2596011703368028670</id>
+    <id>uuid:8047963150628571436</id>
     <updated>2026-05-27T09:55:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v03.epub" type="application/epub+zip" length="2273414"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v03.epub" type="application/epub+zip" title="Original" length="2273414"/>
   </entry>
   <entry>
     <title>Angel.Only.Drinks.Soda.v04</title>
-    <id>uuid:-285926759202528157</id>
+    <id>uuid:8660801929445230887</id>
     <updated>2026-05-27T09:55:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v04.epub" type="application/epub+zip" length="1499563"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel.Only.Drinks.Soda.v04.epub" type="application/epub+zip" title="Original" length="1499563"/>
   </entry>
   <entry>
     <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 1</title>
-    <id>uuid:8276483109683157377</id>
+    <id>uuid:-870254976427681925</id>
     <updated>2026-05-27T03:20:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_1.epub" type="application/epub+zip" length="1536612"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1536612"/>
   </entry>
   <entry>
     <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN    Volume 2</title>
-    <id>uuid:9144990710901034242</id>
+    <id>uuid:-36370057248400040</id>
     <updated>2026-05-27T03:20:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_2.epub" type="application/epub+zip" length="1539619"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="1539619"/>
   </entry>
   <entry>
     <title>1LDK Soshite 2JK Volume 2 English</title>
-    <id>uuid:-4085732492334073718</id>
+    <id>uuid:8620161210582440091</id>
     <updated>2026-05-27T06:33:36Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK_Volume_2_English.epub" type="application/epub+zip" length="7729260"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK_Volume_2_English.epub" type="application/epub+zip" title="Original" length="7729260"/>
   </entry>
   <entry>
     <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.01.-.Futaba.Ono</title>
-    <id>uuid:1527423812834703997</id>
+    <id>uuid:5494535680037564652</id>
     <updated>2026-05-27T09:55:41Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.01.-.Futaba.Ono.epub" type="application/epub+zip" length="10958272"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.01.-.Futaba.Ono.epub" type="application/epub+zip" title="Original" length="10958272"/>
   </entry>
   <entry>
     <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.02.-.Futaba.Ono</title>
-    <id>uuid:-66050789253994878</id>
+    <id>uuid:-6702314742838866295</id>
     <updated>2026-05-27T09:55:54Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.02.-.Futaba.Ono.epub" type="application/epub+zip" length="5285600"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.02.-.Futaba.Ono.epub" type="application/epub+zip" title="Original" length="5285600"/>
   </entry>
   <entry>
     <title>Love.Comedy.Which.Nurtured.With.a.Mom.Friend.03.-.Futaba.Ono</title>
-    <id>uuid:1512038213757344757</id>
+    <id>uuid:5061018553215605332</id>
     <updated>2026-05-27T09:56:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.03.-.Futaba.Ono.epub" type="application/epub+zip" length="5750541"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love.Comedy.Which.Nurtured.With.a.Mom.Friend.03.-.Futaba.Ono.epub" type="application/epub+zip" title="Original" length="5750541"/>
   </entry>
   <entry>
     <title>RabuDame.v01</title>
-    <id>uuid:-7338650380390469134</id>
+    <id>uuid:-7154763935644724704</id>
     <updated>2026-05-27T09:57:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v01.epub" type="application/epub+zip" length="22718915"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v01.epub" type="application/epub+zip" title="Original" length="22718915"/>
   </entry>
   <entry>
     <title>RabuDame.v02</title>
-    <id>uuid:-2014354628590464962</id>
+    <id>uuid:-7972414613710482999</id>
     <updated>2026-05-27T09:57:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v02.epub" type="application/epub+zip" length="56146217"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v02.epub" type="application/epub+zip" title="Original" length="56146217"/>
   </entry>
   <entry>
     <title>RabuDame.v03</title>
-    <id>uuid:7051107493388032753</id>
+    <id>uuid:2880389682529856353</id>
     <updated>2026-05-27T09:57:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v03.epub" type="application/epub+zip" length="9201855"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame.v03.epub" type="application/epub+zip" title="Original" length="9201855"/>
   </entry>
   <entry>
     <title>RabuDame Volume4 Final</title>
-    <id>uuid:-888974776026810310</id>
+    <id>uuid:2929469200052346684</id>
     <updated>2026-05-27T09:56:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume4_Final.epub" type="application/epub+zip" length="8305304"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume4_Final.epub" type="application/epub+zip" title="Original" length="8305304"/>
   </entry>
   <entry>
     <title>RabuDame Volume5 Final</title>
-    <id>uuid:-5213383567429138377</id>
+    <id>uuid:-1366184825029594299</id>
     <updated>2026-05-27T09:56:26Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume5_Final.epub" type="application/epub+zip" length="8093822"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume5_Final.epub" type="application/epub+zip" title="Original" length="8093822"/>
   </entry>
   <entry>
     <title>RabuDame Volume6 Final</title>
-    <id>uuid:5447890117953234774</id>
+    <id>uuid:-4934527468971388754</id>
     <updated>2026-05-27T09:56:29Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume6_Final.epub" type="application/epub+zip" length="2403450"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame_Volume6_Final.epub" type="application/epub+zip" title="Original" length="2403450"/>
   </entry>
   <entry>
     <title>ReincarnatedVillainEnjoyingYouth volume 1</title>
-    <id>uuid:6246662166448449062</id>
+    <id>uuid:6272425343327463603</id>
     <updated>2026-05-27T09:57:42Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_1.epub" type="application/epub+zip" length="3851450"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_1.epub" type="application/epub+zip" title="Original" length="3851450"/>
   </entry>
   <entry>
     <title>ReincarnatedVillainEnjoyingYouth volume 2</title>
-    <id>uuid:7807685715679842257</id>
+    <id>uuid:4868808262128391069</id>
     <updated>2026-05-27T09:57:51Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_2.epub" type="application/epub+zip" length="3852608"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth_volume_2.epub" type="application/epub+zip" title="Original" length="3852608"/>
   </entry>
   <entry>
     <title>The.Method.to.Make.That.Novelist-Wannabe.Write</title>
-    <id>uuid:-3648855335387267470</id>
+    <id>uuid:-2752742710604286802</id>
     <updated>2026-05-27T09:57:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The.Method.to.Make.That.Novelist-Wannabe.Write.epub" type="application/epub+zip" length="2254752"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The.Method.to.Make.That.Novelist-Wannabe.Write.epub" type="application/epub+zip" title="Original" length="2254752"/>
+  </entry>
+  <entry>
+    <title>The Jack-of-all-trades Kicked Out of the Heros Party  The Swordsman Who Became a Support Mage Due to Party Circumstances Becomes All Powerful Volume 1</title>
+    <id>uuid:-1391912592102939561</id>
+    <updated>2026-05-27T03:03:16Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip" title="Original" length="1516386"/>
   </entry>
   <entry>
     <title>.Slimey.Translations. Secret Night Call 01</title>
-    <id>uuid:-7973403669432835133</id>
+    <id>uuid:2081937927609111375</id>
     <updated>2026-05-27T09:55:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--.Slimey.Translations._Secret_Night_Call_01.epub" type="application/epub+zip" length="11111385"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--.Slimey.Translations._Secret_Night_Call_01.epub" type="application/epub+zip" title="Original" length="11111385"/>
   </entry>
   <entry>
     <title>1LDK.Soshite.2JK.-.Volume.01</title>
-    <id>uuid:-4050526509157900332</id>
+    <id>uuid:-136522155477632722</id>
     <updated>2026-05-27T09:54:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1LDK.Soshite.2JK.-.Volume.01.epub" type="application/epub+zip" length="4077942"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1LDK.Soshite.2JK.-.Volume.01.epub" type="application/epub+zip" title="Original" length="4077942"/>
   </entry>
 </feed>
