@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: EsNovels</title>
+  <updated>2026-05-27T07:58:56.846082Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_es.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>About the Case Where the Beautiful Girl I Rescued by Chance Became Attached to Me for Some Reason Volume 1</title>
+    <id>uuid:-8071906561248320339</id>
+    <updated>2026-05-27T02:04:55Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/About_the_Case_Where_the_Beautiful_Girl_I_Rescued_by_Chance_Became_Attached_to_Me_for_Some_Reason_Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>After School at a Family Restaurant at Night With That Girl From My Class Volume 1</title>
+    <id>uuid:-2045105966741320658</id>
+    <updated>2026-05-27T02:05:02Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_1.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>After School at a Family Restaurant at Night With That Girl From My Class Volume 2</title>
+    <id>uuid:3673554757975901305</id>
+    <updated>2026-05-27T02:05:11Z</updated>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/After_School_at_a_Family_Restaurant_at_Night_With_That_Girl_From_My_Class_Volume_2.epub" type="application/epub+zip"/>
+  </entry>
+</feed>
