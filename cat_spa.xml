@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Spanish Translations</title>
-  <updated>2026-05-27T16:26:59.583861Z</updated>
+  <updated>2026-05-27T18:06:17.593288Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_spa.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>TL. 1LDK.Soshite.2JK.-.Volumen.01.EHJR</title>
-    <id>uuid:-5694383190894256967</id>
+    <id>uuid:37024052639934127</id>
     <updated>2026-05-27T06:37:18Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.01.EHJR.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.01.EHJR.epub" type="application/epub+zip" length="7074033"/>
   </entry>
   <entry>
     <title>TL. 1LDK.Soshite.2JK.-.Volumen.02.EHJR</title>
-    <id>uuid:-4840451463188471816</id>
+    <id>uuid:8857230875728207496</id>
     <updated>2026-05-27T06:37:26Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.02.EHJR.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.02.EHJR.epub" type="application/epub+zip" length="7705802"/>
   </entry>
   <entry>
     <title>TL. 1LDK.Soshite.2JK.-.Volumen.03.EHJR</title>
-    <id>uuid:8191231967041956804</id>
+    <id>uuid:-1868785162649655657</id>
     <updated>2026-05-27T06:37:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.03.EHJR.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.03.EHJR.epub" type="application/epub+zip" length="6266091"/>
   </entry>
   <entry>
     <title>TL. 1LDK.Soshite.2JK.-.Volumen.04.EHJR</title>
-    <id>uuid:-296781047700767426</id>
+    <id>uuid:7993367158203734387</id>
     <updated>2026-05-27T06:37:41Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.04.EHJR.epub" type="application/epub+zip"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Spa--TL._1LDK.Soshite.2JK.-.Volumen.04.EHJR.epub" type="application/epub+zip" length="6999100"/>
   </entry>
 </feed>
