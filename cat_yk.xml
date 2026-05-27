@@ -1,798 +1,798 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-05-27T18:06:17.592001Z</updated>
+  <updated>2026-05-27T18:22:34.480892Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>After.I.Picked.Up.a.Black.Cat.My.House.Became.a.Hant.Spot.For.Two.Beautiful.Girls.01.-.Manashiro.Kanata</title>
-    <id>uuid:-7829616018267550185</id>
+    <id>uuid:1029605667734424514</id>
     <updated>2026-05-27T03:32:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After.I.Picked.Up.a.Black.Cat.My.House.Became.a.Hant.Spot.For.Two.Beautiful.Girls.01.-.Manashiro.Kanata.epub" type="application/epub+zip" length="21567122"/>
   </entry>
   <entry>
     <title>After.I.Picked.Up.a.Black.Cat.My.House.Became.a.Hant.Spot.For.Two.Beautiful.Girls.02.-.Manashiro.Kanata</title>
-    <id>uuid:-7289246681339917275</id>
+    <id>uuid:-8180035235206559460</id>
     <updated>2026-05-27T03:32:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After.I.Picked.Up.a.Black.Cat.My.House.Became.a.Hant.Spot.For.Two.Beautiful.Girls.02.-.Manashiro.Kanata.epub" type="application/epub+zip" length="24602539"/>
   </entry>
   <entry>
     <title>Arrogant Queen  Vol 1</title>
-    <id>uuid:-8685605125647212098</id>
+    <id>uuid:-6722186390698154305</id>
     <updated>2026-05-27T03:13:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Arrogant_Queen__Vol_1.epub" type="application/epub+zip" length="36566361"/>
   </entry>
   <entry>
     <title>Arrogant Queen  Vol 2</title>
-    <id>uuid:-3968636758177185008</id>
+    <id>uuid:3335004618299357714</id>
     <updated>2026-05-27T03:14:07Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Arrogant_Queen__Vol_2.epub" type="application/epub+zip" length="35717852"/>
   </entry>
   <entry>
     <title>Arrogant Queen  Vol 3</title>
-    <id>uuid:-3385433452103330164</id>
+    <id>uuid:4875440376718268835</id>
     <updated>2026-05-27T03:15:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Arrogant_Queen__Vol_3.epub" type="application/epub+zip" length="38319880"/>
   </entry>
   <entry>
     <title>Arrogant Queen  Vol 4</title>
-    <id>uuid:-1367979416361887048</id>
+    <id>uuid:-6157256829135814006</id>
     <updated>2026-05-27T03:16:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Arrogant_Queen__Vol_4.epub" type="application/epub+zip" length="32722149"/>
   </entry>
   <entry>
     <title>AV.App .Lovey-Dovey.Sex.with.My.Crush.in.Another.Dimension.01.The.-.Burrill.Bernard</title>
-    <id>uuid:-1687143514178517371</id>
+    <id>uuid:-7233691635397216509</id>
     <updated>2026-05-27T03:33:10Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--AV.App_.Lovey-Dovey.Sex.with.My.Crush.in.Another.Dimension.01.The.-.Burrill.Bernard.epub" type="application/epub+zip" length="24340841"/>
   </entry>
   <entry>
     <title>beast.tamer.who.got.kicked.out.from.the.hero.party.om.the.superior.race.-.Volume.6.The.-.Suzu.Miyama</title>
-    <id>uuid:-1913854788583097089</id>
+    <id>uuid:4001566936401832355</id>
     <updated>2026-05-27T03:34:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast.tamer.who.got.kicked.out.from.the.hero.party.om.the.superior.race.-.Volume.6.The.-.Suzu.Miyama.epub" type="application/epub+zip" length="37145695"/>
   </entry>
   <entry>
     <title>beast.tamer.who.got.kicked.out.from.the.hero.party.rom.the.superior.race.-.Volume.4.The.-.Miyama.Suzu</title>
-    <id>uuid:6571425741749681596</id>
+    <id>uuid:2974316021579717901</id>
     <updated>2026-05-27T03:35:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast.tamer.who.got.kicked.out.from.the.hero.party.rom.the.superior.race.-.Volume.4.The.-.Miyama.Suzu.epub" type="application/epub+zip" length="31833287"/>
   </entry>
   <entry>
     <title>beast.tamer.who.got.kicked.out.from.the.hero.party.rom.the.superior.race.-.Volume.5.The.-.Miyama.Suzu</title>
-    <id>uuid:7442878747410683262</id>
+    <id>uuid:1005051645661376588</id>
     <updated>2026-05-27T03:35:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast.tamer.who.got.kicked.out.from.the.hero.party.rom.the.superior.race.-.Volume.5.The.-.Miyama.Suzu.epub" type="application/epub+zip" length="36385700"/>
   </entry>
   <entry>
     <title>Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Part.Girl.From.the.Superior.Race.07.The.-.Suzu.Miyama</title>
-    <id>uuid:-291415073703880304</id>
+    <id>uuid:4728771659253708387</id>
     <updated>2026-05-27T03:33:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Part.Girl.From.the.Superior.Race.07.The.-.Suzu.Miyama.epub" type="application/epub+zip" length="36500946"/>
   </entry>
   <entry>
     <title>Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Part.Girl.From.the.Superior.Race.08.The.-.Suzu.Miyama</title>
-    <id>uuid:576292365548129496</id>
+    <id>uuid:-4294631523630202456</id>
     <updated>2026-05-27T03:33:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Part.Girl.From.the.Superior.Race.08.The.-.Suzu.Miyama.epub" type="application/epub+zip" length="40739563"/>
   </entry>
   <entry>
     <title>Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Party.Girl.From.the.Superior.Race.09.The.-.Suzu.Miyama</title>
-    <id>uuid:3207919599024897461</id>
+    <id>uuid:-3339827233560556</id>
     <updated>2026-05-27T03:34:23Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast.Tamer.Who.Got.Kicked.Out.From.the.Heroes.Party.Girl.From.the.Superior.Race.09.The.-.Suzu.Miyama.epub" type="application/epub+zip" length="32730250"/>
   </entry>
   <entry>
     <title>Bizarre Love Triangle  Vol 1</title>
-    <id>uuid:4182449749773215486</id>
+    <id>uuid:3361650594663793155</id>
     <updated>2026-05-27T03:18:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Bizarre_Love_Triangle__Vol_1.epub" type="application/epub+zip" length="51351502"/>
   </entry>
   <entry>
     <title>Bizarre Love Triangle  Vol 2</title>
-    <id>uuid:-1282504323054324295</id>
+    <id>uuid:8680449831411001671</id>
     <updated>2026-05-27T03:19:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Bizarre_Love_Triangle__Vol_2.epub" type="application/epub+zip" length="40680713"/>
   </entry>
   <entry>
     <title>Danshi Da  Vol 1</title>
-    <id>uuid:18026807044423850</id>
+    <id>uuid:997244008806400484</id>
     <updated>2026-05-27T03:19:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Danshi_Da__Vol_1.epub" type="application/epub+zip" length="12993778"/>
   </entry>
   <entry>
     <title>Danshi Da  Vol 2</title>
-    <id>uuid:3973453520980364228</id>
+    <id>uuid:8086613464925476927</id>
     <updated>2026-05-27T03:19:52Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Danshi_Da__Vol_2.epub" type="application/epub+zip" length="5652089"/>
   </entry>
   <entry>
     <title>Danshi Da  Vol 3</title>
-    <id>uuid:4182439233076683782</id>
+    <id>uuid:3082147697471724604</id>
     <updated>2026-05-27T03:20:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Danshi_Da__Vol_3.epub" type="application/epub+zip" length="15635813"/>
   </entry>
   <entry>
     <title>Dauna Kei no Gyaru Yukikawa-san LN    Volume 1</title>
-    <id>uuid:-1074073428947553215</id>
+    <id>uuid:-6477324480684617624</id>
     <updated>2026-05-27T03:20:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Dauna_Kei_no_Gyaru_Yukikawa-san_LN____Volume_1.epub" type="application/epub+zip" length="2493412"/>
   </entry>
   <entry>
     <title>Demure Girl After School Library Romcom  Vol 1</title>
-    <id>uuid:-63491759854485873</id>
+    <id>uuid:7539951310584806262</id>
     <updated>2026-05-27T03:21:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Demure_Girl_After_School_Library_Romcom__Vol_1.epub" type="application/epub+zip" length="39388582"/>
   </entry>
   <entry>
     <title>Demure Girl After School Library Romcom  Vol 2</title>
-    <id>uuid:2368481927556749979</id>
+    <id>uuid:2992394677265078668</id>
     <updated>2026-05-27T03:22:38Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Demure_Girl_After_School_Library_Romcom__Vol_2.epub" type="application/epub+zip" length="55132884"/>
   </entry>
   <entry>
     <title>Demure Girl After School Library Romcom  Vol 3</title>
-    <id>uuid:8727762525143355639</id>
+    <id>uuid:-7202086773321868675</id>
     <updated>2026-05-27T03:23:42Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Demure_Girl_After_School_Library_Romcom__Vol_3.epub" type="application/epub+zip" length="51521466"/>
   </entry>
   <entry>
     <title>Feeding the Cutest Gal  Vol 1</title>
-    <id>uuid:1896281428597927289</id>
+    <id>uuid:7605917990110899922</id>
     <updated>2026-05-27T03:26:23Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Feeding_the_Cutest_Gal__Vol_1.epub" type="application/epub+zip" length="27009141"/>
   </entry>
   <entry>
     <title>Feeding the Cutest Gal  Vol 2</title>
-    <id>uuid:4559518670290468183</id>
+    <id>uuid:2010571761872357236</id>
     <updated>2026-05-27T03:26:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Feeding_the_Cutest_Gal__Vol_2.epub" type="application/epub+zip" length="19030806"/>
   </entry>
   <entry>
     <title>Feeding the Cutest Gal  Vol 3</title>
-    <id>uuid:-8006178817585530542</id>
+    <id>uuid:-6558271722867046934</id>
     <updated>2026-05-27T03:27:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Feeding_the_Cutest_Gal__Vol_3.epub" type="application/epub+zip" length="32550229"/>
   </entry>
   <entry>
     <title>Fixing a Gals Bike  Vol 1</title>
-    <id>uuid:-558051623157842134</id>
+    <id>uuid:3611860343388710683</id>
     <updated>2026-05-27T03:27:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Fixing_a_Gals_Bike__Vol_1.epub" type="application/epub+zip" length="45628459"/>
   </entry>
   <entry>
     <title>Fixing a Gals Bike  Vol 2</title>
-    <id>uuid:-534724584838764820</id>
+    <id>uuid:-8739593904900303559</id>
     <updated>2026-05-27T03:28:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Fixing_a_Gals_Bike__Vol_2.epub" type="application/epub+zip" length="45401512"/>
   </entry>
   <entry>
     <title>Fixing a Gals Bike  Vol 3</title>
-    <id>uuid:-9007450784111169694</id>
+    <id>uuid:6039522780999777666</id>
     <updated>2026-05-27T03:29:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Fixing_a_Gals_Bike__Vol_3.epub" type="application/epub+zip" length="29970626"/>
   </entry>
   <entry>
     <title>Gal.Next.Door.Tries.Too.Hard.To.Win.My.Heart.01.The.-.Tokiwa.Youshou</title>
-    <id>uuid:-9055656386348190409</id>
+    <id>uuid:5707301532790255177</id>
     <updated>2026-05-27T03:24:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal.Next.Door.Tries.Too.Hard.To.Win.My.Heart.01.The.-.Tokiwa.Youshou.epub" type="application/epub+zip" length="30874368"/>
   </entry>
   <entry>
     <title>Gal.Next.Door.Tries.Too.Hard.To.Win.My.Heart.02.The.-.Tokiwa.Youshou</title>
-    <id>uuid:1428742114485886993</id>
+    <id>uuid:-3074821581788526147</id>
     <updated>2026-05-27T03:25:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal.Next.Door.Tries.Too.Hard.To.Win.My.Heart.02.The.-.Tokiwa.Youshou.epub" type="application/epub+zip" length="41490270"/>
   </entry>
   <entry>
     <title>Giving Love Advice to the Schools Cutest Girl  Vol 1</title>
-    <id>uuid:-6778316918879699220</id>
+    <id>uuid:1902020195881497704</id>
     <updated>2026-05-27T03:29:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Giving_Love_Advice_to_the_Schools_Cutest_Girl__Vol_1.epub" type="application/epub+zip" length="55172340"/>
   </entry>
   <entry>
     <title>Giving Love Advice to the Schools Cutest Girl  Vol 2</title>
-    <id>uuid:-5132453260475091338</id>
+    <id>uuid:-6736746645415143449</id>
     <updated>2026-05-27T03:30:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Giving_Love_Advice_to_the_Schools_Cutest_Girl__Vol_2.epub" type="application/epub+zip" length="54053831"/>
   </entry>
   <entry>
     <title>Giving Love Advice to the Schools Cutest Girl  Vol 3</title>
-    <id>uuid:7902253874243226771</id>
+    <id>uuid:8620507851661555351</id>
     <updated>2026-05-27T03:31:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Giving_Love_Advice_to_the_Schools_Cutest_Girl__Vol_3.epub" type="application/epub+zip" length="48199570"/>
   </entry>
   <entry>
     <title>Gunatsu .The.Beautiful.Girl.I.Happened.to.Save.Won.t.Let.Me.Go.01.-.Sakuranomiya.Amane</title>
-    <id>uuid:5564875987630115934</id>
+    <id>uuid:-5391214724104113676</id>
     <updated>2026-05-27T03:31:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_.The.Beautiful.Girl.I.Happened.to.Save.Won.t.Let.Me.Go.01.-.Sakuranomiya.Amane.epub" type="application/epub+zip" length="18754757"/>
   </entry>
   <entry>
     <title>Gunatsu .The.Beautiful.Girl.I.Happened.to.Save.Won.t.Let.Me.Go.02.-.Sakuranomiya.Amane</title>
-    <id>uuid:-8948185321107810496</id>
+    <id>uuid:-6608016442082091508</id>
     <updated>2026-05-27T03:31:57Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_.The.Beautiful.Girl.I.Happened.to.Save.Won.t.Let.Me.Go.02.-.Sakuranomiya.Amane.epub" type="application/epub+zip" length="15511106"/>
   </entry>
   <entry>
     <title>Hammered Girl  Vol 1</title>
-    <id>uuid:1763195993760277506</id>
+    <id>uuid:-5602367375408048910</id>
     <updated>2026-05-27T04:46:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Hammered_Girl__Vol_1.epub" type="application/epub+zip" length="53226222"/>
   </entry>
   <entry>
     <title>He.Cant.Let.His.Guard.Down.01.-.Eyama.Takahashi</title>
-    <id>uuid:5658172139664840122</id>
+    <id>uuid:-1368402610386460386</id>
     <updated>2026-05-27T07:31:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--He.Cant.Let.His.Guard.Down.01.-.Eyama.Takahashi.epub" type="application/epub+zip" length="35826043"/>
   </entry>
   <entry>
     <title>Her Older Sister Is Her on a Second Loop  Vol 1</title>
-    <id>uuid:1496803088186750126</id>
+    <id>uuid:-6731749578150225184</id>
     <updated>2026-05-27T04:47:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Her_Older_Sister_Is_Her_on_a_Second_Loop__Vol_1.epub" type="application/epub+zip" length="57718940"/>
   </entry>
   <entry>
     <title>Hoshigasaki-san the Cutest Girl in My Grade  Vol 1</title>
-    <id>uuid:453146164484709056</id>
+    <id>uuid:-4807370134486666145</id>
     <updated>2026-05-27T04:48:23Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Hoshigasaki-san_the_Cutest_Girl_in_My_Grade__Vol_1.epub" type="application/epub+zip" length="46706226"/>
   </entry>
   <entry>
     <title>Houkago Famiresu de  Vol 1</title>
-    <id>uuid:1484002242711358969</id>
+    <id>uuid:8628358483615465724</id>
     <updated>2026-05-27T04:48:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu_de__Vol_1.epub" type="application/epub+zip" length="4408603"/>
   </entry>
   <entry>
     <title>Houkago Famiresu de  Vol 2</title>
-    <id>uuid:2944965271992576435</id>
+    <id>uuid:-2868329716604133812</id>
     <updated>2026-05-27T04:48:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu_de__Vol_2.epub" type="application/epub+zip" length="5924991"/>
   </entry>
   <entry>
     <title>It.Was.Like.Petals.Dancing.Through.a.Raging.Wind.02.-.Yu.Arisawa</title>
-    <id>uuid:-4807542337115762852</id>
+    <id>uuid:1826013372085359899</id>
     <updated>2026-05-27T07:33:15Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It.Was.Like.Petals.Dancing.Through.a.Raging.Wind.02.-.Yu.Arisawa.epub" type="application/epub+zip" length="22349732"/>
   </entry>
   <entry>
     <title>JimiKawa  Vol 4</title>
-    <id>uuid:6189324353417203564</id>
+    <id>uuid:2871209759573245111</id>
     <updated>2026-05-27T04:48:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--JimiKawa__Vol_4.epub" type="application/epub+zip" length="4533506"/>
   </entry>
   <entry>
     <title>JimiKawa  Vol 5</title>
-    <id>uuid:-1660932667854059319</id>
+    <id>uuid:7512588272006323344</id>
     <updated>2026-05-27T04:49:31Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--JimiKawa__Vol_5.epub" type="application/epub+zip" length="38960324"/>
   </entry>
   <entry>
     <title>JimiKawa  Vol 6</title>
-    <id>uuid:1317604399970886033</id>
+    <id>uuid:-8751229892975714092</id>
     <updated>2026-05-27T04:50:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--JimiKawa__Vol_6.epub" type="application/epub+zip" length="84860301"/>
   </entry>
   <entry>
     <title>JimiKawa  Vol 7</title>
-    <id>uuid:2618838225549214758</id>
+    <id>uuid:1670734390229191245</id>
     <updated>2026-05-27T04:52:13Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--JimiKawa__Vol_7.epub" type="application/epub+zip" length="78500012"/>
   </entry>
   <entry>
     <title>JimiKawa  Vol 8</title>
-    <id>uuid:8738469582554473685</id>
+    <id>uuid:8417263152685331321</id>
     <updated>2026-05-27T04:53:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--JimiKawa__Vol_8.epub" type="application/epub+zip" length="85103378"/>
   </entry>
   <entry>
     <title>Kanojo Ni Shitai  Vol 1</title>
-    <id>uuid:-5614218507952893016</id>
+    <id>uuid:-2250686704062010789</id>
     <updated>2026-05-27T04:53:28Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Kanojo_Ni_Shitai__Vol_1.epub" type="application/epub+zip" length="13819508"/>
   </entry>
   <entry>
     <title>Kanojo Ni Shitai  Vol 2</title>
-    <id>uuid:4031367126880310810</id>
+    <id>uuid:-7612866467983155502</id>
     <updated>2026-05-27T04:53:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Kanojo_Ni_Shitai__Vol_2.epub" type="application/epub+zip" length="11636960"/>
   </entry>
   <entry>
     <title>Life Reversal  Vol 1</title>
-    <id>uuid:2271796232608447358</id>
+    <id>uuid:-365108331622608150</id>
     <updated>2026-05-27T04:54:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Life_Reversal__Vol_1.epub" type="application/epub+zip" length="17195339"/>
   </entry>
   <entry>
     <title>Life Reversal  Vol 2</title>
-    <id>uuid:1458177918320387296</id>
+    <id>uuid:5215937798290069024</id>
     <updated>2026-05-27T04:54:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Life_Reversal__Vol_2.epub" type="application/epub+zip" length="21169343"/>
   </entry>
   <entry>
     <title>Life Reversal  Vol 3</title>
-    <id>uuid:-5351364746658699055</id>
+    <id>uuid:3075155700382717522</id>
     <updated>2026-05-27T04:55:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Life_Reversal__Vol_3.epub" type="application/epub+zip" length="47333914"/>
   </entry>
   <entry>
     <title>Love-Ignorant Abandoned JK  Vol 1</title>
-    <id>uuid:2654350213475974113</id>
+    <id>uuid:7552728953245862101</id>
     <updated>2026-05-27T04:56:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Love-Ignorant_Abandoned_JK__Vol_1.epub" type="application/epub+zip" length="44982142"/>
   </entry>
   <entry>
     <title>Love-Ignorant Abandoned JK  Vol 2</title>
-    <id>uuid:4602794714288714555</id>
+    <id>uuid:7304969699131298713</id>
     <updated>2026-05-27T04:57:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Love-Ignorant_Abandoned_JK__Vol_2.epub" type="application/epub+zip" length="44728022"/>
   </entry>
   <entry>
     <title>Love Ranking  Vol 1</title>
-    <id>uuid:1725834903968089651</id>
+    <id>uuid:7168451293029143674</id>
     <updated>2026-05-27T04:57:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Love_Ranking__Vol_1.epub" type="application/epub+zip" length="15846248"/>
   </entry>
   <entry>
     <title>Love Talk  Vol 1</title>
-    <id>uuid:-829569765762541212</id>
+    <id>uuid:7031632175776377972</id>
     <updated>2026-05-27T04:58:02Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Love_Talk__Vol_1.epub" type="application/epub+zip" length="15985288"/>
   </entry>
   <entry>
     <title>Love Talk  Vol 2</title>
-    <id>uuid:-908515886871079237</id>
+    <id>uuid:-4086205822952566528</id>
     <updated>2026-05-27T04:58:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Love_Talk__Vol_2.epub" type="application/epub+zip" length="11424912"/>
   </entry>
   <entry>
     <title>Most Beautiful Girl  Vol 1</title>
-    <id>uuid:8598407257028165711</id>
+    <id>uuid:-699005473856772381</id>
     <updated>2026-05-27T04:58:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Most_Beautiful_Girl__Vol_1.epub" type="application/epub+zip" length="3785752"/>
   </entry>
   <entry>
     <title>Most Beautiful Girl  Vol 2</title>
-    <id>uuid:4760216942126749930</id>
+    <id>uuid:-5475862910394015667</id>
     <updated>2026-05-27T04:58:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Most_Beautiful_Girl__Vol_2.epub" type="application/epub+zip" length="2456989"/>
   </entry>
   <entry>
     <title>Most Beautiful Girl  Vol 3</title>
-    <id>uuid:-8604994301444320420</id>
+    <id>uuid:-8018872803456489225</id>
     <updated>2026-05-27T04:58:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Most_Beautiful_Girl__Vol_3.epub" type="application/epub+zip" length="3851862"/>
   </entry>
   <entry>
     <title>Most Beautiful Girl  Vol 4</title>
-    <id>uuid:-3351621194726890441</id>
+    <id>uuid:8105109219886847915</id>
     <updated>2026-05-27T04:58:51Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Most_Beautiful_Girl__Vol_4.epub" type="application/epub+zip" length="4311785"/>
   </entry>
   <entry>
     <title>Most Beautiful Girl  Vol 5</title>
-    <id>uuid:6855911855033226951</id>
+    <id>uuid:59511870187083562</id>
     <updated>2026-05-27T04:59:05Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Most_Beautiful_Girl__Vol_5.epub" type="application/epub+zip" length="3787720"/>
   </entry>
   <entry>
     <title>My.Childhood.Friend.Is.Always.Down.Whenever.I.Make.a.Move.01.-.Yuu.Kagami</title>
-    <id>uuid:7624859565447366693</id>
+    <id>uuid:-8270724020603826770</id>
     <updated>2026-05-27T04:59:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Childhood.Friend.Is.Always.Down.Whenever.I.Make.a.Move.01.-.Yuu.Kagami.epub" type="application/epub+zip" length="30512516"/>
   </entry>
   <entry>
     <title>My.Childhood.Friend.Thought.I.Was.Dead.and.Now.Her.Love.Is.Way.Too.Heavy.1</title>
-    <id>uuid:-3303681530388131584</id>
+    <id>uuid:-5641832312344309852</id>
     <updated>2026-05-27T05:00:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Childhood.Friend.Thought.I.Was.Dead.and.Now.Her.Love.Is.Way.Too.Heavy.1.epub" type="application/epub+zip" length="51955627"/>
   </entry>
   <entry>
     <title>My.Daily.Life.of.Just.Having.Meals.with.My.Beautiful.Coworker.from.Sales.01.-.Nanaten</title>
-    <id>uuid:8919561440390595795</id>
+    <id>uuid:2082403346050532893</id>
     <updated>2026-05-27T07:33:30Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Daily.Life.of.Just.Having.Meals.with.My.Beautiful.Coworker.from.Sales.01.-.Nanaten.epub" type="application/epub+zip" length="24149242"/>
   </entry>
   <entry>
     <title>My.Daily.Life.of.Just.Having.Meals.with.My.Beautiful.Coworker.from.Sales.02.-.Nanaten</title>
-    <id>uuid:-6105777427803036345</id>
+    <id>uuid:6336592880325316527</id>
     <updated>2026-05-27T07:33:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Daily.Life.of.Just.Having.Meals.with.My.Beautiful.Coworker.from.Sales.02.-.Nanaten.epub" type="application/epub+zip" length="26848958"/>
   </entry>
   <entry>
     <title>My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.01.-</title>
-    <id>uuid:-3858485380726702557</id>
+    <id>uuid:-2732801745852781632</id>
     <updated>2026-05-27T05:00:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.01.-.epub" type="application/epub+zip" length="13384020"/>
   </entry>
   <entry>
     <title>My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.02.-</title>
-    <id>uuid:-4411121105438224656</id>
+    <id>uuid:-7354173386478448572</id>
     <updated>2026-05-27T05:01:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.02.-.epub" type="application/epub+zip" length="12632519"/>
   </entry>
   <entry>
     <title>My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.03.-</title>
-    <id>uuid:7883689829568909987</id>
+    <id>uuid:748167357081552</id>
     <updated>2026-05-27T05:01:39Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My.Plain-Looking.Fiance.is.Secretly.Sweet.with.Me.03.-.epub" type="application/epub+zip" length="55599808"/>
   </entry>
   <entry>
     <title>My Beautiful Single Boss  Vol 1</title>
-    <id>uuid:-7236303851013137902</id>
+    <id>uuid:6255495631167949956</id>
     <updated>2026-05-27T05:02:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Beautiful_Single_Boss__Vol_1.epub" type="application/epub+zip" length="44306646"/>
   </entry>
   <entry>
     <title>My Beautiful Single Boss  Vol 2</title>
-    <id>uuid:-7397067477722025273</id>
+    <id>uuid:-2558264953687565652</id>
     <updated>2026-05-27T05:03:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Beautiful_Single_Boss__Vol_2.epub" type="application/epub+zip" length="47125154"/>
   </entry>
   <entry>
     <title>My Beautiful Single Boss  Vol 3</title>
-    <id>uuid:-447070916016727797</id>
+    <id>uuid:3423688627043556650</id>
     <updated>2026-05-27T05:04:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Beautiful_Single_Boss__Vol_3.epub" type="application/epub+zip" length="52135359"/>
   </entry>
   <entry>
     <title>My Life Do Over  Vol 1</title>
-    <id>uuid:-4870468950612179757</id>
+    <id>uuid:9081084858706449054</id>
     <updated>2026-05-27T05:04:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Life_Do_Over__Vol_1.epub" type="application/epub+zip" length="51109461"/>
   </entry>
   <entry>
     <title>My Wife from the Neighboring Country Is So Cute  Vol 1</title>
-    <id>uuid:-1216065726834416694</id>
+    <id>uuid:-7103140209548037043</id>
     <updated>2026-05-27T05:05:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Wife_from_the_Neighboring_Country_Is_So_Cute__Vol_1.epub" type="application/epub+zip" length="30443659"/>
   </entry>
   <entry>
     <title>My Wife from the Neighboring Country Is So Cute  Vol 2</title>
-    <id>uuid:2484891989668325021</id>
+    <id>uuid:8570527239730715752</id>
     <updated>2026-05-27T05:06:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Wife_from_the_Neighboring_Country_Is_So_Cute__Vol_2.epub" type="application/epub+zip" length="52032784"/>
   </entry>
   <entry>
     <title>My Wife from the Neighboring Country Is So Cute  Vol 3</title>
-    <id>uuid:-7802512046106606334</id>
+    <id>uuid:-6076993332771063772</id>
     <updated>2026-05-27T05:07:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Wife_from_the_Neighboring_Country_Is_So_Cute__Vol_3.epub" type="application/epub+zip" length="58502629"/>
   </entry>
   <entry>
     <title>Noblesse Replica  Vol 1</title>
-    <id>uuid:6552881184269968305</id>
+    <id>uuid:6950322012074692891</id>
     <updated>2026-05-27T05:07:46Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Noblesse_Replica__Vol_1.epub" type="application/epub+zip" length="27301941"/>
   </entry>
   <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-</title>
-    <id>uuid:3286486067570765875</id>
+    <id>uuid:1556213278670520754</id>
     <updated>2026-05-27T07:32:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.epub" type="application/epub+zip" length="25563445"/>
   </entry>
   <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-</title>
-    <id>uuid:4345651473909701428</id>
+    <id>uuid:-5434021072849694110</id>
     <updated>2026-05-27T07:32:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-.epub" type="application/epub+zip" length="10539865"/>
   </entry>
   <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-</title>
-    <id>uuid:-5699043778871104456</id>
+    <id>uuid:-729864006087195523</id>
     <updated>2026-05-27T07:32:55Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-.epub" type="application/epub+zip" length="16084555"/>
   </entry>
   <entry>
     <title>Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-</title>
-    <id>uuid:-1490740961846593954</id>
+    <id>uuid:-3357386081904154648</id>
     <updated>2026-05-27T07:33:22Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-.epub" type="application/epub+zip" length="21477781"/>
   </entry>
   <entry>
     <title>Our.28.Days.of.Longing.for.the.End.-.Mochizuki.Kurage</title>
-    <id>uuid:5549320095492335975</id>
+    <id>uuid:3130901442082925306</id>
     <updated>2026-05-27T07:31:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Our.28.Days.of.Longing.for.the.End.-.Mochizuki.Kurage.epub" type="application/epub+zip" length="8436523"/>
   </entry>
   <entry>
     <title>Quderella Next Door  Vol 1</title>
-    <id>uuid:-3507541353191409628</id>
+    <id>uuid:4912611290003889480</id>
     <updated>2026-05-27T05:08:11Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Quderella_Next_Door__Vol_1.epub" type="application/epub+zip" length="8785316"/>
   </entry>
   <entry>
     <title>Quderella Next Door  Vol 2</title>
-    <id>uuid:-4657002493720322597</id>
+    <id>uuid:2603348976321647381</id>
     <updated>2026-05-27T05:08:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Quderella_Next_Door__Vol_2.epub" type="application/epub+zip" length="15503679"/>
   </entry>
   <entry>
     <title>Quderella Next Door  Vol 3</title>
-    <id>uuid:7970513334166450236</id>
+    <id>uuid:-3442507764514277732</id>
     <updated>2026-05-27T05:08:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Quderella_Next_Door__Vol_3.epub" type="application/epub+zip" length="16060281"/>
   </entry>
   <entry>
     <title>Quderella Next Door  Vol 4</title>
-    <id>uuid:-5565754961126751151</id>
+    <id>uuid:1028352552781146377</id>
     <updated>2026-05-27T05:09:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Quderella_Next_Door__Vol_4.epub" type="application/epub+zip" length="16214934"/>
   </entry>
   <entry>
     <title>Reincarnated.Lord.s.Troublesome.Sex.Techniques.-.Lupinus.Lunargeist</title>
-    <id>uuid:-7281570558164015723</id>
+    <id>uuid:-5455072760367773516</id>
     <updated>2026-05-27T07:32:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Reincarnated.Lord.s.Troublesome.Sex.Techniques.-.Lupinus.Lunargeist.epub" type="application/epub+zip" length="55534120"/>
   </entry>
   <entry>
     <title>Saving a Pair of Beautiful Yandere Twins  Vol 1</title>
-    <id>uuid:5598460685530944152</id>
+    <id>uuid:5830442249342322370</id>
     <updated>2026-05-27T05:09:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Saving_a_Pair_of_Beautiful_Yandere_Twins__Vol_1.epub" type="application/epub+zip" length="15861774"/>
   </entry>
   <entry>
     <title>Saving a Pair of Beautiful Yandere Twins  Vol 2</title>
-    <id>uuid:-4994106724559165455</id>
+    <id>uuid:-4489468073695742152</id>
     <updated>2026-05-27T05:10:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Saving_a_Pair_of_Beautiful_Yandere_Twins__Vol_2.epub" type="application/epub+zip" length="35742214"/>
   </entry>
   <entry>
     <title>Secretly Holding Hands with You Behind Our Friends Back  Vol 1</title>
-    <id>uuid:603851255957579384</id>
+    <id>uuid:-6133695482035873194</id>
     <updated>2026-05-27T05:11:59Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Secretly_Holding_Hands_with_You_Behind_Our_Friends_Back__Vol_1.epub" type="application/epub+zip" length="54386558"/>
   </entry>
   <entry>
     <title>Secretly Holding Hands with You Behind Our Friends Back  Vol 2</title>
-    <id>uuid:-1420524429934732962</id>
+    <id>uuid:8505054414739019645</id>
     <updated>2026-05-27T07:01:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Secretly_Holding_Hands_with_You_Behind_Our_Friends_Back__Vol_2.epub" type="application/epub+zip" length="52752925"/>
   </entry>
   <entry>
     <title>SekaOsa .Forever.and.Always.My.Childhood.Friend.is.the.Cutest.Girl.in.the.World.-.Aoki.Fuyu</title>
-    <id>uuid:-5368117877467108089</id>
+    <id>uuid:1744604792360224265</id>
     <updated>2026-05-27T07:30:40Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--SekaOsa_.Forever.and.Always.My.Childhood.Friend.is.the.Cutest.Girl.in.the.World.-.Aoki.Fuyu.epub" type="application/epub+zip" length="11884257"/>
   </entry>
   <entry>
     <title>Shes Usually a Serious Class Representative  Vol 1</title>
-    <id>uuid:2024464611869672948</id>
+    <id>uuid:2928217187079848810</id>
     <updated>2026-05-27T07:22:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shes_Usually_a_Serious_Class_Representative__Vol_1.epub" type="application/epub+zip" length="23252143"/>
   </entry>
   <entry>
     <title>Shes Usually a Serious Class Representative  Vol 2</title>
-    <id>uuid:8020294697319656221</id>
+    <id>uuid:-6169864353938348113</id>
     <updated>2026-05-27T07:22:24Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shes_Usually_a_Serious_Class_Representative__Vol_2.epub" type="application/epub+zip" length="28251126"/>
   </entry>
   <entry>
     <title>Shes Usually a Serious Class Representative  Vol 3</title>
-    <id>uuid:8120417640492255552</id>
+    <id>uuid:-3080173506127522092</id>
     <updated>2026-05-27T07:22:48Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shes_Usually_a_Serious_Class_Representative__Vol_3.epub" type="application/epub+zip" length="58617182"/>
   </entry>
   <entry>
     <title>Shimotsuki-san.Loves.The.Mob.01.-</title>
-    <id>uuid:-2010484815492324271</id>
+    <id>uuid:-712662382880959738</id>
     <updated>2026-05-27T07:23:16Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shimotsuki-san.Loves.The.Mob.01.-.epub" type="application/epub+zip" length="23138608"/>
   </entry>
   <entry>
     <title>Shimotsuki-san Loves The Mob  Vol 2</title>
-    <id>uuid:-1686530639598559561</id>
+    <id>uuid:-8094766700949948266</id>
     <updated>2026-05-27T07:23:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shimotsuki-san_Loves_The_Mob__Vol_2.epub" type="application/epub+zip" length="16632576"/>
   </entry>
   <entry>
     <title>Shimotsuki-san Loves The Mob  Vol 3</title>
-    <id>uuid:-812892978093314464</id>
+    <id>uuid:-1092423491305018340</id>
     <updated>2026-05-27T07:23:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shimotsuki-san_Loves_The_Mob__Vol_3.epub" type="application/epub+zip" length="33069462"/>
   </entry>
   <entry>
     <title>Shimotsuki-san Loves The Mob  Vol 4</title>
-    <id>uuid:-2594752587254968026</id>
+    <id>uuid:38348671204760905</id>
     <updated>2026-05-27T07:23:35Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shimotsuki-san_Loves_The_Mob__Vol_4.epub" type="application/epub+zip" length="18304936"/>
   </entry>
   <entry>
     <title>Shimotsuki-san Loves The Mob  Vol 5</title>
-    <id>uuid:5614375934968704289</id>
+    <id>uuid:-3971362892728367861</id>
     <updated>2026-05-27T07:24:12Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Shimotsuki-san_Loves_The_Mob__Vol_5.epub" type="application/epub+zip" length="45793208"/>
   </entry>
   <entry>
     <title>Small But Big Nanase-San  Vol 1</title>
-    <id>uuid:-1902281091411582244</id>
+    <id>uuid:3971253275235952102</id>
     <updated>2026-05-27T07:24:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Small_But_Big_Nanase-San__Vol_1.epub" type="application/epub+zip" length="12064886"/>
   </entry>
   <entry>
     <title>Small But Big Nanase-San  Vol 2</title>
-    <id>uuid:2864827547731749898</id>
+    <id>uuid:5705099680931367130</id>
     <updated>2026-05-27T07:24:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Small_But_Big_Nanase-San__Vol_2.epub" type="application/epub+zip" length="31522677"/>
   </entry>
   <entry>
     <title>Small But Big Nanase-San  Vol 3</title>
-    <id>uuid:6361450060265458482</id>
+    <id>uuid:-1052176252346906503</id>
     <updated>2026-05-27T07:24:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Small_But_Big_Nanase-San__Vol_3.epub" type="application/epub+zip" length="47506869"/>
   </entry>
   <entry>
     <title>So.It.Never.Happens.Again.I.ll.Die.With.You.One.More.Time.-.Goya.Manaka</title>
-    <id>uuid:62944382175685217</id>
+    <id>uuid:-922325504910710508</id>
     <updated>2026-05-27T07:32:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--So.It.Never.Happens.Again.I.ll.Die.With.You.One.More.Time.-.Goya.Manaka.epub" type="application/epub+zip" length="8098521"/>
   </entry>
   <entry>
     <title>Spoiled on the Veranda  Vol 1</title>
-    <id>uuid:1937492439879130121</id>
+    <id>uuid:-3178528630161131873</id>
     <updated>2026-05-27T07:25:03Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Spoiled_on_the_Veranda__Vol_1.epub" type="application/epub+zip" length="28637070"/>
   </entry>
   <entry>
     <title>That Promise Once More  Vol 1</title>
-    <id>uuid:3073690826365694835</id>
+    <id>uuid:-3408581218553371478</id>
     <updated>2026-05-27T07:26:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--That_Promise_Once_More__Vol_1.epub" type="application/epub+zip" length="56681855"/>
   </entry>
   <entry>
     <title>The.Youth.Rewrite.of.Me.Who.Was.Fired.from.My.Band.and.My.Favorite.High.School.Girl</title>
-    <id>uuid:-2460499656145027320</id>
+    <id>uuid:1346117204565018928</id>
     <updated>2026-05-27T03:43:13Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The.Youth.Rewrite.of.Me.Who.Was.Fired.from.My.Band.and.My.Favorite.High.School.Girl.epub" type="application/epub+zip" length="16447502"/>
   </entry>
   <entry>
     <title>There.is.No.Alternate.Solution.to.this.Youth.The.Science.Notes.by.and.02.-.Sakai.Takuma</title>
-    <id>uuid:-3449956774457806076</id>
+    <id>uuid:3315810797021628826</id>
     <updated>2026-05-27T07:27:34Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--There.is.No.Alternate.Solution.to.this.Youth.The.Science.Notes.by.and.02.-.Sakai.Takuma.epub" type="application/epub+zip" length="28513606"/>
   </entry>
   <entry>
     <title>The Love x3 From That Day Wont End  Vol 1</title>
-    <id>uuid:-57555803724000468</id>
+    <id>uuid:-6546612982488228409</id>
     <updated>2026-05-27T07:26:25Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_1.epub" type="application/epub+zip" length="16938470"/>
   </entry>
   <entry>
     <title>The Love x3 From That Day Wont End  Vol 2</title>
-    <id>uuid:-5343430856488821187</id>
+    <id>uuid:1150219254539934399</id>
     <updated>2026-05-27T07:26:37Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_2.epub" type="application/epub+zip" length="49197653"/>
   </entry>
   <entry>
     <title>The S-Rank Beauty I Loved in High School  Full Series</title>
-    <id>uuid:-9089394950218368786</id>
+    <id>uuid:-3611982405849339304</id>
     <updated>2026-05-27T07:31:03Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_S-Rank_Beauty_I_Loved_in_High_School__Full_Series.epub" type="application/epub+zip" length="22607942"/>
   </entry>
   <entry>
     <title>The Science Notes by Delta and Gamma  Vol 1</title>
-    <id>uuid:-5575695362680275170</id>
+    <id>uuid:6157675710648007627</id>
     <updated>2026-05-27T07:27:18Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_1.epub" type="application/epub+zip" length="48209318"/>
   </entry>
   <entry>
     <title>The Science Notes by Delta and Gamma  Vol 3</title>
-    <id>uuid:2100319160061420272</id>
+    <id>uuid:-3904075105730251528</id>
     <updated>2026-05-27T07:27:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_3.epub" type="application/epub+zip" length="39520822"/>
   </entry>
   <entry>
     <title>Tired.of.Taking.Care.of.My.Family.I.Chose.to.Become.a.Family.with.the.School.Princess.01.-.Tetsubito.Jusu</title>
-    <id>uuid:-3781417568396577734</id>
+    <id>uuid:-8251985790863933515</id>
     <updated>2026-05-27T07:28:08Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Tired.of.Taking.Care.of.My.Family.I.Chose.to.Become.a.Family.with.the.School.Princess.01.-.Tetsubito.Jusu.epub" type="application/epub+zip" length="26910321"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 1</title>
-    <id>uuid:-5270352775637292372</id>
+    <id>uuid:7596562427749068068</id>
     <updated>2026-05-27T07:28:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_1.epub" type="application/epub+zip" length="8420549"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 2</title>
-    <id>uuid:-4489263172711098369</id>
+    <id>uuid:-6570533399057540737</id>
     <updated>2026-05-27T07:28:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_2.epub" type="application/epub+zip" length="12674891"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 3</title>
-    <id>uuid:6962219368294395392</id>
+    <id>uuid:8979501645182296678</id>
     <updated>2026-05-27T07:28:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_3.epub" type="application/epub+zip" length="10319827"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 4</title>
-    <id>uuid:3659302398751424098</id>
+    <id>uuid:6541159058024298631</id>
     <updated>2026-05-27T07:28:32Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_4.epub" type="application/epub+zip" length="13021834"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 5</title>
-    <id>uuid:-1728817027283519722</id>
+    <id>uuid:1804250982675815251</id>
     <updated>2026-05-27T07:28:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_5.epub" type="application/epub+zip" length="19782014"/>
   </entry>
   <entry>
     <title>We Two Losers Absolutely Positively Have to Be Happy  Vol 1</title>
-    <id>uuid:3353482286063366837</id>
+    <id>uuid:-8008919421895798822</id>
     <updated>2026-05-27T07:29:19Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--We_Two_Losers_Absolutely_Positively_Have_to_Be_Happy__Vol_1.epub" type="application/epub+zip" length="50020089"/>
   </entry>
   <entry>
     <title>What I Can Do For You  Full Series</title>
-    <id>uuid:-4081884596877948725</id>
+    <id>uuid:8837109595077008128</id>
     <updated>2026-05-27T07:31:17Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_I_Can_Do_For_You__Full_Series.epub" type="application/epub+zip" length="12295553"/>
   </entry>
   <entry>
     <title>What You Left Me  Full Series</title>
-    <id>uuid:-2268098114822930463</id>
+    <id>uuid:-7409829425803794513</id>
     <updated>2026-05-27T07:31:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_You_Left_Me__Full_Series.epub" type="application/epub+zip" length="2578637"/>
   </entry>
   <entry>
     <title>When.Two.Opposite.Otaku.s.Fall.in.Love.-.Ren.Kujou</title>
-    <id>uuid:-6197190756981023833</id>
+    <id>uuid:-5261757443671259022</id>
     <updated>2026-05-27T03:45:50Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When.Two.Opposite.Otaku.s.Fall.in.Love.-.Ren.Kujou.epub" type="application/epub+zip" length="4742005"/>
   </entry>
   <entry>
     <title>When Classes Went Remote  Vol 1</title>
-    <id>uuid:-6641040395370463230</id>
+    <id>uuid:-8782132314945364083</id>
     <updated>2026-05-27T07:29:27Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Classes_Went_Remote__Vol_1.epub" type="application/epub+zip" length="24665533"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationship Began  Vol 1</title>
-    <id>uuid:-5864199416871333334</id>
+    <id>uuid:-5873575975965823012</id>
     <updated>2026-05-27T07:25:21Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationship_Began__Vol_1.epub" type="application/epub+zip" length="40243163"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationship Began  Vol 2</title>
-    <id>uuid:-731917678535581296</id>
+    <id>uuid:8872764756354064727</id>
     <updated>2026-05-27T07:25:29Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationship_Began__Vol_2.epub" type="application/epub+zip" length="40750353"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationship Began  Vol 3</title>
-    <id>uuid:-4809794214834900508</id>
+    <id>uuid:5223991043502199295</id>
     <updated>2026-05-27T07:25:39Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationship_Began__Vol_3.epub" type="application/epub+zip" length="39717160"/>
   </entry>
   <entry>
     <title>Winning CHF Thinks Shes The Losing Heroine  Vol 1</title>
-    <id>uuid:7502852843752344586</id>
+    <id>uuid:-7008804682515482775</id>
     <updated>2026-05-27T07:29:36Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Winning_CHF_Thinks_Shes_The_Losing_Heroine__Vol_1.epub" type="application/epub+zip" length="36317039"/>
   </entry>
   <entry>
     <title>Yandere Maid Princess  Vol 1</title>
-    <id>uuid:-5535676664427299159</id>
+    <id>uuid:-494386368328228813</id>
     <updated>2026-05-27T07:29:58Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_1.epub" type="application/epub+zip" length="21817081"/>
   </entry>
   <entry>
     <title>Yandere Maid Princess  Vol 2</title>
-    <id>uuid:2010512690079192958</id>
+    <id>uuid:8791249037632982227</id>
     <updated>2026-05-27T07:30:20Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_2.epub" type="application/epub+zip" length="38527705"/>
   </entry>
   <entry>
     <title>You Guys Should Get Married Soon  Vol 1</title>
-    <id>uuid:3116719410235094103</id>
+    <id>uuid:4570224275903790929</id>
     <updated>2026-05-27T07:30:26Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_1.epub" type="application/epub+zip" length="13358655"/>
   </entry>
   <entry>
     <title>You Guys Should Get Married Soon  Vol 2</title>
-    <id>uuid:6003081308326566939</id>
+    <id>uuid:-2110195058095736829</id>
     <updated>2026-05-27T07:30:33Z</updated>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_2.epub" type="application/epub+zip" length="24698987"/>
   </entry>
