@@ -1,541 +1,995 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-05-27T19:53:01.767856Z</updated>
+  <updated>2026-05-29T04:57:12.376169Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
-    <title>Ano natsu ni sasagu ai kotoba   English   Volume 1</title>
-    <id>uuid:-3097995981904361983</id>
-    <updated>2026-05-27T06:45:41Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ano_natsu_ni_sasagu_ai_kotoba___English___Volume_1.epub" type="application/epub+zip" title="Original" length="2657430"/>
-  </entry>
-  <entry>
-    <title>Bon nou no Kazu Dake Koi o Suru 108-tsu no Sainou e Aiwokomete LN    Volume 1</title>
-    <id>uuid:5648589828347125934</id>
-    <updated>2026-05-27T09:53:32Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Bon_nou_no_Kazu_Dake_Koi_o_Suru_108-tsu_no_Sainou_e_Aiwokomete_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="793319"/>
-  </entry>
-  <entry>
-    <title>ENG  Asobi no Kankei   Volume 1</title>
-    <id>uuid:-1880699933224507035</id>
-    <updated>2026-05-27T06:20:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Asobi_no_Kankei___Volume_1.epub" type="application/epub+zip" title="Original" length="3305110"/>
-  </entry>
-  <entry>
-    <title>ENG  Asobi no Kankei   Volume 2</title>
-    <id>uuid:683045983503333956</id>
-    <updated>2026-05-27T06:21:08Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Asobi_no_Kankei___Volume_2.epub" type="application/epub+zip" title="Original" length="3003475"/>
-  </entry>
-  <entry>
-    <title>ENG  A childhood friend who has already won but mistakenly believes herself to be the losing heroine   Volume 1</title>
-    <id>uuid:4838914728214770971</id>
-    <updated>2026-05-27T06:49:32Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine___Volume_1.epub" type="application/epub+zip" title="Original" length="1405608"/>
-  </entry>
-  <entry>
-    <title>ENG  If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy  She Becomes a Commuting Wife and Comes Pressing for a Relationship   Volume 1</title>
-    <id>uuid:-2994837001731260283</id>
-    <updated>2026-05-27T06:49:38Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy__She_Becomes_a_Commuting_Wife_and_Comes_Pressing_for_a_Relationship___Volume_1.epub" type="application/epub+zip" title="Original" length="1548658"/>
-  </entry>
-  <entry>
-    <title>ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class Transfer  Seem Able to Spend a Slow Life with the Beautiful Girls   Volume 1</title>
-    <id>uuid:-2660985335203222841</id>
-    <updated>2026-05-27T06:21:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class_Transfer__Seem_Able_to_Spend_a_Slow_Life_with_the_Beautiful_Girls___Volume_1.epub" type="application/epub+zip" title="Original" length="4991276"/>
-  </entry>
-  <entry>
-    <title>ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class Transfer  Seem Able to Spend a Slow Life with the Beautiful Girls   Volume 2</title>
-    <id>uuid:5658816323541950957</id>
-    <updated>2026-05-27T06:21:25Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class_Transfer__Seem_Able_to_Spend_a_Slow_Life_with_the_Beautiful_Girls___Volume_2.epub" type="application/epub+zip" title="Original" length="3994256"/>
-  </entry>
-  <entry>
-    <title>ENG  I Reincarnated as the Brutal Protagonist of a Cruel Erotic Game  but I m Not Actually That Much of a Pervert.  The 18  Plot Twists Keep Coming Anyway    Volume 1</title>
-    <id>uuid:-2818384176006615383</id>
-    <updated>2026-05-27T06:21:30Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_Reincarnated_as_the_Brutal_Protagonist_of_a_Cruel_Erotic_Game__but_I_m_Not_Actually_That_Much_of_a_Pervert.__The_18__Plot_Twists_Keep_Coming_Anyway____Volume_1.epub" type="application/epub+zip" title="Original" length="6668414"/>
-  </entry>
-  <entry>
-    <title>ENG  I was scolded by my younger female instructor again today  English   Volume 1</title>
-    <id>uuid:-424630090428960467</id>
-    <updated>2026-05-27T06:21:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English___Volume_1.epub" type="application/epub+zip" title="Original" length="935002"/>
-  </entry>
-  <entry>
-    <title>ENG  I was scolded by my younger female instructor again today  English   Volume 2</title>
-    <id>uuid:-4572990047209108291</id>
-    <updated>2026-05-27T06:21:40Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English___Volume_2.epub" type="application/epub+zip" title="Original" length="975928"/>
-  </entry>
-  <entry>
-    <title>ENG  Our Secret Youth in the Night School   Volume 1</title>
-    <id>uuid:-529207544969924844</id>
-    <updated>2026-05-27T07:37:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Our_Secret_Youth_in_the_Night_School___Volume_1.epub" type="application/epub+zip" title="Original" length="2003977"/>
-  </entry>
-  <entry>
-    <title>ENG  Sensei   kisu wa jugyo no han i-gaidesu   English   Volume 1</title>
-    <id>uuid:-6758991417712712487</id>
-    <updated>2026-05-27T07:37:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Sensei___kisu_wa_jugyo_no_han_i-gaidesu___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1576201"/>
-  </entry>
-  <entry>
-    <title>ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World   Volume 1</title>
-    <id>uuid:5834941883243065657</id>
-    <updated>2026-05-27T07:37:54Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World___Volume_1.epub" type="application/epub+zip" title="Original" length="3694022"/>
-  </entry>
-  <entry>
-    <title>ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World   Volume 2</title>
-    <id>uuid:4368634611049753515</id>
-    <updated>2026-05-27T07:38:01Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World___Volume_2.epub" type="application/epub+zip" title="Original" length="3724438"/>
-  </entry>
-  <entry>
-    <title>ENG  The Exiled Baron s Son s Magnificent Territory Reform  My Piece-of-Trash Father Called Me Useless  but I m the World s Strongest Dragon Mage   Volume 1</title>
-    <id>uuid:7596584983546363647</id>
-    <updated>2026-05-27T07:37:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_Exiled_Baron_s_Son_s_Magnificent_Territory_Reform__My_Piece-of-Trash_Father_Called_Me_Useless__but_I_m_the_World_s_Strongest_Dragon_Mage___Volume_1.epub" type="application/epub+zip" title="Original" length="5823582"/>
-  </entry>
-  <entry>
-    <title>ENG  The National Young Lady Bought Worthless Me for 300 Million   Volume 1</title>
-    <id>uuid:-5282806352777360810</id>
-    <updated>2026-05-27T07:37:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_National_Young_Lady_Bought_Worthless_Me_for_300_Million___Volume_1.epub" type="application/epub+zip" title="Original" length="1038458"/>
-  </entry>
-  <entry>
-    <title>ENG  The Time I Woke Up in Bed with My Childhood Friend Who Happens to Be Way Too Good-Looking   Volume 1</title>
-    <id>uuid:6085988729674209407</id>
-    <updated>2026-05-27T07:37:32Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__The_Time_I_Woke_Up_in_Bed_with_My_Childhood_Friend_Who_Happens_to_Be_Way_Too_Good-Looking___Volume_1.epub" type="application/epub+zip" title="Original" length="5074325"/>
-  </entry>
-  <entry>
-    <title>Eng  Wai no honto no shokugyo ga  -sei kishi  toka ienai   Volume 1</title>
-    <id>uuid:-3568494373373517056</id>
-    <updated>2026-05-27T07:37:42Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eng__Wai_no_honto_no_shokugyo_ga__-sei_kishi__toka_ienai___Volume_1.epub" type="application/epub+zip" title="Original" length="1705592"/>
-  </entry>
-  <entry>
-    <title>ENG  When I Reunited with My Older Childhood Friend  She and Her Sister Started Fighting Over Me   Want to Test Which One of Us is Better     Volume 1</title>
-    <id>uuid:-6278838336540469995</id>
-    <updated>2026-05-27T07:37:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__When_I_Reunited_with_My_Older_Childhood_Friend__She_and_Her_Sister_Started_Fighting_Over_Me___Want_to_Test_Which_One_of_Us_is_Better_____Volume_1.epub" type="application/epub+zip" title="Original" length="1268018"/>
-  </entry>
-  <entry>
-    <title>ENG  Why Did I  a Onee-san Enthusiast  Fall for Tiny You    Volume 1</title>
-    <id>uuid:-5837199697890777453</id>
-    <updated>2026-05-27T07:37:39Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__Why_Did_I__a_Onee-san_Enthusiast__Fall_for_Tiny_You____Volume_1.epub" type="application/epub+zip" title="Original" length="1006005"/>
-  </entry>
-  <entry>
-    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 1</title>
-    <id>uuid:-7380183152339784938</id>
-    <updated>2026-05-27T06:21:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1534955"/>
-  </entry>
-  <entry>
-    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 2</title>
-    <id>uuid:507646600499014930</id>
-    <updated>2026-05-27T06:21:53Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="1533787"/>
-  </entry>
-  <entry>
-    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Kaihi suru LN    Volume 3</title>
-    <id>uuid:5669682582399850279</id>
-    <updated>2026-05-27T06:22:01Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Kaihi_suru_LN____Volume_3.epub" type="application/epub+zip" title="Original" length="1979199"/>
-  </entry>
-  <entry>
-    <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 1</title>
-    <id>uuid:-2866499290530530995</id>
-    <updated>2026-05-27T06:47:12Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="945370"/>
-  </entry>
-  <entry>
-    <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN    Volume 2</title>
-    <id>uuid:5047032809061040994</id>
-    <updated>2026-05-27T06:47:19Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="1189615"/>
-  </entry>
-  <entry>
-    <title>ENG  Exhausted with Life  I Arrived at a Village Where Beautiful Women Won t Let Me Go   Volume 1</title>
-    <id>uuid:518897694398890084</id>
-    <updated>2026-05-27T06:50:22Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Exhausted_with_Life__I_Arrived_at_a_Village_Where_Beautiful_Women_Won_t_Let_Me_Go___Volume_1.epub" type="application/epub+zip" title="Original" length="3851756"/>
-  </entry>
-  <entry>
-    <title>ENG  Hello hello  this is the Quit-Club Alliance    English   Volume 1</title>
-    <id>uuid:-722194188567714731</id>
-    <updated>2026-05-27T06:50:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Hello_hello__this_is_the_Quit-Club_Alliance____English___Volume_1.epub" type="application/epub+zip" title="Original" length="1718686"/>
-  </entry>
-  <entry>
-    <title>ENG  Kanojo no ane wa 2-shu-me no kanojo   Volume 1</title>
-    <id>uuid:-7380552169982980113</id>
-    <updated>2026-05-27T06:50:33Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Kanojo_no_ane_wa_2-shu-me_no_kanojo___Volume_1.epub" type="application/epub+zip" title="Original" length="6004090"/>
-  </entry>
-  <entry>
-    <title>ENG  Killed Again  Mr. Detective   Volume 1</title>
-    <id>uuid:-1164107443925078123</id>
-    <updated>2026-05-27T06:50:42Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_1.epub" type="application/epub+zip" title="Original" length="2421500"/>
-  </entry>
-  <entry>
-    <title>ENG  Killed Again  Mr. Detective   Volume 2</title>
-    <id>uuid:-2140371987912730571</id>
-    <updated>2026-05-27T06:50:52Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_2.epub" type="application/epub+zip" title="Original" length="2318406"/>
-  </entry>
-  <entry>
-    <title>ENG  Killed Again  Mr. Detective   Volume 3</title>
-    <id>uuid:3519503825196348513</id>
-    <updated>2026-05-27T06:51:00Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Killed_Again__Mr._Detective___Volume_3.epub" type="application/epub+zip" title="Original" length="1506051"/>
-  </entry>
-  <entry>
-    <title>ENG  Onee-chan wa  kanojo de sensei de cho burakon   Volume 1</title>
-    <id>uuid:-7682225212988089458</id>
-    <updated>2026-05-27T06:51:13Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--ENG__Onee-chan_wa__kanojo_de_sensei_de_cho_burakon___Volume_1.epub" type="application/epub+zip" title="Original" length="4419306"/>
-  </entry>
-  <entry>
-    <title>Farewell Flowers for  AI  Angel Looking For Love LN    Volume 1</title>
-    <id>uuid:-7377532802257650215</id>
-    <updated>2026-05-27T06:51:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Farewell_Flowers_for__AI__Angel_Looking_For_Love_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="404169"/>
-  </entry>
-  <entry>
-    <title>Furaku no Bishoujo Doukyuusei to no Rabukome ga Iijii Moodo Sugiru Ken   Volume 1</title>
-    <id>uuid:-5702776618374952117</id>
-    <updated>2026-05-27T06:51:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Furaku_no_Bishoujo_Doukyuusei_to_no_Rabukome_ga_Iijii_Moodo_Sugiru_Ken___Volume_1.epub" type="application/epub+zip" title="Original" length="644159"/>
-  </entry>
-  <entry>
-    <title>Higawari kanojo   hatsukoi wa usotsuki no hajimari   English   Volume 1</title>
-    <id>uuid:-1706741889577920358</id>
-    <updated>2026-05-27T07:01:37Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo___hatsukoi_wa_usotsuki_no_hajimari___English___Volume_1.epub" type="application/epub+zip" title="Original" length="802557"/>
-  </entry>
-  <entry>
-    <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN    Volume 1</title>
-    <id>uuid:-8413598715930582555</id>
-    <updated>2026-05-27T07:33:41Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1751752"/>
-  </entry>
-  <entry>
-    <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN    Volume 2</title>
-    <id>uuid:8281097300764923606</id>
-    <updated>2026-05-27T07:33:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="2465447"/>
-  </entry>
-  <entry>
-    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 1</title>
-    <id>uuid:7778874751031506575</id>
-    <updated>2026-05-27T07:33:51Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_1.epub" type="application/epub+zip" title="Original" length="681129"/>
-  </entry>
-  <entry>
-    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 2</title>
-    <id>uuid:8147258672576737660</id>
-    <updated>2026-05-27T07:33:54Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_2.epub" type="application/epub+zip" title="Original" length="601583"/>
-  </entry>
-  <entry>
-    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 3</title>
-    <id>uuid:-5663922921481968745</id>
-    <updated>2026-05-27T07:33:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_3.epub" type="application/epub+zip" title="Original" length="673539"/>
-  </entry>
-  <entry>
-    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuite   English   Volume 4</title>
-    <id>uuid:6722934267924571469</id>
-    <updated>2026-05-27T07:34:02Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuite___English___Volume_4.epub" type="application/epub+zip" title="Original" length="871422"/>
-  </entry>
-  <entry>
-    <title>Ichizuna kanojo ga fura rete kurenai   English   Volume 1</title>
-    <id>uuid:5496435474368206720</id>
-    <updated>2026-05-27T07:34:15Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1327598"/>
-  </entry>
-  <entry>
-    <title>Ippanjin no ore o geino-ka joshi-tachi ga nigashite kurenai kudan LN    Volume 1</title>
-    <id>uuid:818522876403679049</id>
-    <updated>2026-05-27T07:34:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ippanjin_no_ore_o_geino-ka_joshi-tachi_ga_nigashite_kurenai_kudan_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1273715"/>
-  </entry>
-  <entry>
-    <title>I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World. But This Is My Second Reincarnation    English   Volume 1</title>
-    <id>uuid:-702427821411733879</id>
-    <updated>2026-05-27T07:34:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_Died_Protecting_My_Comrades_and_Was_Reborn_Twenty_Years_Later_in_the_Same_World._But_This_Is_My_Second_Reincarnation____English___Volume_1.epub" type="application/epub+zip" title="Original" length="697821"/>
-  </entry>
-  <entry>
-    <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some reason  I m revered as the greatest ruler of all time  but can someone tell me why   English   Volume 1</title>
-    <id>uuid:4883205431731475481</id>
-    <updated>2026-05-27T07:34:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_reason__I_m_revered_as_the_greatest_ruler_of_all_time__but_can_someone_tell_me_why___English___Volume_1.epub" type="application/epub+zip" title="Original" length="934886"/>
-  </entry>
-  <entry>
-    <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some reason  I m revered as the greatest ruler of all time  but can someone tell me why   English   Volume 2</title>
-    <id>uuid:4586436006444670341</id>
-    <updated>2026-05-27T07:34:11Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_reason__I_m_revered_as_the_greatest_ruler_of_all_time__but_can_someone_tell_me_why___English___Volume_2.epub" type="application/epub+zip" title="Original" length="707162"/>
-  </entry>
-  <entry>
-    <title>Jikan wo Tomete Dere Makuru  Saikyou Muteki no Kurono-san   Volume 1</title>
-    <id>uuid:7109551595071210333</id>
-    <updated>2026-05-27T07:34:22Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Jikan_wo_Tomete_Dere_Makuru__Saikyou_Muteki_no_Kurono-san___Volume_1.epub" type="application/epub+zip" title="Original" length="6044095"/>
-  </entry>
-  <entry>
-    <title>Kanojo wo Deresaseru Houhou wo  Shorai Kekon Suru Oredake ga Shitteiru LN    Volume 1</title>
-    <id>uuid:6326652461724988883</id>
-    <updated>2026-05-27T07:34:25Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kanojo_wo_Deresaseru_Houhou_wo__Shorai_Kekon_Suru_Oredake_ga_Shitteiru_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1221009"/>
-  </entry>
-  <entry>
-    <title>Kokona kanojo to  kanojonoheya de shi teru koto  English   Volume 1</title>
-    <id>uuid:-2486535981742556954</id>
-    <updated>2026-05-27T07:34:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to__kanojonoheya_de_shi_teru_koto__English___Volume_1.epub" type="application/epub+zip" title="Original" length="745271"/>
-  </entry>
-  <entry>
-    <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN    Volume 1</title>
-    <id>uuid:8161485074709881147</id>
-    <updated>2026-05-27T07:34:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="698654"/>
-  </entry>
-  <entry>
-    <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN    Volume 2</title>
-    <id>uuid:2651135367451702873</id>
-    <updated>2026-05-27T07:34:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="632215"/>
-  </entry>
-  <entry>
-    <title>Nawagami-san Wants to Be Tied Up  English   Volume 1</title>
-    <id>uuid:-3982443198795648129</id>
-    <updated>2026-05-27T07:34:42Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Nawagami-san_Wants_to_Be_Tied_Up__English___Volume_1.epub" type="application/epub+zip" title="Original" length="2627947"/>
-  </entry>
-  <entry>
-    <title>Netori Mahoutsukai no Bouken LN    Volume 1</title>
-    <id>uuid:-7183964980634464989</id>
-    <updated>2026-05-27T07:34:46Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="706658"/>
-  </entry>
-  <entry>
-    <title>Netori Mahoutsukai no Bouken LN    Volume 2</title>
-    <id>uuid:-2409592910596077348</id>
-    <updated>2026-05-27T07:34:53Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="615572"/>
-  </entry>
-  <entry>
-    <title>Omoi tabako o sutteru fukenko-sona toshiue bijin to dorodoro no kankei ni natte ita hanashi  English   Volume 1</title>
-    <id>uuid:1901654732499374271</id>
-    <updated>2026-05-27T07:34:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko-sona_toshiue_bijin_to_dorodoro_no_kankei_ni_natte_ita_hanashi__English___Volume_1.epub" type="application/epub+zip" title="Original" length="1423340"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 1</title>
-    <id>uuid:6871359888286033630</id>
-    <updated>2026-05-27T07:35:02Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_1.epub" type="application/epub+zip" title="Original" length="987120"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 4</title>
-    <id>uuid:-3431983503620281517</id>
-    <updated>2026-05-27T07:35:06Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_4.epub" type="application/epub+zip" title="Original" length="1441869"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 5</title>
-    <id>uuid:-6401732835728396722</id>
-    <updated>2026-05-27T07:35:11Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_5.epub" type="application/epub+zip" title="Original" length="1276958"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 6</title>
-    <id>uuid:3073942589300766036</id>
-    <updated>2026-05-27T07:35:16Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_6.epub" type="application/epub+zip" title="Original" length="1269757"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 7</title>
-    <id>uuid:-1983716164965699050</id>
-    <updated>2026-05-27T07:35:20Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_7.epub" type="application/epub+zip" title="Original" length="1349315"/>
-  </entry>
-  <entry>
-    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru   Volume 8</title>
-    <id>uuid:-6039407656821517517</id>
-    <updated>2026-05-27T07:35:23Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru___Volume_8.epub" type="application/epub+zip" title="Original" length="1905582"/>
-  </entry>
-  <entry>
-    <title>Overwhelming Magic Power  The Strongest in Another World  - It Seems These Troubled Beauties Can t Do Without Me   English   Volume 1</title>
-    <id>uuid:4621081551635904743</id>
-    <updated>2026-05-27T07:35:27Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power__The_Strongest_in_Another_World__-_It_Seems_These_Troubled_Beauties_Can_t_Do_Without_Me___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1076302"/>
-  </entry>
-  <entry>
-    <title>Senchi Kara Kaette Takashi-kun LN    Volume 1</title>
-    <id>uuid:6801587434490729760</id>
-    <updated>2026-05-27T07:35:52Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="3995660"/>
-  </entry>
-  <entry>
-    <title>Senchi Kara Kaette Takashi-kun LN    Volume 2</title>
-    <id>uuid:2852139936309642365</id>
-    <updated>2026-05-27T07:36:00Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="3966003"/>
-  </entry>
-  <entry>
-    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 1</title>
-    <id>uuid:5912846002841036496</id>
-    <updated>2026-05-27T07:35:31Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_1.epub" type="application/epub+zip" title="Original" length="4397391"/>
-  </entry>
-  <entry>
-    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 2</title>
-    <id>uuid:1935394144561333359</id>
-    <updated>2026-05-27T07:35:35Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_2.epub" type="application/epub+zip" title="Original" length="5191281"/>
-  </entry>
-  <entry>
-    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara  naze ka bishojo-tachi ni aisa rete iru kudan ni tsuite     Volume 3</title>
-    <id>uuid:6646250921516607932</id>
-    <updated>2026-05-27T07:35:45Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to_shitara__naze_ka_bishojo-tachi_ni_aisa_rete_iru_kudan_ni_tsuite_____Volume_3.epub" type="application/epub+zip" title="Original" length="5223735"/>
-  </entry>
-  <entry>
-    <title>Soshiki no Shukuteki to Kekkon Shitara Mecha Amai   Volume 1</title>
-    <id>uuid:1622383446846613982</id>
-    <updated>2026-05-27T07:36:03Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai___Volume_1.epub" type="application/epub+zip" title="Original" length="1067678"/>
-  </entry>
-  <entry>
-    <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 1</title>
-    <id>uuid:6273335177989092816</id>
-    <updated>2026-05-27T07:36:15Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1918112"/>
-  </entry>
-  <entry>
-    <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 2</title>
-    <id>uuid:-6876274622295265262</id>
-    <updated>2026-05-27T07:36:17Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_2.epub" type="application/epub+zip" title="Original" length="1967644"/>
-  </entry>
-  <entry>
-    <title>Tier 1 Sisters  The four famous sisters can t live without me   English   Volume 3</title>
-    <id>uuid:5928188083194120624</id>
-    <updated>2026-05-27T07:36:21Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English___Volume_3.epub" type="application/epub+zip" title="Original" length="2122887"/>
-  </entry>
-  <entry>
-    <title>Tomodachi ijo uwaki-miman no kanojo-tachi   English   Volume 1</title>
-    <id>uuid:-329095588824458809</id>
-    <updated>2026-05-27T07:36:24Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki-miman_no_kanojo-tachi___English___Volume_1.epub" type="application/epub+zip" title="Original" length="823072"/>
-  </entry>
-  <entry>
-    <title>TS tensei bishojo-on tora Reiko wa netora reiko   English   Volume 1</title>
-    <id>uuid:4744380313486706934</id>
-    <updated>2026-05-27T07:36:07Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1012555"/>
-  </entry>
-  <entry>
-    <title>TS tensei bishojo-on tora Reiko wa netora reiko   English   Volume 2</title>
-    <id>uuid:6256695965154783369</id>
-    <updated>2026-05-27T07:36:11Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English___Volume_2.epub" type="application/epub+zip" title="Original" length="1392613"/>
-  </entry>
-  <entry>
-    <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN    Volume 1</title>
-    <id>uuid:4205912394737145690</id>
-    <updated>2026-05-27T07:36:28Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="1262259"/>
-  </entry>
-  <entry>
-    <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN    Volume 2</title>
-    <id>uuid:5658356975074828507</id>
-    <updated>2026-05-27T07:36:32Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN____Volume_2.epub" type="application/epub+zip" title="Original" length="1085312"/>
-  </entry>
-  <entry>
-    <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English   Volume 1</title>
-    <id>uuid:-1021763299763226822</id>
-    <updated>2026-05-27T07:36:34Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English___Volume_1.epub" type="application/epub+zip" title="Original" length="824797"/>
-  </entry>
-  <entry>
-    <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English   Volume 2</title>
-    <id>uuid:6090211467638346820</id>
-    <updated>2026-05-27T07:36:38Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English___Volume_2.epub" type="application/epub+zip" title="Original" length="1013978"/>
-  </entry>
-  <entry>
-    <title>Yome ni Uwaki Saretara  Daigaku Jidai ni Modotte Kimashita  LN    Volume 1</title>
-    <id>uuid:5232364033449058834</id>
-    <updated>2026-05-27T07:36:42Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yome_ni_Uwaki_Saretara__Daigaku_Jidai_ni_Modotte_Kimashita__LN____Volume_1.epub" type="application/epub+zip" title="Original" length="485077"/>
-  </entry>
-  <entry>
-    <title>Yuukai Saresou ni Natte Iru Kou Tasuketara Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken Volume 1</title>
-    <id>uuid:-4051083870725554279</id>
-    <updated>2026-05-27T06:22:23Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara_Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken_Volume_1.epub" type="application/epub+zip" title="Original" length="3764394"/>
-  </entry>
-  <entry>
-    <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken   Volume 1</title>
-    <id>uuid:-6548472526557192492</id>
-    <updated>2026-05-27T07:36:49Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken___Volume_1.epub" type="application/epub+zip" title="Original" length="1776749"/>
-  </entry>
-  <entry>
-    <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken   Volume 2</title>
-    <id>uuid:4930949170613815535</id>
-    <updated>2026-05-27T07:36:45Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken___Volume_2.epub" type="application/epub+zip" title="Original" length="1161071"/>
-  </entry>
-  <entry>
-    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 1</title>
-    <id>uuid:7645741276992467010</id>
-    <updated>2026-05-27T07:36:53Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_1.epub" type="application/epub+zip" title="Original" length="1024200"/>
-  </entry>
-  <entry>
-    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 2</title>
-    <id>uuid:-6346508339925936835</id>
-    <updated>2026-05-27T07:36:57Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_2.epub" type="application/epub+zip" title="Original" length="744091"/>
-  </entry>
-  <entry>
-    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL   Volume 3</title>
-    <id>uuid:4045607016929520146</id>
-    <updated>2026-05-27T07:37:00Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL___Volume_3.epub" type="application/epub+zip" title="Original" length="1230747"/>
-  </entry>
-  <entry>
-    <title>Yuusha Party wo Tsuihou Sareta Hakuma Doushi  S-Rank Bouken Shani Hirowa reru LN    Volume 1</title>
-    <id>uuid:4713618737912091597</id>
-    <updated>2026-05-27T07:37:04Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi__S-Rank_Bouken_Shani_Hirowa_reru_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="602549"/>
-  </entry>
-  <entry>
-    <title>Zense Fujimi no Maou Nitotte Death Game ha Nurusugiru LN    Volume 1</title>
-    <id>uuid:1460635787848573927</id>
-    <updated>2026-05-27T07:37:11Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Zense_Fujimi_no_Maou_Nitotte_Death_Game_ha_Nurusugiru_LN____Volume_1.epub" type="application/epub+zip" title="Original" length="6083846"/>
-  </entry>
-  <entry>
-    <title>Ojo-sama no oshioki-gakari   sekuhara giwaku de shikkyaku shitara naze ka hentai ojo no goshujinsama ni natta ndaga   English   Volume 1</title>
-    <id>uuid:-8962886003033808665</id>
-    <updated>2026-05-27T07:37:47Z</updated>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--Ojo-sama_no_oshioki-gakari___sekuhara_giwaku_de_shikkyaku_shitara_naze_ka_hentai_ojo_no_goshujinsama_ni_natta_ndaga___English___Volume_1.epub" type="application/epub+zip" title="Original" length="1099564"/>
+    <title>Ano natsu ni sasagu ai kotoba   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e1905ccdcbabf46be2237728c83af9fd</id>
+    <updated>2026-05-28T22:47:01Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ano_natsu_ni_sasagu_ai_kotoba___English__Volume_1.epub" type="application/epub+zip" title="Original" length="7993994"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ano_natsu_ni_sasagu_ai_kotoba___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1747492"/>
+  </entry>
+  <entry>
+    <title>Bon nou no Kazu Dake Koi o Suru 108-tsu no Sainou e Aiwokomete LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:23784a1d69fcd68bc412e51342e6d67e</id>
+    <updated>2026-05-28T22:47:28Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Bon_nou_no_Kazu_Dake_Koi_o_Suru_108-tsu_no_Sainou_e_Aiwokomete_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="3965961"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Bon_nou_no_Kazu_Dake_Koi_o_Suru_108-tsu_no_Sainou_e_Aiwokomete_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1524803"/>
+  </entry>
+  <entry>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4cce6f8ed60084f97906f64981574d60</id>
+    <updated>2026-05-28T22:47:37Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="17966965"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2407095"/>
+  </entry>
+  <entry>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7d5e261b18e60f2c63d6c08c76d67eca</id>
+    <updated>2026-05-28T22:47:49Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="23114391"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2458294"/>
+  </entry>
+  <entry>
+    <title>Dauna Kei no Gyaru Yukikawa-san LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9ec1eaa45317b667b3295ba5d3387eeb</id>
+    <updated>2026-05-28T22:47:58Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Dauna_Kei_no_Gyaru_Yukikawa-san_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="18208053"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Dauna_Kei_no_Gyaru_Yukikawa-san_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1339091"/>
+  </entry>
+  <entry>
+    <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1ee33e4c9dec8bb4373221ee3e0072fa</id>
+    <updated>2026-05-28T22:48:07Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="22041959"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3530388"/>
+  </entry>
+  <entry>
+    <title>Ero Manga no Akuyaku ni Tensei Shita Ore ga  Netoranakutemo Shiawase ni Naru Houhou LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ef319965364e1bcd291f721389472e6e</id>
+    <updated>2026-05-28T22:48:14Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="6122452"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Ero_Manga_no_Akuyaku_ni_Tensei_Shita_Ore_ga__Netoranakutemo_Shiawase_ni_Naru_Houhou_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4060407"/>
+  </entry>
+  <entry>
+    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Ka  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9806088ca5f80989058eab0d4da829fb</id>
+    <updated>2026-05-28T22:48:28Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_1.epub" type="application/epub+zip" title="Original" length="41836180"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4460102"/>
+  </entry>
+  <entry>
+    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Ka  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:437c5ff3737ca7c2e9f571518d690f7e</id>
+    <updated>2026-05-28T22:48:39Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_2.epub" type="application/epub+zip" title="Original" length="21999048"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5875166"/>
+  </entry>
+  <entry>
+    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Ka  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:35e1ba70f899b0bd697e4cebe16dc994</id>
+    <updated>2026-05-28T22:48:48Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_3.epub" type="application/epub+zip" title="Original" length="11535475"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4321381"/>
+  </entry>
+  <entry>
+    <title>Eroge no Hakushaku Reijou wo Hoshi Meido Ochisaseru Akuyaku Onzoushi ni Tensei shita Ore wa Zama wo Ka  Volume 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:414a1bf2e28ed6f063e70ec428e8e41f</id>
+    <updated>2026-05-28T22:49:00Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_4.epub" type="application/epub+zip" title="Original" length="32192961"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Eroge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_wo_Ka__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2530360"/>
+  </entry>
+  <entry>
+    <title>Farewell Flowers for  AI  Angel Looking For Love LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a8612c8f130f710840cf5b452db5dc92</id>
+    <updated>2026-05-28T22:49:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Farewell_Flowers_for__AI__Angel_Looking_For_Love_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="11566235"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Farewell_Flowers_for__AI__Angel_Looking_For_Love_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1004959"/>
+  </entry>
+  <entry>
+    <title>Furaku no Bishoujo Doukyuusei to no Rabukome ga Iijii Moodo Sugiru Ken  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:72f4b889673efc488b2f3e9c51599627</id>
+    <updated>2026-05-28T22:49:15Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Furaku_no_Bishoujo_Doukyuusei_to_no_Rabukome_ga_Iijii_Moodo_Sugiru_Ken__Volume_1.epub" type="application/epub+zip" title="Original" length="8316656"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Furaku_no_Bishoujo_Doukyuusei_to_no_Rabukome_ga_Iijii_Moodo_Sugiru_Ken__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2365912"/>
+  </entry>
+  <entry>
+    <title>Higawari kanojo   hatsukoi wa usotsuki no hajimari   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:acc2d9bf1631c3499a9b391d9410e4a0</id>
+    <updated>2026-05-28T22:49:22Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo___hatsukoi_wa_usotsuki_no_hajimari___English__Volume_1.epub" type="application/epub+zip" title="Original" length="8364954"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo___hatsukoi_wa_usotsuki_no_hajimari___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3627829"/>
+  </entry>
+  <entry>
+    <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d036508f9543a77cb9edabbcc657c140</id>
+    <updated>2026-05-28T22:49:28Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="4592811"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2508123"/>
+  </entry>
+  <entry>
+    <title>Hitchuu no Danjon Tansaku   Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:43fc6bc23664788476b51a6992c05c0f</id>
+    <updated>2026-05-28T22:49:34Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="5470140"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku___Hitchuunanode_Anzen-ken_Kara_Pechipechi_ya_o_Utte_Reberuappu_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2832113"/>
+  </entry>
+  <entry>
+    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b5a1be30c08bef4b7c907167b2580dce</id>
+    <updated>2026-05-28T22:49:40Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_1.epub" type="application/epub+zip" title="Original" length="3728435"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2256829"/>
+  </entry>
+  <entry>
+    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4e02ca648f702aa02c072f2391a8eb17</id>
+    <updated>2026-05-28T22:49:47Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_2.epub" type="application/epub+zip" title="Original" length="2433691"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2622876"/>
+  </entry>
+  <entry>
+    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d6eeab69e11a15a5cb362e7d5877fb56</id>
+    <updated>2026-05-28T22:49:53Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_3.epub" type="application/epub+zip" title="Original" length="2582624"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1553378"/>
+  </entry>
+  <entry>
+    <title>Hokuo bishojo no kurasumeito ga  fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit  Volume 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e759ce9fd26698a2498f2737afcf067b</id>
+    <updated>2026-05-28T22:49:58Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_4.epub" type="application/epub+zip" title="Original" length="2150102"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga__fianse_ni_nattara_deredere_no_amaama_ni_natte_shimatta_kudan_ni_tsuit__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2049981"/>
+  </entry>
+  <entry>
+    <title>Ichizuna kanojo ga fura rete kurenai   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:57cecb55cc2e3d24697aaf7719a290a3</id>
+    <updated>2026-05-28T22:50:30Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai___English__Volume_1.epub" type="application/epub+zip" title="Original" length="4059292"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2750381"/>
+  </entry>
+  <entry>
+    <title>Ippanjin no ore o geino-ka joshi-tachi ga nigashite kurenai kudan LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cbdb970a49773c0249f471d0377f9b19</id>
+    <updated>2026-05-28T22:50:37Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ippanjin_no_ore_o_geino-ka_joshi-tachi_ga_nigashite_kurenai_kudan_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="8948557"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ippanjin_no_ore_o_geino-ka_joshi-tachi_ga_nigashite_kurenai_kudan_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4379067"/>
+  </entry>
+  <entry>
+    <title>I Died Protecting My Comrades and Was Reborn Twenty Years Later in the Same World. But This Is My Se  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0109bd3c490382a82eabdba7b216219a</id>
+    <updated>2026-05-28T22:50:07Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_Died_Protecting_My_Comrades_and_Was_Reborn_Twenty_Years_Later_in_the_Same_World._But_This_Is_My_Se__Volume_1.epub" type="application/epub+zip" title="Original" length="10006929"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_Died_Protecting_My_Comrades_and_Was_Reborn_Twenty_Years_Later_in_the_Same_World._But_This_Is_My_Se__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4342475"/>
+  </entry>
+  <entry>
+    <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some rea  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7408b965d0f6440da3e463a2a4d6fa43</id>
+    <updated>2026-05-28T22:50:15Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_rea__Volume_1.epub" type="application/epub+zip" title="Original" length="14682699"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_rea__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6657946"/>
+  </entry>
+  <entry>
+    <title>I was reincarnated as a mob villain in a game world  so I aimed to become the final boss  For some rea  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d0d2aa58ba58d9a9b367ca20d974d9a1</id>
+    <updated>2026-05-28T22:50:24Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_rea__Volume_2.epub" type="application/epub+zip" title="Original" length="10628524"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world__so_I_aimed_to_become_the_final_boss__For_some_rea__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4051168"/>
+  </entry>
+  <entry>
+    <title>Jikan wo Tomete Dere Makuru  Saikyou Muteki no Kurono-san  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ddb31d8534c2290f3ab26ec805b6d27f</id>
+    <updated>2026-05-28T22:50:50Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Jikan_wo_Tomete_Dere_Makuru__Saikyou_Muteki_no_Kurono-san__Volume_1.epub" type="application/epub+zip" title="Original" length="36614146"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Jikan_wo_Tomete_Dere_Makuru__Saikyou_Muteki_no_Kurono-san__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3330756"/>
+  </entry>
+  <entry>
+    <title>Kanojo wo Deresaseru Houhou wo  Shorai Kekon Suru Oredake ga Shitteiru LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cae5f437d263881277ce10b01b538983</id>
+    <updated>2026-05-28T22:51:00Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kanojo_wo_Deresaseru_Houhou_wo__Shorai_Kekon_Suru_Oredake_ga_Shitteiru_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="19744152"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kanojo_wo_Deresaseru_Houhou_wo__Shorai_Kekon_Suru_Oredake_ga_Shitteiru_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1342762"/>
+  </entry>
+  <entry>
+    <title>Kokona kanojo to  kanojonoheya de shi teru koto  English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7d4a4cc2505211a7187771abf5871c85</id>
+    <updated>2026-05-28T22:51:06Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to__kanojonoheya_de_shi_teru_koto__English__Volume_1.epub" type="application/epub+zip" title="Original" length="3442521"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to__kanojonoheya_de_shi_teru_koto__English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1931211"/>
+  </entry>
+  <entry>
+    <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9b246a3fa94cda7acf61e1f7da18c924</id>
+    <updated>2026-05-28T22:51:16Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="20696677"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2953973"/>
+  </entry>
+  <entry>
+    <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6aeb35422d8cf4331691866f310e2d9d</id>
+    <updated>2026-05-28T22:51:22Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="4621593"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kosotto_Hajirau_Sugata_wo_Ore_dake_ni_Misete_kuru_Gakuen_no_Ohime-sama_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2135406"/>
+  </entry>
+  <entry>
+    <title>Nawagami-san Wants to Be Tied Up  English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7deff8275c50bc00ad4842522f401682</id>
+    <updated>2026-05-28T22:51:29Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Nawagami-san_Wants_to_Be_Tied_Up__English__Volume_1.epub" type="application/epub+zip" title="Original" length="7812878"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Nawagami-san_Wants_to_Be_Tied_Up__English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4393464"/>
+  </entry>
+  <entry>
+    <title>Netori Mahoutsukai no Bouken LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c9854de2491c501ff310630899efe2c8</id>
+    <updated>2026-05-28T22:51:35Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="2975318"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="509062"/>
+  </entry>
+  <entry>
+    <title>Netori Mahoutsukai no Bouken LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:09e789db9049b0f5eca610d469078f47</id>
+    <updated>2026-05-28T22:51:40Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="1000847"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="224360"/>
+  </entry>
+  <entry>
+    <title>Ojo-sama no oshioki-gakari   sekuhara giwaku de shikkyaku shitara naze ka hentai ojo no goshujinsama n  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cf9df89254b337c85a37d735655b903d</id>
+    <updated>2026-05-28T23:00:01Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Ojo-sama_no_oshioki-gakari___sekuhara_giwaku_de_shikkyaku_shitara_naze_ka_hentai_ojo_no_goshujinsama_n__Volume_1.epub" type="application/epub+zip" title="Original" length="8802155"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Ojo-sama_no_oshioki-gakari___sekuhara_giwaku_de_shikkyaku_shitara_naze_ka_hentai_ojo_no_goshujinsama_n__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3055335"/>
+  </entry>
+  <entry>
+    <title>Omoi tabako o sutteru fukenko-sona toshiue bijin to dorodoro no kankei ni natte ita hanashi  English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:817b6749ccf4fc080dd14f42ae4379b0</id>
+    <updated>2026-05-28T22:51:47Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko-sona_toshiue_bijin_to_dorodoro_no_kankei_ni_natte_ita_hanashi__English__Volume_1.epub" type="application/epub+zip" title="Original" length="8814279"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko-sona_toshiue_bijin_to_dorodoro_no_kankei_ni_natte_ita_hanashi__English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3222345"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online SS 01</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:317875a3fe4366e019ae72e6dcc9422c</id>
+    <updated>2026-05-28T23:01:39Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_SS_01.epub" type="application/epub+zip" title="Original" length="442787"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_SS_01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="442781"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online SS 02</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:090fa26b711ac9bca8ddfabe45a2a523</id>
+    <updated>2026-05-28T23:01:44Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_SS_02.epub" type="application/epub+zip" title="Original" length="954379"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_SS_02--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="509789"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online The Silver Muse .Goddess.</title>
+    <author><name>Only Sense Online The Silver Muse .Goddess.</name></author>
+    <id>uuid:bad3beca930a2d20194872744b23275c</id>
+    <updated>2026-05-28T23:00:11Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_The_Silver_Muse_.Goddess.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3345423"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online The Silver Muse .Goddess</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:69ea29fdeb1fc8770abb6eccff1030f0</id>
+    <updated>2026-05-28T23:00:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_The_Silver_Muse_.Goddess.epub" type="application/epub+zip" title="Original" length="4018868"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.01</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:445e3f34a697268b0b37ce6ddd10fde3</id>
+    <updated>2026-05-28T23:00:15Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.01.epub" type="application/epub+zip" title="Original" length="6517693"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5086804"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.02</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1d19b937ea5b0c27d19df6dfdd65605d</id>
+    <updated>2026-05-28T23:00:22Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.02.epub" type="application/epub+zip" title="Original" length="5756850"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.02--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4472078"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.03</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:dd71be8d3ad1255d3787f1c2155dec43</id>
+    <updated>2026-05-28T23:00:29Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.03.epub" type="application/epub+zip" title="Original" length="7176555"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.03--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5701443"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.04</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:eca7525b4fd8ac0b66ebba26568242fc</id>
+    <updated>2026-05-28T23:00:37Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.04.epub" type="application/epub+zip" title="Original" length="7505445"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.04--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5763260"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.05</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3d8ed3a035ff034ee83a212b9da6c067</id>
+    <updated>2026-05-28T23:00:44Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.05.epub" type="application/epub+zip" title="Original" length="5659757"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.05--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4350883"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.06</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:23c6369cab1be6c5bca800384453bef2</id>
+    <updated>2026-05-28T23:00:51Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.06.epub" type="application/epub+zip" title="Original" length="3847554"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.06--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2964364"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.07</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:bb0ff0d6f605dce825bc929e9b69a225</id>
+    <updated>2026-05-28T23:00:58Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.07.epub" type="application/epub+zip" title="Original" length="4098528"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.07--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2909986"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.08</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e63f2a5d20763b4e4070b74ac09c8fd4</id>
+    <updated>2026-05-28T23:01:07Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.08.epub" type="application/epub+zip" title="Original" length="13443259"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.08--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2780557"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.09</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e53d6dfaf3882b27bb572b7d2c7bdb5d</id>
+    <updated>2026-05-28T23:01:14Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.09.epub" type="application/epub+zip" title="Original" length="4689370"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.09--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4156492"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.10</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7fafd2447c630e19fded88252136d50e</id>
+    <updated>2026-05-28T23:01:23Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.10.epub" type="application/epub+zip" title="Original" length="16807906"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.10--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3096425"/>
+  </entry>
+  <entry>
+    <title>Only Sense Online vol.11</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:556cd079cc70145df2f5bd0d841bd428</id>
+    <updated>2026-05-28T23:01:34Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.11.epub" type="application/epub+zip" title="Original" length="22498839"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Only_Sense_Online_vol.11--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2642215"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:14f3f4b35ccf87068b4923e96728eeae</id>
+    <updated>2026-05-28T22:51:54Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_1.epub" type="application/epub+zip" title="Original" length="11111723"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3504015"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3449e367c8fe013ad2d55c08fa650b0b</id>
+    <updated>2026-05-28T22:52:01Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_2.epub" type="application/epub+zip" title="Original" length="2901627"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2984121"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:22291a7773f8532bdd34ec85c1b1ac73</id>
+    <updated>2026-05-28T22:52:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_3.epub" type="application/epub+zip" title="Original" length="7570899"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3692756"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:074951b982c0969621068f9f10cb59b3</id>
+    <updated>2026-05-28T22:52:16Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_4.epub" type="application/epub+zip" title="Original" length="7893488"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3864821"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0086a410182cfcb7c25b9f01d94bbbbf</id>
+    <updated>2026-05-28T22:52:24Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_5.epub" type="application/epub+zip" title="Original" length="6323217"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3101209"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:518d0c4f69475db5e7c0ed3876808f3c</id>
+    <updated>2026-05-28T22:52:31Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_6.epub" type="application/epub+zip" title="Original" length="6375945"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3390238"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:bcce0e401b75da8cd6eb725acbad0223</id>
+    <updated>2026-05-28T22:52:38Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_7.epub" type="application/epub+zip" title="Original" length="5022056"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2424779"/>
+  </entry>
+  <entry>
+    <title>Otokogirai na Bijin Shimai wo Namae mo Tsugezuni Tasuketara Ittaidounaru  Volume 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0129270cd3b9ea64e0787761a6b96a39</id>
+    <updated>2026-05-28T22:52:45Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_8.epub" type="application/epub+zip" title="Original" length="6001893"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Otokogirai_na_Bijin_Shimai_wo_Namae_mo_Tsugezuni_Tasuketara_Ittaidounaru__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3464703"/>
+  </entry>
+  <entry>
+    <title>Overwhelming Magic Power  The Strongest in Another World  - It Seems These Troubled Beauties Can t Do   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5c1c2c9879700ae85b89417afdf478b8</id>
+    <updated>2026-05-28T22:52:52Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power__The_Strongest_in_Another_World__-_It_Seems_These_Troubled_Beauties_Can_t_Do___Volume_1.epub" type="application/epub+zip" title="Original" length="6755203"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power__The_Strongest_in_Another_World__-_It_Seems_These_Troubled_Beauties_Can_t_Do___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3588205"/>
+  </entry>
+  <entry>
+    <title>Senchi Kara Kaette Takashi-kun LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9dbc58921320a1a20e0531af7aa06e30</id>
+    <updated>2026-05-28T22:53:32Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="20664841"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3292515"/>
+  </entry>
+  <entry>
+    <title>Senchi Kara Kaette Takashi-kun LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4e829803f84c010ef67ef6e8efe92291</id>
+    <updated>2026-05-28T22:53:40Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="11525021"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Senchi_Kara_Kaette_Takashi-kun_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3289869"/>
+  </entry>
+  <entry>
+    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f3e4add685580559b7b4c52bce910870</id>
+    <updated>2026-05-28T22:53:01Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_1.epub" type="application/epub+zip" title="Original" length="15471213"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4389922"/>
+  </entry>
+  <entry>
+    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:64d3a1a3db8a26150013ed7f33d98e56</id>
+    <updated>2026-05-28T22:53:09Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_2.epub" type="application/epub+zip" title="Original" length="10172633"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4776664"/>
+  </entry>
+  <entry>
+    <title>Sen no sukiru de i sekai muso      Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to   Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f47b708163bfeca3a1d5f698612c7282</id>
+    <updated>2026-05-28T22:53:21Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_3.epub" type="application/epub+zip" title="Original" length="27567883"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso______Sukiru_ga_baretara_shokei_sa_rerunode_kenzen_seijitsu_ni_ikiyou_to___Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4096141"/>
+  </entry>
+  <entry>
+    <title>Soshiki no Shukuteki to Kekkon Shitara Mecha Amai  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a5cc2f328a7612b2486700e483f193db</id>
+    <updated>2026-05-28T22:54:03Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai__Volume_1.epub" type="application/epub+zip" title="Original" length="80368397"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Soshiki_no_Shukuteki_to_Kekkon_Shitara_Mecha_Amai__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="8660550"/>
+  </entry>
+  <entry>
+    <title>Tier 1 Sisters  The four famous sisters can t live without me   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:efaa7b18770b11acb8f40dce930faae2</id>
+    <updated>2026-05-28T22:54:27Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_1.epub" type="application/epub+zip" title="Original" length="18930227"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4233215"/>
+  </entry>
+  <entry>
+    <title>Tier 1 Sisters  The four famous sisters can t live without me   English  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:69915c72975e70a2ed3421a22d80e1b7</id>
+    <updated>2026-05-28T22:54:34Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_2.epub" type="application/epub+zip" title="Original" length="8442818"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2789582"/>
+  </entry>
+  <entry>
+    <title>Tier 1 Sisters  The four famous sisters can t live without me   English  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5d0116d66b9e4156b7aacaa1d324c17d</id>
+    <updated>2026-05-28T22:54:41Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_3.epub" type="application/epub+zip" title="Original" length="5792785"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters__The_four_famous_sisters_can_t_live_without_me___English__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2680520"/>
+  </entry>
+  <entry>
+    <title>Tomodachi ijo uwaki-miman no kanojo-tachi   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a3f7c8b063e0bff473be492b74a075e1</id>
+    <updated>2026-05-28T22:54:48Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki-miman_no_kanojo-tachi___English__Volume_1.epub" type="application/epub+zip" title="Original" length="7167115"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki-miman_no_kanojo-tachi___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2321102"/>
+  </entry>
+  <entry>
+    <title>TS tensei bishojo-on tora Reiko wa netora reiko   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c87a38f7ae209b80c0c66228f12232c3</id>
+    <updated>2026-05-28T22:54:11Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English__Volume_1.epub" type="application/epub+zip" title="Original" length="4421496"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2747164"/>
+  </entry>
+  <entry>
+    <title>TS tensei bishojo-on tora Reiko wa netora reiko   English  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5ff8c0f62c8830c4831dac6dca7fc93f</id>
+    <updated>2026-05-28T22:54:17Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English__Volume_2.epub" type="application/epub+zip" title="Original" length="7624962"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo-on_tora_Reiko_wa_netora_reiko___English__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3129078"/>
+  </entry>
+  <entry>
+    <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0e83915c818e41910cdf1bf201b776c3</id>
+    <updated>2026-05-28T22:54:54Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="7927374"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3346933"/>
+  </entry>
+  <entry>
+    <title>Uchi no seiso-kei inch ga katsute chunibyo aidorudatta koto o oredake ga shitte iru LN   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:548e06c36bff3deb14031ace3d13d814</id>
+    <updated>2026-05-28T22:55:02Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN___Volume_2.epub" type="application/epub+zip" title="Original" length="9781178"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Uchi_no_seiso-kei_inch_ga_katsute_chunibyo_aidorudatta_koto_o_oredake_ga_shitte_iru_LN___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4096466"/>
+  </entry>
+  <entry>
+    <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6c2796664d6c2f31471b8bcc6e18fc81</id>
+    <updated>2026-05-28T22:55:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English__Volume_1.epub" type="application/epub+zip" title="Original" length="6588817"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3030690"/>
+  </entry>
+  <entry>
+    <title>What Happens If You Saved A High School Girl Who Was About To Jump Off   English  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e78b454599e70e9aef1964f378a155bb</id>
+    <updated>2026-05-28T22:55:15Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English__Volume_2.epub" type="application/epub+zip" title="Original" length="5209814"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off___English__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2569439"/>
+  </entry>
+  <entry>
+    <title>Yome ni Uwaki Saretara  Daigaku Jidai ni Modotte Kimashita  LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b638d02a2357a40872d99fa5869f7751</id>
+    <updated>2026-05-28T22:55:23Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yome_ni_Uwaki_Saretara__Daigaku_Jidai_ni_Modotte_Kimashita__LN___Volume_1.epub" type="application/epub+zip" title="Original" length="16729880"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yome_ni_Uwaki_Saretara__Daigaku_Jidai_ni_Modotte_Kimashita__LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1416537"/>
+  </entry>
+  <entry>
+    <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c978a92bc8720b581fe940389c580ced</id>
+    <updated>2026-05-28T22:55:39Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken__Volume_1.epub" type="application/epub+zip" title="Original" length="53419156"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4829141"/>
+  </entry>
+  <entry>
+    <title>Yuukai Saresou ni Natte Iru Kou Tasuketara  Oshinobi de Asobi ni Kitte Ita Ohimesama Datta Ken  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fada280a4e1d753c6722c4f6b5ac5a2f</id>
+    <updated>2026-05-28T22:55:49Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken__Volume_2.epub" type="application/epub+zip" title="Original" length="19423492"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuukai_Saresou_ni_Natte_Iru_Kou_Tasuketara__Oshinobi_de_Asobi_ni_Kitte_Ita_Ohimesama_Datta_Ken__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2718366"/>
+  </entry>
+  <entry>
+    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d3773673ec55331e0ea1e722c1c4d70b</id>
+    <updated>2026-05-28T22:55:59Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_1.epub" type="application/epub+zip" title="Original" length="20345601"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3572045"/>
+  </entry>
+  <entry>
+    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:447808c10c1f78a907b012c42f8a23db</id>
+    <updated>2026-05-28T22:56:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_2.epub" type="application/epub+zip" title="Original" length="16906181"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3600528"/>
+  </entry>
+  <entry>
+    <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita  NOVEL  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:702646ddf4ed51ef9d8e016d1d0c0556</id>
+    <updated>2026-05-28T22:56:23Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_3.epub" type="application/epub+zip" title="Original" length="4449665"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita__NOVEL__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2488309"/>
+  </entry>
+  <entry>
+    <title>Yuusha Party wo Tsuihou Sareta Hakuma Doushi  S-Rank Bouken Shani Hirowa reru LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6704a90ed2ad0495c8e8ac8df735e977</id>
+    <updated>2026-05-28T22:56:31Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi__S-Rank_Bouken_Shani_Hirowa_reru_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="16536334"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi__S-Rank_Bouken_Shani_Hirowa_reru_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1848074"/>
+  </entry>
+  <entry>
+    <title>Zense Fujimi no Maou Nitotte Death Game ha Nurusugiru LN   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:42d18484db86d62afdd5bd67b6d92dec</id>
+    <updated>2026-05-28T22:56:42Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Zense_Fujimi_no_Maou_Nitotte_Death_Game_ha_Nurusugiru_LN___Volume_1.epub" type="application/epub+zip" title="Original" length="25428337"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Zense_Fujimi_no_Maou_Nitotte_Death_Game_ha_Nurusugiru_LN___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1961370"/>
+  </entry>
+  <entry>
+    <title> ENG  Asobi no Kankei  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c585e88114fe4e35266df8e8a4fe7d92</id>
+    <updated>2026-05-28T22:56:56Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Asobi_no_Kankei__Volume_1.epub" type="application/epub+zip" title="Original" length="7546486"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Asobi_no_Kankei__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3266013"/>
+  </entry>
+  <entry>
+    <title> ENG  Asobi no Kankei  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:432e3af5faa8ec7420de1fee19a30f43</id>
+    <updated>2026-05-28T22:57:05Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Asobi_no_Kankei__Volume_2.epub" type="application/epub+zip" title="Original" length="14496100"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Asobi_no_Kankei__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2767975"/>
+  </entry>
+  <entry>
+    <title> ENG  A childhood friend who has already won but mistakenly believes herself to be the losing heroine  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5c0a501aadbd2a525577596f0ec72a46</id>
+    <updated>2026-05-28T22:56:49Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine__Volume_1.epub" type="application/epub+zip" title="Original" length="4769806"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2843055"/>
+  </entry>
+  <entry>
+    <title> ENG  Exhausted with Life  I Arrived at a Village Where Beautiful Women Won t Let Me Go  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1ecbcb72c63dcbde4585f2980a613c9f</id>
+    <updated>2026-05-28T22:57:12Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Exhausted_with_Life__I_Arrived_at_a_Village_Where_Beautiful_Women_Won_t_Let_Me_Go__Volume_1.epub" type="application/epub+zip" title="Original" length="10898358"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Exhausted_with_Life__I_Arrived_at_a_Village_Where_Beautiful_Women_Won_t_Let_Me_Go__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3705111"/>
+  </entry>
+  <entry>
+    <title> ENG  Hello hello  this is the Quit-Club Alliance    English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:500308e4f687ef666799e2075e7adccf</id>
+    <updated>2026-05-28T22:57:19Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Hello_hello__this_is_the_Quit-Club_Alliance____English__Volume_1.epub" type="application/epub+zip" title="Original" length="4726109"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Hello_hello__this_is_the_Quit-Club_Alliance____English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2210623"/>
+  </entry>
+  <entry>
+    <title> ENG  If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy  She Becomes a Commu  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:04eb0ae4c0513f874941e1b4627f9711</id>
+    <updated>2026-05-28T22:57:57Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy__She_Becomes_a_Commu__Volume_1.epub" type="application/epub+zip" title="Original" length="6949799"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy__She_Becomes_a_Commu__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3445400"/>
+  </entry>
+  <entry>
+    <title> ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1e772bfb56662d7044536b910876d3af</id>
+    <updated>2026-05-28T22:47:08Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_1.epub" type="application/epub+zip" title="Original" length="8479793"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4153206"/>
+  </entry>
+  <entry>
+    <title> ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class   Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3b6c86a3585953ef1a4d9d92e19ca5ae</id>
+    <updated>2026-05-28T22:47:22Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_2.epub" type="application/epub+zip" title="Original" length="3061709"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3186819"/>
+  </entry>
+  <entry>
+    <title> ENG  Isekai Relaxed Uninhabited Island Life  Only I  Who Chose the Crafting Ability During the Class   Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:73aa1645acfbcdf9d9857b8b76de7607</id>
+    <updated>2026-05-28T22:47:16Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_3.epub" type="application/epub+zip" title="Original" length="10005258"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Isekai_Relaxed_Uninhabited_Island_Life__Only_I__Who_Chose_the_Crafting_Ability_During_the_Class___Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3255048"/>
+  </entry>
+  <entry>
+    <title> ENG  I Reincarnated as the Brutal Protagonist of a Cruel Erotic Game  but I m Not Actually That Much   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f338c5cd27312d4dccb80cacb358c7a4</id>
+    <updated>2026-05-28T22:57:34Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_Reincarnated_as_the_Brutal_Protagonist_of_a_Cruel_Erotic_Game__but_I_m_Not_Actually_That_Much___Volume_1.epub" type="application/epub+zip" title="Original" length="36685353"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_Reincarnated_as_the_Brutal_Protagonist_of_a_Cruel_Erotic_Game__but_I_m_Not_Actually_That_Much___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="9577760"/>
+  </entry>
+  <entry>
+    <title> ENG  I was scolded by my younger female instructor again today  English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e5aa7fbdcb97298f50896d416ad05709</id>
+    <updated>2026-05-28T22:57:43Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English__Volume_1.epub" type="application/epub+zip" title="Original" length="8489701"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4090650"/>
+  </entry>
+  <entry>
+    <title> ENG  I was scolded by my younger female instructor again today  English  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a29738f69394370576c3e4a7ff97946b</id>
+    <updated>2026-05-28T22:57:50Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English__Volume_2.epub" type="application/epub+zip" title="Original" length="4347239"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__I_was_scolded_by_my_younger_female_instructor_again_today__English__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3872982"/>
+  </entry>
+  <entry>
+    <title> ENG  Kanojo no ane wa 2-shu-me no kanojo  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1971e0b8f5bdd56fc5281092d2e68282</id>
+    <updated>2026-05-28T22:58:07Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Kanojo_no_ane_wa_2-shu-me_no_kanojo__Volume_1.epub" type="application/epub+zip" title="Original" length="23349452"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Kanojo_no_ane_wa_2-shu-me_no_kanojo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2921635"/>
+  </entry>
+  <entry>
+    <title> ENG  Killed Again  Mr. Detective  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:54ebc26ba0813e4552e4f5d6c0c6f414</id>
+    <updated>2026-05-28T22:58:15Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_1.epub" type="application/epub+zip" title="Original" length="11764826"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6024202"/>
+  </entry>
+  <entry>
+    <title> ENG  Killed Again  Mr. Detective  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1213e5564a72aa9ad3a1188c3346be4d</id>
+    <updated>2026-05-28T22:58:23Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_2.epub" type="application/epub+zip" title="Original" length="9208746"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4446663"/>
+  </entry>
+  <entry>
+    <title> ENG  Killed Again  Mr. Detective  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:2ff8cdeb86446ef1e9d2cb74354fdda0</id>
+    <updated>2026-05-28T22:58:31Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_3.epub" type="application/epub+zip" title="Original" length="9284862"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Killed_Again__Mr._Detective__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4371838"/>
+  </entry>
+  <entry>
+    <title> ENG  Onee-chan wa  kanojo de sensei de cho burakon  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3d9ee03f51b9e459a52262840db53a37</id>
+    <updated>2026-05-28T22:58:39Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Onee-chan_wa__kanojo_de_sensei_de_cho_burakon__Volume_1.epub" type="application/epub+zip" title="Original" length="14337822"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Onee-chan_wa__kanojo_de_sensei_de_cho_burakon__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2628713"/>
+  </entry>
+  <entry>
+    <title> ENG  Our Secret Youth in the Night School  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:50611ad425f3620000b5b4dd22ae9236</id>
+    <updated>2026-05-28T22:58:47Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Our_Secret_Youth_in_the_Night_School__Volume_1.epub" type="application/epub+zip" title="Original" length="6137963"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Our_Secret_Youth_in_the_Night_School__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3462781"/>
+  </entry>
+  <entry>
+    <title> ENG  Sensei   kisu wa jugyo no han i-gaidesu   English  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fa819e8ba7e40865be333fb9114697c9</id>
+    <updated>2026-05-28T22:58:53Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Sensei___kisu_wa_jugyo_no_han_i-gaidesu___English__Volume_1.epub" type="application/epub+zip" title="Original" length="3410551"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Sensei___kisu_wa_jugyo_no_han_i-gaidesu___English__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2419208"/>
+  </entry>
+  <entry>
+    <title> ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4902c19d124c650e44daf8c5ac3d969c</id>
+    <updated>2026-05-28T22:59:02Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World__Volume_1.epub" type="application/epub+zip" title="Original" length="12132363"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2502777"/>
+  </entry>
+  <entry>
+    <title> ENG  That Time I Got Reincarnated With Talent  I ll Work Hard Even if I Go to Another World  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1e1aebc20160b7cdb79414e74acab970</id>
+    <updated>2026-05-28T22:59:10Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World__Volume_2.epub" type="application/epub+zip" title="Original" length="12817178"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__That_Time_I_Got_Reincarnated_With_Talent__I_ll_Work_Hard_Even_if_I_Go_to_Another_World__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2363205"/>
+  </entry>
+  <entry>
+    <title> ENG  The Exiled Baron s Son s Magnificent Territory Reform  My Piece-of-Trash Father Called Me Useles  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f14a344956a15353470698f70a2dee98</id>
+    <updated>2026-05-28T22:59:19Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_Exiled_Baron_s_Son_s_Magnificent_Territory_Reform__My_Piece-of-Trash_Father_Called_Me_Useles__Volume_1.epub" type="application/epub+zip" title="Original" length="19698620"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_Exiled_Baron_s_Son_s_Magnificent_Territory_Reform__My_Piece-of-Trash_Father_Called_Me_Useles__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2382201"/>
+  </entry>
+  <entry>
+    <title> ENG  The National Young Lady Bought Worthless Me for 300 Million  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a8b6d972cec3a53d9df8165e3617a746</id>
+    <updated>2026-05-28T22:59:25Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_National_Young_Lady_Bought_Worthless_Me_for_300_Million__Volume_1.epub" type="application/epub+zip" title="Original" length="4102394"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_National_Young_Lady_Bought_Worthless_Me_for_300_Million__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2624510"/>
+  </entry>
+  <entry>
+    <title> ENG  The Time I Woke Up in Bed with My Childhood Friend Who Happens to Be Way Too Good-Looking  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:65b9874b6983ba4d4fb46261276c5baa</id>
+    <updated>2026-05-28T22:59:34Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_Time_I_Woke_Up_in_Bed_with_My_Childhood_Friend_Who_Happens_to_Be_Way_Too_Good-Looking__Volume_1.epub" type="application/epub+zip" title="Original" length="19519867"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__The_Time_I_Woke_Up_in_Bed_with_My_Childhood_Friend_Who_Happens_to_Be_Way_Too_Good-Looking__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2894191"/>
+  </entry>
+  <entry>
+    <title> Eng  Wai no honto no shokugyo ga  -sei kishi  toka ienai  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f386ca06ad035b088393d71456ec29eb</id>
+    <updated>2026-05-28T22:59:53Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_Eng__Wai_no_honto_no_shokugyo_ga__-sei_kishi__toka_ienai__Volume_1.epub" type="application/epub+zip" title="Original" length="4734817"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_Eng__Wai_no_honto_no_shokugyo_ga__-sei_kishi__toka_ienai__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2531828"/>
+  </entry>
+  <entry>
+    <title> ENG  When I Reunited with My Older Childhood Friend  She and Her Sister Started Fighting Over Me   Wa  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d1ad3d9a89d2a0f5fd6f0e3f6b598279</id>
+    <updated>2026-05-28T22:59:41Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__When_I_Reunited_with_My_Older_Childhood_Friend__She_and_Her_Sister_Started_Fighting_Over_Me___Wa__Volume_1.epub" type="application/epub+zip" title="Original" length="7998552"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__When_I_Reunited_with_My_Older_Childhood_Friend__She_and_Her_Sister_Started_Fighting_Over_Me___Wa__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4411451"/>
+  </entry>
+  <entry>
+    <title> ENG  Why Did I  a Onee-san Enthusiast  Fall for Tiny You   Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:34f16372e6c92b156d7925ef6bca2bf3</id>
+    <updated>2026-05-28T22:59:47Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Why_Did_I__a_Onee-san_Enthusiast__Fall_for_Tiny_You___Volume_1.epub" type="application/epub+zip" title="Original" length="3338122"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--_ENG__Why_Did_I__a_Onee-san_Enthusiast__Fall_for_Tiny_You___Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1839307"/>
   </entry>
 </feed>
