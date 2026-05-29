@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: EsNovels</title>
-  <updated>2026-05-29T04:57:12.370542Z</updated>
+  <updated>2026-05-29T18:23:02.135101Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_es.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -551,7 +551,6 @@
     <updated>2026-05-27T08:03:59Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--From_Toxic_Classmates_To_Girlfriend_Goals_Volume_6_.End.epub" type="application/epub+zip" title="Original" length="18102566"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--From_Toxic_Classmates_To_Girlfriend_Goals_Volume_6_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2200065"/>
   </entry>
   <entry>
     <title>Because I Became My Oshis Enemy Volume 1</title>
@@ -668,7 +667,6 @@
     <updated>2026-05-27T08:23:18Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Filming_a_Kiss_Scene_with_my_Genius_Actress_Childhood_Friend_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="12913295"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Filming_a_Kiss_Scene_with_my_Genius_Actress_Childhood_Friend_Volume_2_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2663459"/>
   </entry>
   <entry>
     <title>Becoming a Cleric in a World Where Beauty and Castity Values Are Reversed holding a Ritual with my Harem Party to Lift the Curse of Lst Volume 1</title>
@@ -983,7 +981,6 @@
     <updated>2026-05-27T08:37:32Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_._2_.Episode_1-41.epub" type="application/epub+zip" title="Original" length="574302"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_._2_.Episode_1-41--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="410382"/>
   </entry>
   <entry>
     <title>Date A Bullet Encore Volume 1</title>
@@ -2225,21 +2222,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--If_a_Mentally_Unstable_Girl_Changed_Into_an_Wifes_Apron_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3429573"/>
   </entry>
   <entry>
-    <title>If a Mentally Unstable Girl Changed Into an Wifes Apron Volume 2 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:650e230c7f8d0c2bd259074c9cacb0b8</id>
-    <updated>2026-05-27T07:46:29Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--If_a_Mentally_Unstable_Girl_Changed_Into_an_Wifes_Apron_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="7544121"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--If_a_Mentally_Unstable_Girl_Changed_Into_an_Wifes_Apron_Volume_2_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2019053"/>
-  </entry>
-  <entry>
     <title>If a Mentally Unstable Girl Changed Into an Wifes Apron Volume 2 .End.</title>
     <author><name>If a Mentally Unstable Girl Changed Into an Wifes Apron Volume 2 .End.</name></author>
     <id>uuid:69efeba46012c06035a01edf218d7821</id>
     <updated>2026-05-28T23:02:00Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--If_a_Mentally_Unstable_Girl_Changed_Into_an_Wifes_Apron_Volume_2_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2344541"/>
+  </entry>
+  <entry>
+    <title>If a Mentally Unstable Girl Changed Into an Wifes Apron Volume 2 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:650e230c7f8d0c2bd259074c9cacb0b8</id>
+    <updated>2026-05-27T07:46:29Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--If_a_Mentally_Unstable_Girl_Changed_Into_an_Wifes_Apron_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="7544121"/>
   </entry>
   <entry>
     <title>Immortal Detective Reidou Momiji Volume 1</title>
@@ -2890,21 +2886,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Started_Working_As_A_Lover_Agent_And_For_Some_Reason_Im_Receiving_Requests_From_Beauties_Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2891750"/>
   </entry>
   <entry>
-    <title>I Started Working As A Lover Agent And For Some Reason Im Receiving Requests From Beauties Volume 3 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:c9c7e9fe124f79a01fb930378c7d3971</id>
-    <updated>2026-05-27T08:04:17Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Started_Working_As_A_Lover_Agent_And_For_Some_Reason_Im_Receiving_Requests_From_Beauties_Volume_3_.End.epub" type="application/epub+zip" title="Original" length="4355707"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Started_Working_As_A_Lover_Agent_And_For_Some_Reason_Im_Receiving_Requests_From_Beauties_Volume_3_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4285578"/>
-  </entry>
-  <entry>
     <title>I Started Working As A Lover Agent And For Some Reason Im Receiving Requests From Beauties Volume 3 .End.</title>
     <author><name>I Started Working As A Lover Agent And For Some Reason Im Receiving Requests From Beauties Volume 3 .End.</name></author>
     <id>uuid:20749334d16c821d38c2eccc85798977</id>
     <updated>2026-05-28T23:02:50Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Started_Working_As_A_Lover_Agent_And_For_Some_Reason_Im_Receiving_Requests_From_Beauties_Volume_3_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3842188"/>
+  </entry>
+  <entry>
+    <title>I Started Working As A Lover Agent And For Some Reason Im Receiving Requests From Beauties Volume 3 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c9c7e9fe124f79a01fb930378c7d3971</id>
+    <updated>2026-05-27T08:04:17Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Started_Working_As_A_Lover_Agent_And_For_Some_Reason_Im_Receiving_Requests_From_Beauties_Volume_3_.End.epub" type="application/epub+zip" title="Original" length="4355707"/>
   </entry>
   <entry>
     <title>I Took the Female Leads First Time in a Romance Fantasy Chapter 1-95</title>
@@ -3123,21 +3118,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Wont_Allow_You_to_Have_a_Romantic_Comedy_With_Someone_Else_Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1937354"/>
   </entry>
   <entry>
-    <title>I Wont Allow You to Have a Romantic Comedy With Someone Else Volume 6 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:253715177aca07274884eb5d5a0962b0</id>
-    <updated>2026-05-27T08:10:32Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Wont_Allow_You_to_Have_a_Romantic_Comedy_With_Someone_Else_Volume_6_.End.epub" type="application/epub+zip" title="Original" length="12178015"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Wont_Allow_You_to_Have_a_Romantic_Comedy_With_Someone_Else_Volume_6_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1637929"/>
-  </entry>
-  <entry>
     <title>I Wont Allow You to Have a Romantic Comedy With Someone Else Volume 6 .End.</title>
     <author><name>I Wont Allow You to Have a Romantic Comedy With Someone Else Volume 6 .End.</name></author>
     <id>uuid:01ad08587185f38fb014800f806ec14e</id>
     <updated>2026-05-28T23:03:04Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Wont_Allow_You_to_Have_a_Romantic_Comedy_With_Someone_Else_Volume_6_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2030483"/>
+  </entry>
+  <entry>
+    <title>I Wont Allow You to Have a Romantic Comedy With Someone Else Volume 6 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:253715177aca07274884eb5d5a0962b0</id>
+    <updated>2026-05-27T08:10:32Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--I_Wont_Allow_You_to_Have_a_Romantic_Comedy_With_Someone_Else_Volume_6_.End.epub" type="application/epub+zip" title="Original" length="12178015"/>
   </entry>
   <entry>
     <title>Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo Volume 1</title>
@@ -3275,21 +3269,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Kurusu-san_Who_Does_Not_Speak_is_Full_of_Love_in_Her_Heart_Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2221901"/>
   </entry>
   <entry>
-    <title>Kurusu-san Who Does Not Speak is Full of Love in Her Heart Volume 3.End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:1a14eed2b784e768f1ee29594af96800</id>
-    <updated>2026-05-27T08:05:26Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Kurusu-san_Who_Does_Not_Speak_is_Full_of_Love_in_Her_Heart_Volume_3.End.epub" type="application/epub+zip" title="Original" length="1708878"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Kurusu-san_Who_Does_Not_Speak_is_Full_of_Love_in_Her_Heart_Volume_3.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1642190"/>
-  </entry>
-  <entry>
     <title>Kurusu-san Who Does Not Speak is Full of Love in Her Heart Volume 3.End.</title>
     <author><name>Kurusu-san Who Does Not Speak is Full of Love in Her Heart Volume 3.End.</name></author>
     <id>uuid:4b0ecf04b2e983ba16274bfacc5bd257</id>
     <updated>2026-05-28T23:02:56Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Kurusu-san_Who_Does_Not_Speak_is_Full_of_Love_in_Her_Heart_Volume_3.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2324873"/>
+  </entry>
+  <entry>
+    <title>Kurusu-san Who Does Not Speak is Full of Love in Her Heart Volume 3.End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1a14eed2b784e768f1ee29594af96800</id>
+    <updated>2026-05-27T08:05:26Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Kurusu-san_Who_Does_Not_Speak_is_Full_of_Love_in_Her_Heart_Volume_3.End.epub" type="application/epub+zip" title="Original" length="1708878"/>
   </entry>
   <entry>
     <title>Last Embryo Volume 1</title>
@@ -3337,21 +3330,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Lets_Have_Sx_My_Proposal_to_My_Classmate_Just_Before_She_Jumps_Off_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5287257"/>
   </entry>
   <entry>
-    <title>Lets Have Sx My Proposal to My Classmate Just Before She Jumps Off Volume 2 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:246085f2903b09800293c43c05d2dde2</id>
-    <updated>2026-05-27T07:41:17Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Lets_Have_Sx_My_Proposal_to_My_Classmate_Just_Before_She_Jumps_Off_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="6067964"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Lets_Have_Sx_My_Proposal_to_My_Classmate_Just_Before_She_Jumps_Off_Volume_2_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5990251"/>
-  </entry>
-  <entry>
     <title>Lets Have Sx My Proposal to My Classmate Just Before She Jumps Off Volume 2 .End.</title>
     <author><name>Lets Have Sx My Proposal to My Classmate Just Before She Jumps Off Volume 2 .End.</name></author>
     <id>uuid:71f1346ab6519a6905c94f38bfd3ace5</id>
     <updated>2026-05-28T23:01:53Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Lets_Have_Sx_My_Proposal_to_My_Classmate_Just_Before_She_Jumps_Off_Volume_2_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5998126"/>
+  </entry>
+  <entry>
+    <title>Lets Have Sx My Proposal to My Classmate Just Before She Jumps Off Volume 2 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:246085f2903b09800293c43c05d2dde2</id>
+    <updated>2026-05-27T07:41:17Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Lets_Have_Sx_My_Proposal_to_My_Classmate_Just_Before_She_Jumps_Off_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="6067964"/>
   </entry>
   <entry>
     <title>Liars Lips Fall Apart in Love Volume 1</title>
@@ -3363,21 +3355,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Liars_Lips_Fall_Apart_in_Love_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1730155"/>
   </entry>
   <entry>
-    <title>Liars Lips Fall Apart in Love Volume 2 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:6b45750c9cc1d181b9ae0533e71cf4b0</id>
-    <updated>2026-05-27T08:12:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Liars_Lips_Fall_Apart_in_Love_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="1741996"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Liars_Lips_Fall_Apart_in_Love_Volume_2_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1685780"/>
-  </entry>
-  <entry>
     <title>Liars Lips Fall Apart in Love Volume 2 .End.</title>
     <author><name>Liars Lips Fall Apart in Love Volume 2 .End.</name></author>
     <id>uuid:8204859832c8f7c876668ab995535eee</id>
     <updated>2026-05-28T23:03:10Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Liars_Lips_Fall_Apart_in_Love_Volume_2_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2365198"/>
+  </entry>
+  <entry>
+    <title>Liars Lips Fall Apart in Love Volume 2 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6b45750c9cc1d181b9ae0533e71cf4b0</id>
+    <updated>2026-05-27T08:12:09Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Es--Liars_Lips_Fall_Apart_in_Love_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="1741996"/>
   </entry>
   <entry>
     <title>Lie Lie Lie But I Love You Volume 1</title>
@@ -5356,21 +5347,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Cutest_Is_Amamiya_the_Second_Is_Me_Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2228940"/>
   </entry>
   <entry>
-    <title>The Cutest Is Amamiya the Second Is Me Volume 4 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:6c0eeffe4e3661e834cd59131f108ab5</id>
-    <updated>2026-05-27T07:53:33Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Cutest_Is_Amamiya_the_Second_Is_Me_Volume_4_.End.epub" type="application/epub+zip" title="Original" length="9219003"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Cutest_Is_Amamiya_the_Second_Is_Me_Volume_4_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2535272"/>
-  </entry>
-  <entry>
     <title>The Cutest Is Amamiya the Second Is Me Volume 4 .End.</title>
     <author><name>The Cutest Is Amamiya the Second Is Me Volume 4 .End.</name></author>
     <id>uuid:91288de10879e6e6d465ecf5b73c5a49</id>
     <updated>2026-05-28T23:02:20Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Cutest_Is_Amamiya_the_Second_Is_Me_Volume_4_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2885498"/>
+  </entry>
+  <entry>
+    <title>The Cutest Is Amamiya the Second Is Me Volume 4 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6c0eeffe4e3661e834cd59131f108ab5</id>
+    <updated>2026-05-27T07:53:33Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Cutest_Is_Amamiya_the_Second_Is_Me_Volume_4_.End.epub" type="application/epub+zip" title="Original" length="9219003"/>
   </entry>
   <entry>
     <title>The Delinquent Shimizu-san Sitting Next to Me Has Dyed Her Hair Black Volume 1</title>
@@ -5418,21 +5408,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Demon_Prince_Goes_to_the_Academy_Chapter_1-501--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="12297808"/>
   </entry>
   <entry>
-    <title>The Demon Prince Goes to the Academy Chapter 502-703 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:9c324ae5f54c6eb9eda96c13d5b1385f</id>
-    <updated>2026-05-27T08:26:48Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Demon_Prince_Goes_to_the_Academy_Chapter_502-703_.End.epub" type="application/epub+zip" title="Original" length="7204225"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Demon_Prince_Goes_to_the_Academy_Chapter_502-703_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2715882"/>
-  </entry>
-  <entry>
     <title>The Demon Prince Goes to the Academy Chapter 502-703 .End.</title>
     <author><name>The Demon Prince Goes to the Academy Chapter 502-703 .End.</name></author>
     <id>uuid:40d5093385e3125fba582bf4ac5429a3</id>
     <updated>2026-05-28T23:05:26Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Demon_Prince_Goes_to_the_Academy_Chapter_502-703_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3071991"/>
+  </entry>
+  <entry>
+    <title>The Demon Prince Goes to the Academy Chapter 502-703 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9c324ae5f54c6eb9eda96c13d5b1385f</id>
+    <updated>2026-05-27T08:26:48Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Demon_Prince_Goes_to_the_Academy_Chapter_502-703_.End.epub" type="application/epub+zip" title="Original" length="7204225"/>
   </entry>
   <entry>
     <title>The Devil Princess Volume 1</title>
@@ -5840,21 +5829,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend_Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2190757"/>
   </entry>
   <entry>
-    <title>The Love Comedy Which Nurtured With a Mom Friend Volume 3 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:76ddfb6cf6d617755d0d216e5d858013</id>
-    <updated>2026-05-27T07:52:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend_Volume_3_.End.epub" type="application/epub+zip" title="Original" length="4389282"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend_Volume_3_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4318144"/>
-  </entry>
-  <entry>
     <title>The Love Comedy Which Nurtured With a Mom Friend Volume 3 .End.</title>
     <author><name>The Love Comedy Which Nurtured With a Mom Friend Volume 3 .End.</name></author>
     <id>uuid:927cf340ccfd545c13ea68143cef169c</id>
     <updated>2026-05-28T23:02:06Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend_Volume_3_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4900358"/>
+  </entry>
+  <entry>
+    <title>The Love Comedy Which Nurtured With a Mom Friend Volume 3 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:76ddfb6cf6d617755d0d216e5d858013</id>
+    <updated>2026-05-27T07:52:09Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend_Volume_3_.End.epub" type="application/epub+zip" title="Original" length="4389282"/>
   </entry>
   <entry>
     <title>The Main Heroines are Trying to Kill Me Chapter 0-100</title>
@@ -5938,21 +5926,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Misunderstood_Saintly_Life_of_a_Villainous_Scion_Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2688776"/>
   </entry>
   <entry>
-    <title>The Misunderstood Saintly Life of a Villainous Scion Volume 5 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:125b5f5736fe08ead0889216b97e1372</id>
-    <updated>2026-05-27T07:52:54Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Misunderstood_Saintly_Life_of_a_Villainous_Scion_Volume_5_.End.epub" type="application/epub+zip" title="Original" length="2600023"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Misunderstood_Saintly_Life_of_a_Villainous_Scion_Volume_5_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2533165"/>
-  </entry>
-  <entry>
     <title>The Misunderstood Saintly Life of a Villainous Scion Volume 5 .End.</title>
     <author><name>The Misunderstood Saintly Life of a Villainous Scion Volume 5 .End.</name></author>
     <id>uuid:6e1a5177b0fc6b2f91670d3c6de8f71f</id>
     <updated>2026-05-28T23:02:13Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Misunderstood_Saintly_Life_of_a_Villainous_Scion_Volume_5_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2666165"/>
+  </entry>
+  <entry>
+    <title>The Misunderstood Saintly Life of a Villainous Scion Volume 5 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:125b5f5736fe08ead0889216b97e1372</id>
+    <updated>2026-05-27T07:52:54Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Misunderstood_Saintly_Life_of_a_Villainous_Scion_Volume_5_.End.epub" type="application/epub+zip" title="Original" length="2600023"/>
   </entry>
   <entry>
     <title>The Mythical Heros Otherworld Chronicles Volume 1</title>
@@ -6225,15 +6212,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Slave_of_the_Black_Knights_Is_Recruited_by_the_White_Adventures_Guild_As_an_S-ranked_Adventurer_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4375685"/>
   </entry>
   <entry>
-    <title>The Story of a Manga Artist Who Was Imprisoned by a Strange High School Girl Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:eaa643c697fb0f8fabdef0bf4d8aff8c</id>
-    <updated>2026-05-27T09:20:27Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Story_of_a_Manga_Artist_Who_Was_Imprisoned_by_a_Strange_High_School_Girl_Volume_1.epub" type="application/epub+zip" title="Original" length="7783702"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Story_of_a_Manga_Artist_Who_Was_Imprisoned_by_a_Strange_High_School_Girl_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1776042"/>
-  </entry>
-  <entry>
     <title>The Story of a Manga Artist Who Was Imprisoned by a Strange High School Girl Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ab21b8925fdf51f3f49983daf74adbd9</id>
@@ -6315,21 +6293,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Straw_Millionaire_the_Cat_and_the_Princess_Rise_to_the_Top_with_the_Space-Earth_Trade_Skill_A_CEO_A_Hero_A_Space_Pirate_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2649454"/>
   </entry>
   <entry>
-    <title>The Straw Millionaire the Cat and the Princess Rise to the Top with the Space-Earth Trade Skill A CEO A Hero A Space Pirate Volume 2 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:157feaf263067858e991a8c2474fd49a</id>
-    <updated>2026-05-27T07:53:43Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Straw_Millionaire_the_Cat_and_the_Princess_Rise_to_the_Top_with_the_Space-Earth_Trade_Skill_A_CEO_A_Hero_A_Space_Pirate_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="4773674"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Straw_Millionaire_the_Cat_and_the_Princess_Rise_to_the_Top_with_the_Space-Earth_Trade_Skill_A_CEO_A_Hero_A_Space_Pirate_Volume_2_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4708263"/>
-  </entry>
-  <entry>
     <title>The Straw Millionaire the Cat and the Princess Rise to the Top with the Space-Earth Trade Skill A CEO A Hero A Space Pirate Volume 2 .End.</title>
     <author><name>The Straw Millionaire the Cat and the Princess Rise to the Top with the Space-Earth Trade Skill A CEO A Hero A Space Pirate Volume 2 .End.</name></author>
     <id>uuid:28be35aaba178bdd0d040c4a1d40595b</id>
     <updated>2026-05-28T23:02:27Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Straw_Millionaire_the_Cat_and_the_Princess_Rise_to_the_Top_with_the_Space-Earth_Trade_Skill_A_CEO_A_Hero_A_Space_Pirate_Volume_2_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4483429"/>
+  </entry>
+  <entry>
+    <title>The Straw Millionaire the Cat and the Princess Rise to the Top with the Space-Earth Trade Skill A CEO A Hero A Space Pirate Volume 2 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:157feaf263067858e991a8c2474fd49a</id>
+    <updated>2026-05-27T07:53:43Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Straw_Millionaire_the_Cat_and_the_Princess_Rise_to_the_Top_with_the_Space-Earth_Trade_Skill_A_CEO_A_Hero_A_Space_Pirate_Volume_2_.End.epub" type="application/epub+zip" title="Original" length="4773674"/>
   </entry>
   <entry>
     <title>The Strongest Failed Aristocrats Dark Demon Sword Volume 1</title>
@@ -6368,21 +6345,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Strongest_Failed_Aristocrats_Dark_Demon_Sword_Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1797062"/>
   </entry>
   <entry>
-    <title>The Strongest Failed Aristocrats Dark Demon Sword Volume 5 .End</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:890f9a21c9140fc4d3a1687e7cec37ab</id>
-    <updated>2026-05-27T07:57:35Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Strongest_Failed_Aristocrats_Dark_Demon_Sword_Volume_5_.End.epub" type="application/epub+zip" title="Original" length="7964559"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Strongest_Failed_Aristocrats_Dark_Demon_Sword_Volume_5_.End--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2701453"/>
-  </entry>
-  <entry>
     <title>The Strongest Failed Aristocrats Dark Demon Sword Volume 5 .End.</title>
     <author><name>The Strongest Failed Aristocrats Dark Demon Sword Volume 5 .End.</name></author>
     <id>uuid:d4ac6e58941168ba6618c82774f75d2b</id>
     <updated>2026-05-28T23:02:34Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Strongest_Failed_Aristocrats_Dark_Demon_Sword_Volume_5_.End.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3361748"/>
+  </entry>
+  <entry>
+    <title>The Strongest Failed Aristocrats Dark Demon Sword Volume 5 .End</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:890f9a21c9140fc4d3a1687e7cec37ab</id>
+    <updated>2026-05-27T07:57:35Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Es--The_Strongest_Failed_Aristocrats_Dark_Demon_Sword_Volume_5_.End.epub" type="application/epub+zip" title="Original" length="7964559"/>
   </entry>
   <entry>
     <title>The Strongest in the Supernatural School Lurks in Peace  A Beyond-Standard Monster Pretends to Be Incompetent and Dominates the School from the Shadows Volume 1</title>
