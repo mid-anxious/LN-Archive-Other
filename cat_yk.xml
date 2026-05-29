@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-05-29T04:57:12.378007Z</updated>
+  <updated>2026-05-29T18:23:02.158687Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -698,15 +698,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Noblesse_Replica__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3674154"/>
   </entry>
   <entry>
-    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:1e70cd59447bb50207b6daacc8583677</id>
-    <updated>2026-05-28T22:33:27Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.epub" type="application/epub+zip" title="Original" length="25563584"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.---Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3860077"/>
-  </entry>
-  <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.</title>
     <author><name>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.</name></author>
     <id>uuid:9319f46641149d3ee4392fe54e3cecb4</id>
@@ -715,13 +706,12 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4902645"/>
   </entry>
   <entry>
-    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-</title>
+    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:a847cfc2993ade89933cbd935b942fa3</id>
-    <updated>2026-05-28T22:33:39Z</updated>
+    <id>uuid:1e70cd59447bb50207b6daacc8583677</id>
+    <updated>2026-05-28T22:33:27Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-.epub" type="application/epub+zip" title="Original" length="10539702"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.---Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2955647"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.1.-.epub" type="application/epub+zip" title="Original" length="25563584"/>
   </entry>
   <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-.</title>
@@ -732,13 +722,12 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3597710"/>
   </entry>
   <entry>
-    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-</title>
+    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:950247c848331b5d4a769d8c2b1920fe</id>
-    <updated>2026-05-28T22:33:54Z</updated>
+    <id>uuid:a847cfc2993ade89933cbd935b942fa3</id>
+    <updated>2026-05-28T22:33:39Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-.epub" type="application/epub+zip" title="Original" length="16084383"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.---Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2608846"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.2.-.epub" type="application/epub+zip" title="Original" length="10539702"/>
   </entry>
   <entry>
     <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-.</title>
@@ -749,13 +738,12 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3323815"/>
   </entry>
   <entry>
-    <title>Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-</title>
+    <title>One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:76dcc7829d734e7c8d81ce0b81adec16</id>
-    <updated>2026-05-28T22:38:23Z</updated>
+    <id>uuid:950247c848331b5d4a769d8c2b1920fe</id>
+    <updated>2026-05-28T22:33:54Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-.epub" type="application/epub+zip" title="Original" length="21478330"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.---Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2481744"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--One.day.out.of.nowhere.I.got.a.gyaru.fiancee.Volume.3.-.epub" type="application/epub+zip" title="Original" length="16084383"/>
   </entry>
   <entry>
     <title>Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-.</title>
@@ -764,6 +752,14 @@
     <updated>2026-05-28T22:38:27Z</updated>
     <content type="text">Source: YK</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3158957"/>
+  </entry>
+  <entry>
+    <title>Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:76dcc7829d734e7c8d81ce0b81adec16</id>
+    <updated>2026-05-28T22:38:23Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Only.I.Her.Future.Husband.Know.How.to.Make.Her.Show.Her.Sweet.Side.Volume.2.-.epub" type="application/epub+zip" title="Original" length="21478330"/>
   </entry>
   <entry>
     <title>Our.28.Days.of.Longing.for.the.End.-.Mochizuki.Kurage</title>
