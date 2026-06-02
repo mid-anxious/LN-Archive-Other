@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Miscellaneous</title>
-  <updated>2026-06-02T23:42:32.300692Z</updated>
+  <updated>2026-06-03T01:52:49.635890Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -251,25 +251,35 @@
     <title>Zero Damage Sword Saint -  Volume 01 Premium</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:475a75b77ca911ba9803c9569e56ea09</id>
-    <updated>2026-06-02T18:06:58Z</updated>
+    <updated>2026-06-02T18:47:59Z</updated>
     <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_-__Volume_01_Premium.epub" type="application/epub+zip" title="Original" length="19234132"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_-__Volume_01_Premium.epub" type="application/epub+zip" title="Original" length="19210543"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_-__Volume_01_Premium--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3186030"/>
+  </entry>
+  <entry>
+    <title>Zero Damage Sword Saint I Enrolled in a Magic School and Wound Up in a Contract with the Demon Qu.  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7d88f600a046760e38c305fc6130bc41</id>
+    <updated>2026-06-02T20:22:22Z</updated>
+    <content type="text">Source: Misc</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_in_a_Magic_School_and_Wound_Up_in_a_Contract_with_the_Demon_Qu.__Volume_2.epub" type="application/epub+zip" title="Original" length="21862832"/>
+  </entry>
+  <entry>
+    <title>Zero Damage Sword Saint I Enrolled in a Magic School and Wound Up in a Contract with the Demon Qu.  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0313881f5857ca32dfe76c38a9990f6d</id>
+    <updated>2026-06-02T20:22:28Z</updated>
+    <content type="text">Source: Misc</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_in_a_Magic_School_and_Wound_Up_in_a_Contract_with_the_Demon_Qu.__Volume_3.epub" type="application/epub+zip" title="Original" length="18488495"/>
   </entry>
   <entry>
     <title>The Jack-of-all-trades Kicked Out of the Heros Party  The Swordsman Who Became a Support Mage Due to Party Circumstances Becomes All Powerful Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4ebf51eae9d9a4677db604483218e24e</id>
-    <updated>2026-05-27T03:03:16Z</updated>
+    <updated>2026-06-02T18:48:08Z</updated>
     <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip" title="Original" length="1516386"/>
-  </entry>
-  <entry>
-    <title>Zero Damage Sword Saint I Enrolled in a Magic School and Wound Up in a Contract with the Demon Qu</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:d1561bd3589c3e5232223e5f0a6571c5</id>
-    <updated>2026-06-02T17:44:10Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Zero_Damage_Sword_Saint_I_Enrolled_in_a_Magic_School_and_Wound_Up_in_a_Contract_with_the_Demon_Qu.epub" type="application/epub+zip" title="Original" length="18488495"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip" title="Original" length="1516448"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2142059"/>
   </entry>
   <entry>
     <title>1LDK Soshite 2JK -  Volume 01</title>
