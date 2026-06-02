@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-06-02T23:42:32.301703Z</updated>
+  <updated>2026-06-03T01:52:49.636582Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -86,14 +86,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Danshi_Da__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2657924"/>
   </entry>
   <entry>
-    <title>Dauna Kei no Gyaru Yukikawa san LN  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:57ad266f83ce41fbaedcb13c7fbdc304</id>
-    <updated>2026-05-31T14:28:56Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Dauna_Kei_no_Gyaru_Yukikawa_san_LN__Volume_1.epub" type="application/epub+zip" title="Original" length="2493412"/>
-  </entry>
-  <entry>
     <title>Demure Girl After School Library Romcom  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3dec39d4ac9215339e96a16c83df0b84</id>
@@ -119,22 +111,6 @@
     <content type="text">Source: YK</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Demure_Girl_After_School_Library_Romcom__Vol_3.epub" type="application/epub+zip" title="Original" length="51521466"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Demure_Girl_After_School_Library_Romcom__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4250946"/>
-  </entry>
-  <entry>
-    <title>Gal Next Door Tries Too Hard To Win My Heart 01 The Tokiwa Youshou</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:c6450e8d9150fb12e6025ff18bcba108</id>
-    <updated>2026-05-31T14:28:56Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_01_The_Tokiwa_Youshou.epub" type="application/epub+zip" title="Original" length="30874368"/>
-  </entry>
-  <entry>
-    <title>Gal Next Door Tries Too Hard To Win My Heart 02 The Tokiwa Youshou</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:c1b55f9f9d09e206c92544ad5fe7dfcd</id>
-    <updated>2026-05-31T14:28:56Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_02_The_Tokiwa_Youshou.epub" type="application/epub+zip" title="Original" length="41490270"/>
   </entry>
   <entry>
     <title>Feeding the Cutest Gal  Vol 1</title>
@@ -218,94 +194,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Giving_Love_Advice_to_the_Schools_Cutest_Girl__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4878228"/>
   </entry>
   <entry>
-    <title>Gunatsu The Beautiful Girl I Happened to Save Won t Let Me Go 01 Sakuranomiya Amane</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e9d3edfb2e1dfdc65a7ca9852bf88c32</id>
-    <updated>2026-05-31T14:28:57Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_01_Sakuranomiya_Amane.epub" type="application/epub+zip" title="Original" length="18754757"/>
-  </entry>
-  <entry>
-    <title>Gunatsu The Beautiful Girl I Happened to Save Won t Let Me Go 02 Sakuranomiya Amane</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7d49826e50937e5292b78b76f5b230a4</id>
-    <updated>2026-05-31T14:28:57Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_02_Sakuranomiya_Amane.epub" type="application/epub+zip" title="Original" length="15511106"/>
-  </entry>
-  <entry>
-    <title>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 01 Manashiro Ka</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:4470c46dd04d2f8f53ab058845ec6844</id>
-    <updated>2026-05-31T19:35:09Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_01_Manashiro_Ka.epub" type="application/epub+zip" title="Original" length="21567122"/>
-  </entry>
-  <entry>
-    <title>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 02 Manashiro Ka</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:2969cf667589bcafc9017314adfd962d</id>
-    <updated>2026-05-31T19:35:09Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_02_Manashiro_Ka.epub" type="application/epub+zip" title="Original" length="24602539"/>
-  </entry>
-  <entry>
-    <title>AV App Lovey Dovey Sex with My Crush in Another Dimension 01 The Burrill Bernard</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:78e2fc1aabe901128def53633e662e58</id>
-    <updated>2026-05-31T14:28:58Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--AV_App_Lovey_Dovey_Sex_with_My_Crush_in_Another_Dimension_01_The_Burrill_Bernard.epub" type="application/epub+zip" title="Original" length="24340841"/>
-  </entry>
-  <entry>
-    <title>Beast Tamer Who Got Kicked Out From the Heroes Part Girl From the Superior Race 07 The Suzu Miyama</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e72f8de4ae743a23b03cedfe15c5b1c6</id>
-    <updated>2026-05-31T14:28:59Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_07_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="36500946"/>
-  </entry>
-  <entry>
-    <title>Beast Tamer Who Got Kicked Out From the Heroes Part Girl From the Superior Race 08 The Suzu Miyama</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:4c494657a5e66e2af94de2c3fc8e3deb</id>
-    <updated>2026-05-31T14:29:00Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_08_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="40739563"/>
-  </entry>
-  <entry>
-    <title>Beast Tamer Who Got Kicked Out From the Heroes Party Girl From the Superior Race 09 The Suzu Miyama</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:ae8dc705d0f0e07ff69fb5ba4e27b681</id>
-    <updated>2026-05-31T14:29:01Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Party_Girl_From_the_Superior_Race_09_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="32730250"/>
-  </entry>
-  <entry>
-    <title>beast tamer who got kicked out from the hero party om the superior race  Volume 6 The Suzu Miyama</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:89dfb9ec5c1cac7735971a2a26ca1489</id>
-    <updated>2026-05-31T15:34:38Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_om_the_superior_race__Volume_6_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="37145695"/>
-  </entry>
-  <entry>
-    <title>beast tamer who got kicked out from the hero party rom the superior race  Volume 4 The Miyama Suzu</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:9194f8b578999b695d0afe134fde8f2f</id>
-    <updated>2026-05-31T15:34:38Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_4_The_Miyama_Suzu.epub" type="application/epub+zip" title="Original" length="31833287"/>
-  </entry>
-  <entry>
-    <title>beast tamer who got kicked out from the hero party rom the superior race  Volume 5 The Miyama Suzu</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:280fb34870080f1733a52a1eafa08a27</id>
-    <updated>2026-05-31T15:34:39Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_5_The_Miyama_Suzu.epub" type="application/epub+zip" title="Original" length="36385700"/>
-  </entry>
-  <entry>
     <title>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 01 - Manashiro .</title>
     <author><name>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 01 - Manashiro .</name></author>
     <id>uuid:55000470ce33c04c67aadd565d8b86e4</id>
@@ -378,14 +266,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Party_Girl_From_the_Superior_Race_09_The_-_Suzu_Mi.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3411057"/>
   </entry>
   <entry>
-    <title>Dauna Kei no Gyaru Yukikawa-san LN  Volume 1</title>
-    <author><name>Dauna Kei no Gyaru Yukikawa-san LN  Volume 1</name></author>
-    <id>uuid:8c12b73cf1ecfd057da6123ff980218d</id>
-    <updated>2026-05-31T15:37:15Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Dauna_Kei_no_Gyaru_Yukikawa-san_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="508779"/>
-  </entry>
-  <entry>
     <title>Gal Next Door Tries Too Hard To Win My Heart 01 The - Tokiwa Youshou</title>
     <author><name>Gal Next Door Tries Too Hard To Win My Heart 01 The - Tokiwa Youshou</name></author>
     <id>uuid:cc92af1a6a3734ba99a27e37fcb4bde4</id>
@@ -416,6 +296,123 @@
     <updated>2026-05-31T15:37:17Z</updated>
     <content type="text">Source: YK</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_02_-_Sakuranomiya_Amane--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2433026"/>
+  </entry>
+  <entry>
+    <title>Gal Next Door Tries Too Hard To Win My Heart 01 The Tokiwa Youshou</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c6450e8d9150fb12e6025ff18bcba108</id>
+    <updated>2026-06-02T18:21:05Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_01_The_Tokiwa_Youshou.epub" type="application/epub+zip" title="Original" length="30874225"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_01_The_Tokiwa_Youshou--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5085550"/>
+  </entry>
+  <entry>
+    <title>Gal Next Door Tries Too Hard To Win My Heart 02 The Tokiwa Youshou</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c1b55f9f9d09e206c92544ad5fe7dfcd</id>
+    <updated>2026-06-02T18:21:26Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_02_The_Tokiwa_Youshou.epub" type="application/epub+zip" title="Original" length="41487525"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gal_Next_Door_Tries_Too_Hard_To_Win_My_Heart_02_The_Tokiwa_Youshou--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4688545"/>
+  </entry>
+  <entry>
+    <title>Gunatsu The Beautiful Girl I Happened to Save Won t Let Me Go 01 Sakuranomiya Amane</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e9d3edfb2e1dfdc65a7ca9852bf88c32</id>
+    <updated>2026-06-02T18:21:40Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_01_Sakuranomiya_Amane.epub" type="application/epub+zip" title="Original" length="18753695"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_01_Sakuranomiya_Amane--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3994275"/>
+  </entry>
+  <entry>
+    <title>Gunatsu The Beautiful Girl I Happened to Save Won t Let Me Go 02 Sakuranomiya Amane</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7d49826e50937e5292b78b76f5b230a4</id>
+    <updated>2026-06-02T18:21:52Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_02_Sakuranomiya_Amane.epub" type="application/epub+zip" title="Original" length="15511448"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Gunatsu_The_Beautiful_Girl_I_Happened_to_Save_Won_t_Let_Me_Go_02_Sakuranomiya_Amane--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3486938"/>
+  </entry>
+  <entry>
+    <title>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 01 Manashiro Ka</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4470c46dd04d2f8f53ab058845ec6844</id>
+    <updated>2026-06-02T18:22:07Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_01_Manashiro_Ka.epub" type="application/epub+zip" title="Original" length="21567158"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_01_Manashiro_Ka--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4740779"/>
+  </entry>
+  <entry>
+    <title>After I Picked Up a Black Cat My House Became a Hant Spot For Two Beautiful Girls 02 Manashiro Ka</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:2969cf667589bcafc9017314adfd962d</id>
+    <updated>2026-06-02T18:22:24Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_02_Manashiro_Ka.epub" type="application/epub+zip" title="Original" length="24602642"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--After_I_Picked_Up_a_Black_Cat_My_House_Became_a_Hant_Spot_For_Two_Beautiful_Girls_02_Manashiro_Ka--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4670336"/>
+  </entry>
+  <entry>
+    <title>AV App Lovey Dovey Sex with My Crush in Another Dimension 01 The Burrill Bernard</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:78e2fc1aabe901128def53633e662e58</id>
+    <updated>2026-06-02T18:22:38Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--AV_App_Lovey_Dovey_Sex_with_My_Crush_in_Another_Dimension_01_The_Burrill_Bernard.epub" type="application/epub+zip" title="Original" length="24340732"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--AV_App_Lovey_Dovey_Sex_with_My_Crush_in_Another_Dimension_01_The_Burrill_Bernard--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2314114"/>
+  </entry>
+  <entry>
+    <title>Beast Tamer Who Got Kicked Out From the Heroes Part Girl From the Superior Race 07 The Suzu Miyama</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e72f8de4ae743a23b03cedfe15c5b1c6</id>
+    <updated>2026-06-02T18:22:56Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_07_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="36501606"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_07_The_Suzu_Miyama--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5344789"/>
+  </entry>
+  <entry>
+    <title>Beast Tamer Who Got Kicked Out From the Heroes Part Girl From the Superior Race 08 The Suzu Miyama</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4c494657a5e66e2af94de2c3fc8e3deb</id>
+    <updated>2026-06-02T18:23:14Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_08_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="40740073"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Part_Girl_From_the_Superior_Race_08_The_Suzu_Miyama--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5216943"/>
+  </entry>
+  <entry>
+    <title>Beast Tamer Who Got Kicked Out From the Heroes Party Girl From the Superior Race 09 The Suzu Miyama</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ae8dc705d0f0e07ff69fb5ba4e27b681</id>
+    <updated>2026-06-02T18:23:30Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Party_Girl_From_the_Superior_Race_09_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="32730766"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--Beast_Tamer_Who_Got_Kicked_Out_From_the_Heroes_Party_Girl_From_the_Superior_Race_09_The_Suzu_Miyama--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5406082"/>
+  </entry>
+  <entry>
+    <title>beast tamer who got kicked out from the hero party om the superior race  Volume 6 The Suzu Miyama</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:89dfb9ec5c1cac7735971a2a26ca1489</id>
+    <updated>2026-06-02T18:23:47Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_om_the_superior_race__Volume_6_The_Suzu_Miyama.epub" type="application/epub+zip" title="Original" length="37146071"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_om_the_superior_race__Volume_6_The_Suzu_Miyama--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5656881"/>
+  </entry>
+  <entry>
+    <title>beast tamer who got kicked out from the hero party rom the superior race  Volume 4 The Miyama Suzu</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9194f8b578999b695d0afe134fde8f2f</id>
+    <updated>2026-06-02T18:24:06Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_4_The_Miyama_Suzu.epub" type="application/epub+zip" title="Original" length="31833862"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_4_The_Miyama_Suzu--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5152209"/>
+  </entry>
+  <entry>
+    <title>beast tamer who got kicked out from the hero party rom the superior race  Volume 5 The Miyama Suzu</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:280fb34870080f1733a52a1eafa08a27</id>
+    <updated>2026-06-02T18:24:23Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_5_The_Miyama_Suzu.epub" type="application/epub+zip" title="Original" length="36386186"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/YK--beast_tamer_who_got_kicked_out_from_the_hero_party_rom_the_superior_race__Volume_5_The_Miyama_Suzu--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4928780"/>
   </entry>
   <entry>
     <title>Hammered Girl  Vol 1</title>
@@ -1051,9 +1048,10 @@
     <title>That Promise Once More  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4d902dce9ee45e395b1329f270ec234c</id>
-    <updated>2026-05-27T07:26:20Z</updated>
+    <updated>2026-06-02T18:48:30Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--That_Promise_Once_More__Vol_1.epub" type="application/epub+zip" title="Original" length="56681855"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--That_Promise_Once_More__Vol_1.epub" type="application/epub+zip" title="Original" length="56670390"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--That_Promise_Once_More__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6355622"/>
   </entry>
   <entry>
     <title>There is No Alternate Solution to this Youth The Science Notes by and 02 - Sakai Takuma</title>
@@ -1068,49 +1066,64 @@
     <title>The Love x3 From That Day Wont End  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ee8af1c4e871de4602256ec6e8ea39d9</id>
-    <updated>2026-05-27T07:26:25Z</updated>
+    <updated>2026-06-02T18:48:43Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_1.epub" type="application/epub+zip" title="Original" length="16938470"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_1.epub" type="application/epub+zip" title="Original" length="16938456"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2631879"/>
   </entry>
   <entry>
     <title>The Love x3 From That Day Wont End  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:44dba8fab4a75b4bafc6f47398286623</id>
-    <updated>2026-05-27T07:26:37Z</updated>
+    <updated>2026-06-02T18:49:02Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_2.epub" type="application/epub+zip" title="Original" length="49197653"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_2.epub" type="application/epub+zip" title="Original" length="49196351"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Love_x3_From_That_Day_Wont_End__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5924852"/>
   </entry>
   <entry>
     <title>The S-Rank Beauty I Loved in High School  Full Series</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:7e056c6120ce70761dac0f87216eb396</id>
-    <updated>2026-05-27T07:31:03Z</updated>
+    <updated>2026-06-02T18:49:16Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_S-Rank_Beauty_I_Loved_in_High_School__Full_Series.epub" type="application/epub+zip" title="Original" length="22607942"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_S-Rank_Beauty_I_Loved_in_High_School__Full_Series.epub" type="application/epub+zip" title="Original" length="22607780"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_S-Rank_Beauty_I_Loved_in_High_School__Full_Series--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3931525"/>
   </entry>
   <entry>
     <title>The Science Notes by Delta and Gamma  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:0f36a95834211b1be30f46b8902a6a37</id>
-    <updated>2026-05-27T07:27:18Z</updated>
+    <updated>2026-06-02T18:49:35Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_1.epub" type="application/epub+zip" title="Original" length="48209318"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_1.epub" type="application/epub+zip" title="Original" length="48209127"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5626544"/>
   </entry>
   <entry>
     <title>The Science Notes by Delta and Gamma  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:8a3297ed23640764e9733b6b0903f6ca</id>
-    <updated>2026-05-27T07:27:27Z</updated>
+    <updated>2026-06-02T18:49:52Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_3.epub" type="application/epub+zip" title="Original" length="39520822"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_3.epub" type="application/epub+zip" title="Original" length="39514353"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Science_Notes_by_Delta_and_Gamma__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5085335"/>
   </entry>
   <entry>
-    <title>The Youth Rewrite of Me Who Was Fired from My Band and My Favorite High School Girl</title>
+    <title>The Youth Rewrite of Me Who Was Fired from My Band and My Favorite High School Girl  Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:8d5dd495beb56a45a0de85869384b600</id>
-    <updated>2026-05-31T15:56:33Z</updated>
+    <id>uuid:050c971e83a953118bd611bd49e13a51</id>
+    <updated>2026-06-02T18:55:34Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Youth_Rewrite_of_Me_Who_Was_Fired_from_My_Band_and_My_Favorite_High_School_Girl.epub" type="application/epub+zip" title="Original" length="16447502"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Youth_Rewrite_of_Me_Who_Was_Fired_from_My_Band_and_My_Favorite_High_School_Girl__Vol_1.epub" type="application/epub+zip" title="Original" length="16446338"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Youth_Rewrite_of_Me_Who_Was_Fired_from_My_Band_and_My_Favorite_High_School_Girl__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2824900"/>
+  </entry>
+  <entry>
+    <title>Tired of Taking Care of My Family I Chose to Become a Family with the School Princess 01 - Tetsub</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fd0516e1f03eca53daeb18f2e1559601</id>
+    <updated>2026-06-02T18:50:32Z</updated>
+    <content type="text">Source: YK</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Tired_of_Taking_Care_of_My_Family_I_Chose_to_Become_a_Family_with_the_School_Princess_01_-_Tetsub.epub" type="application/epub+zip" title="Original" length="26910845"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Tired_of_Taking_Care_of_My_Family_I_Chose_to_Become_a_Family_with_the_School_Princess_01_-_Tetsub--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5165498"/>
   </entry>
   <entry>
     <title>Tired of Taking Care of My Family I Chose to Become a Family with the School Princess 01 - Tetsub.</title>
@@ -1121,155 +1134,165 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Tired_of_Taking_Care_of_My_Family_I_Chose_to_Become_a_Family_with_the_School_Princess_01_-_Tetsub.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4551853"/>
   </entry>
   <entry>
-    <title>Tired of Taking Care of My Family I Chose to Become a Family with the School Princess 01 - Tetsub</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:fd0516e1f03eca53daeb18f2e1559601</id>
-    <updated>2026-05-31T19:36:57Z</updated>
-    <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Tired_of_Taking_Care_of_My_Family_I_Chose_to_Become_a_Family_with_the_School_Princess_01_-_Tetsub.epub" type="application/epub+zip" title="Original" length="26910330"/>
-  </entry>
-  <entry>
     <title>Villainess Fiancee  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:b72ddf22e1d8dc7e74a5e0b94a19583f</id>
-    <updated>2026-05-27T07:28:17Z</updated>
+    <updated>2026-06-02T18:50:43Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_1.epub" type="application/epub+zip" title="Original" length="8420549"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_1.epub" type="application/epub+zip" title="Original" length="8417711"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3404196"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:20571ba5e951fce87c21b49fa19dc5c0</id>
-    <updated>2026-05-27T07:28:21Z</updated>
+    <updated>2026-06-02T18:50:53Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_2.epub" type="application/epub+zip" title="Original" length="12674891"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_2.epub" type="application/epub+zip" title="Original" length="12673688"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3270970"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:9dd86db7d44ed266f2c61cb4101fea3d</id>
-    <updated>2026-05-27T07:28:26Z</updated>
+    <updated>2026-06-02T18:51:04Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_3.epub" type="application/epub+zip" title="Original" length="10319827"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_3.epub" type="application/epub+zip" title="Original" length="10320562"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2965306"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:38ff4307742ba36efbc25461236892e0</id>
-    <updated>2026-05-27T07:28:32Z</updated>
+    <updated>2026-06-02T18:51:14Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_4.epub" type="application/epub+zip" title="Original" length="13021834"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_4.epub" type="application/epub+zip" title="Original" length="13022950"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3314231"/>
   </entry>
   <entry>
     <title>Villainess Fiancee  Vol 5</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c0efc07ee11a71f06da2a32b1cb69d5a</id>
-    <updated>2026-05-27T07:28:36Z</updated>
+    <updated>2026-06-02T18:51:26Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_5.epub" type="application/epub+zip" title="Original" length="19782014"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_5.epub" type="application/epub+zip" title="Original" length="19781997"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Villainess_Fiancee__Vol_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3336066"/>
   </entry>
   <entry>
     <title>We Two Losers Absolutely Positively Have to Be Happy  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:d15fe5a46b9a7c618f380e8936b234f2</id>
-    <updated>2026-05-27T07:29:19Z</updated>
+    <updated>2026-06-02T18:51:44Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--We_Two_Losers_Absolutely_Positively_Have_to_Be_Happy__Vol_1.epub" type="application/epub+zip" title="Original" length="50020089"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--We_Two_Losers_Absolutely_Positively_Have_to_Be_Happy__Vol_1.epub" type="application/epub+zip" title="Original" length="50019252"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--We_Two_Losers_Absolutely_Positively_Have_to_Be_Happy__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5807701"/>
   </entry>
   <entry>
     <title>What I Can Do For You  Full Series</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4e6aa6c0abd4ea678059237ef43cb05c</id>
-    <updated>2026-05-27T07:31:17Z</updated>
+    <updated>2026-06-02T18:51:55Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_I_Can_Do_For_You__Full_Series.epub" type="application/epub+zip" title="Original" length="12295553"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_I_Can_Do_For_You__Full_Series.epub" type="application/epub+zip" title="Original" length="12295291"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_I_Can_Do_For_You__Full_Series--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2642430"/>
   </entry>
   <entry>
     <title>What You Left Me  Full Series</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:bc5e92a0b7af459b840d20cc3cef6371</id>
-    <updated>2026-05-27T07:31:20Z</updated>
+    <updated>2026-06-02T18:52:03Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_You_Left_Me__Full_Series.epub" type="application/epub+zip" title="Original" length="2578637"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_You_Left_Me__Full_Series.epub" type="application/epub+zip" title="Original" length="2578447"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--What_You_Left_Me__Full_Series--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1079651"/>
   </entry>
   <entry>
     <title>When Classes Went Remote  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:770f4021b27a06c30780843630b4dba6</id>
-    <updated>2026-05-27T07:29:27Z</updated>
+    <updated>2026-06-02T18:52:16Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Classes_Went_Remote__Vol_1.epub" type="application/epub+zip" title="Original" length="24665533"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Classes_Went_Remote__Vol_1.epub" type="application/epub+zip" title="Original" length="24665342"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Classes_Went_Remote__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3686496"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationsh.  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:0ece5d47a1757e4a9144a12518b15ad3</id>
-    <updated>2026-05-31T19:36:58Z</updated>
+    <updated>2026-06-02T18:52:32Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_1.epub" type="application/epub+zip" title="Original" length="40243163"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_1.epub" type="application/epub+zip" title="Original" length="40242982"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6119592"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationsh.  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e8c39e29927ae4b0e661e04a1cc8a371</id>
-    <updated>2026-05-31T19:36:58Z</updated>
+    <updated>2026-06-02T18:52:50Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_2.epub" type="application/epub+zip" title="Original" length="40750353"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_2.epub" type="application/epub+zip" title="Original" length="40750346"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6260976"/>
   </entry>
   <entry>
     <title>When the Introverted Me Got Surrounded by S-Tier Beauties After a Seat Change a Secret Relationsh.  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:5e69d1015dc5ad6426a7abec00cb28a7</id>
-    <updated>2026-05-31T19:36:59Z</updated>
+    <updated>2026-06-02T18:53:06Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_3.epub" type="application/epub+zip" title="Original" length="39717160"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_3.epub" type="application/epub+zip" title="Original" length="39717045"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_the_Introverted_Me_Got_Surrounded_by_S-Tier_Beauties_After_a_Seat_Change_a_Secret_Relationsh.__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5756388"/>
   </entry>
   <entry>
     <title>When Two Opposite Otaku s Fall in Love - Ren Kujou</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c45dc32af1bc2d483f94037175eda5f3</id>
-    <updated>2026-05-31T15:56:40Z</updated>
+    <updated>2026-06-02T18:53:16Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Two_Opposite_Otaku_s_Fall_in_Love_-_Ren_Kujou.epub" type="application/epub+zip" title="Original" length="4742005"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Two_Opposite_Otaku_s_Fall_in_Love_-_Ren_Kujou.epub" type="application/epub+zip" title="Original" length="4742301"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--When_Two_Opposite_Otaku_s_Fall_in_Love_-_Ren_Kujou--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1431010"/>
   </entry>
   <entry>
     <title>Winning CHF Thinks Shes The Losing Heroine  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e6084eb96342d130e4a02f666f8ac59b</id>
-    <updated>2026-05-27T07:29:36Z</updated>
+    <updated>2026-06-02T18:53:29Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Winning_CHF_Thinks_Shes_The_Losing_Heroine__Vol_1.epub" type="application/epub+zip" title="Original" length="36317039"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Winning_CHF_Thinks_Shes_The_Losing_Heroine__Vol_1.epub" type="application/epub+zip" title="Original" length="36316334"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Winning_CHF_Thinks_Shes_The_Losing_Heroine__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5117813"/>
   </entry>
   <entry>
     <title>Yandere Maid Princess  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:7db94cab83d13ef0233ff35e39c8b11f</id>
-    <updated>2026-05-27T07:29:58Z</updated>
+    <updated>2026-06-02T18:53:42Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_1.epub" type="application/epub+zip" title="Original" length="21817081"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_1.epub" type="application/epub+zip" title="Original" length="21817256"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3011833"/>
   </entry>
   <entry>
     <title>Yandere Maid Princess  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e7bb983e0721a78acb3289408df23fac</id>
-    <updated>2026-05-27T07:30:20Z</updated>
+    <updated>2026-06-02T18:54:07Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_2.epub" type="application/epub+zip" title="Original" length="38527705"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_2.epub" type="application/epub+zip" title="Original" length="38527517"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--Yandere_Maid_Princess__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5508600"/>
   </entry>
   <entry>
     <title>You Guys Should Get Married Soon  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:b3d64ab40b74fade8476aeda32a790c8</id>
-    <updated>2026-05-27T07:30:26Z</updated>
+    <updated>2026-06-02T18:54:19Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_1.epub" type="application/epub+zip" title="Original" length="13358655"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_1.epub" type="application/epub+zip" title="Original" length="13358192"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3282145"/>
   </entry>
   <entry>
     <title>You Guys Should Get Married Soon  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:891a59fcd9ed9b041d02b25eaa28f384</id>
-    <updated>2026-05-27T07:30:33Z</updated>
+    <updated>2026-06-02T18:54:33Z</updated>
     <content type="text">Source: YK</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_2.epub" type="application/epub+zip" title="Original" length="24698987"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_2.epub" type="application/epub+zip" title="Original" length="24698327"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--You_Guys_Should_Get_Married_Soon__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3568975"/>
   </entry>
 </feed>
