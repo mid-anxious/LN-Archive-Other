@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: RJ-Novels</title>
-  <updated>2026-06-02T23:42:32.300929Z</updated>
+  <updated>2026-06-03T01:52:49.636048Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_rj.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -278,17 +278,19 @@
     <title>I Have been Reincarnated As a Lazy Arrogant Noble but When I Destroyed The Scenario Through Effor  Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4cdde21c379d781b386e6bf697d41beb</id>
-    <updated>2026-06-02T18:12:09Z</updated>
+    <updated>2026-06-02T18:31:44Z</updated>
     <content type="text">Source: RJ</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_1.epub" type="application/epub+zip" title="Original" length="2824308"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_1.epub" type="application/epub+zip" title="Original" length="2822139"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3574975"/>
   </entry>
   <entry>
     <title>I Have been Reincarnated As a Lazy Arrogant Noble but When I Destroyed The Scenario Through Effor  Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a24f1a559162b009911bdacce5fb6239</id>
-    <updated>2026-06-02T18:12:13Z</updated>
+    <updated>2026-06-02T18:31:54Z</updated>
     <content type="text">Source: RJ</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_2.epub" type="application/epub+zip" title="Original" length="2455458"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_2.epub" type="application/epub+zip" title="Original" length="2453887"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Have_been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The_Scenario_Through_Effor__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3177477"/>
   </entry>
   <entry>
     <title>I Made the Girl I Liked My Maid and Now Shes Secretly Doing Something in My Room  Volume 1</title>
@@ -375,9 +377,10 @@
     <title>Koibito Daiko no Baito o Hajimeta ore Nazedarou Fukusu no Bishojo Kara Shimei Irai ga Haitte Kuru  Volume 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a3317006fecd0a328b4a80370c205b2c</id>
-    <updated>2026-05-31T15:43:31Z</updated>
+    <updated>2026-06-02T19:09:30Z</updated>
     <content type="text">Source: RJ</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru__Volume_3.epub" type="application/epub+zip" title="Original" length="2563860"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru__Volume_3.epub" type="application/epub+zip" title="Original" length="2561945"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--Koibito_Daiko_no_Baito_o_Hajimeta_ore_Nazedarou_Fukusu_no_Bishojo_Kara_Shimei_Irai_ga_Haitte_Kuru__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3833237"/>
   </entry>
   <entry>
     <title>Kono Monogatari O Kimi Ni Sasagu  Volume 1</title>
