@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: KDT Translations</title>
-  <updated>2026-05-29T18:23:02.154722Z</updated>
+  <updated>2026-06-02T23:42:32.299886Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_kdt.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -176,22 +176,22 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Vol_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="7928299"/>
   </entry>
   <entry>
-    <title>I Got A Cheat Ability In A Different World And Become Extraordinary Even In The Real World Kaori Side Story  Vol 1</title>
+    <title>I Got A Cheat Ability In A Different World And Become Extraordinary Even In The Real World Kaori .  Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:1c14e3a1859af7c4ed572c70e18ba419</id>
-    <updated>2026-05-27T03:38:17Z</updated>
+    <id>uuid:0f0757ee93e7b6b0696e41471968d623</id>
+    <updated>2026-05-31T19:35:51Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_Side_Story__Vol_1.epub" type="application/epub+zip" title="Original" length="6422536"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_Side_Story__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3841271"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_.__Vol_1.epub" type="application/epub+zip" title="Original" length="6422536"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_.__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3841271"/>
   </entry>
   <entry>
-    <title>I Got A Cheat Ability In A Different World And Become Extraordinary Even In The Real World Kaori Side Story  Vol 2</title>
+    <title>I Got A Cheat Ability In A Different World And Become Extraordinary Even In The Real World Kaori .  Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:e11d0af57e019776f56e4fe4cfbf22ba</id>
-    <updated>2026-05-27T03:38:22Z</updated>
+    <id>uuid:749e7b32f3c8930eba2ea65ad173852c</id>
+    <updated>2026-05-31T19:35:52Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_Side_Story__Vol_2.epub" type="application/epub+zip" title="Original" length="10353545"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_Side_Story__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3902697"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_.__Vol_2.epub" type="application/epub+zip" title="Original" length="10353545"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Got_A_Cheat_Ability_In_A_Different_World_And_Become_Extraordinary_Even_In_The_Real_World_Kaori_.__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3902697"/>
   </entry>
   <entry>
     <title>I Reunited with my Ex-Girlfriend on a Dating App  Vol 1</title>
@@ -230,31 +230,31 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Reunited_with_my_Ex-Girlfriend_on_a_Dating_App__Vol_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5273121"/>
   </entry>
   <entry>
-    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National Treasure-Level Beauty  Vol 1</title>
+    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National.  Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:c0022e0dfdea5817e1ad8c438ebf2d41</id>
-    <updated>2026-05-27T03:39:46Z</updated>
+    <id>uuid:f60d393f65a53ddeb24eb840f8bc9b66</id>
+    <updated>2026-05-31T19:35:53Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_1.epub" type="application/epub+zip" title="Original" length="2664172"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5804926"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_1.epub" type="application/epub+zip" title="Original" length="2664172"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5804926"/>
   </entry>
   <entry>
-    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National Treasure-Level Beauty  Vol 2</title>
+    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National.  Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:9f1578a7f2acc147e19a8fc2897a88c6</id>
-    <updated>2026-05-27T03:39:53Z</updated>
+    <id>uuid:1a95e02aec7ebcdc44ce325c60276aae</id>
+    <updated>2026-05-31T19:35:54Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_2.epub" type="application/epub+zip" title="Original" length="2622356"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="7170363"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_2.epub" type="application/epub+zip" title="Original" length="2622356"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="7170363"/>
   </entry>
   <entry>
-    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National Treasure-Level Beauty  Vol 3</title>
+    <title>I Went To A Group Date To Make Up Numbers But Somehow Took Home A Leftover Former Idol A National.  Vol 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:b2e6867892a0b1e500d6e02b7727ce6c</id>
-    <updated>2026-05-27T03:40:02Z</updated>
+    <id>uuid:4be9de9e3f76b097e3b0699bff806f94</id>
+    <updated>2026-05-31T19:35:55Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_3.epub" type="application/epub+zip" title="Original" length="2739956"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National_Treasure-Level_Beauty__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6043358"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_3.epub" type="application/epub+zip" title="Original" length="2739956"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Went_To_A_Group_Date_To_Make_Up_Numbers_But_Somehow_Took_Home_A_Leftover_Former_Idol_A_National.__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6043358"/>
   </entry>
   <entry>
     <title>Lets Have Sx My Proposal to My Classmate Just Before She Jumps Off  Vol 1</title>
@@ -365,85 +365,85 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Shigoto_Kaeri_Dokushin_no_Bijin_Joushi_ni_Tanomarete__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5851877"/>
   </entry>
   <entry>
-    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesnt Stick With the Hero Happy  Vol 1</title>
+    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesn.  Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:79934a45274728a338e1b59d7724ccbf</id>
-    <updated>2026-05-27T03:41:46Z</updated>
+    <id>uuid:c0ee1f7de1bf6cc7930beee4d925f24d</id>
+    <updated>2026-05-31T19:36:12Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_1.epub" type="application/epub+zip" title="Original" length="3429044"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5863327"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_1.epub" type="application/epub+zip" title="Original" length="3429044"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5863327"/>
   </entry>
   <entry>
-    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesnt Stick With the Hero Happy  Vol 2</title>
+    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesn.  Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:23d2f0c1ae4ea5c2a2f9e17734bdb77e</id>
-    <updated>2026-05-27T03:41:55Z</updated>
+    <id>uuid:ae288b2b17b7c07158c4cb1c872a620f</id>
+    <updated>2026-05-31T19:36:13Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_2.epub" type="application/epub+zip" title="Original" length="2831444"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4808970"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_2.epub" type="application/epub+zip" title="Original" length="2831444"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4808970"/>
   </entry>
   <entry>
-    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesnt Stick With the Hero Happy  Vol 3</title>
+    <title>Since Ive Entered the World of Romantic Comedy Manga Ill Do My Best to Make the Heroine Who Doesn.  Vol 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:f85ae6d64ce562d7ce4e4fff42c86128</id>
-    <updated>2026-05-27T03:42:04Z</updated>
+    <id>uuid:46b11e84ca4fe6c04ac9cce37f6d13a3</id>
+    <updated>2026-05-31T19:36:15Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_3.epub" type="application/epub+zip" title="Original" length="2595288"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesnt_Stick_With_the_Hero_Happy__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4485428"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_3.epub" type="application/epub+zip" title="Original" length="2595288"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KDT--Since_Ive_Entered_the_World_of_Romantic_Comedy_Manga_Ill_Do_My_Best_to_Make_the_Heroine_Who_Doesn.__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4485428"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 1</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:24693dd78c5ea3a2cfc26a8861adba90</id>
-    <updated>2026-05-27T03:44:35Z</updated>
+    <id>uuid:4fea76f2377ae663eef87f89e07e3714</id>
+    <updated>2026-05-31T19:36:39Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_1.epub" type="application/epub+zip" title="Original" length="3060127"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="7237771"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_1.epub" type="application/epub+zip" title="Original" length="3060127"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="7237771"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 2</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:d8fb965463848a3ddaa7e17c23863bf6</id>
-    <updated>2026-05-27T03:44:44Z</updated>
+    <id>uuid:38b11cde96273aacc5df8043eaa362a5</id>
+    <updated>2026-05-31T19:36:40Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_2.epub" type="application/epub+zip" title="Original" length="2713822"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6454158"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_2.epub" type="application/epub+zip" title="Original" length="2713822"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6454158"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 3</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:6bd46b8f545414d782405e1b8b732369</id>
-    <updated>2026-05-27T03:44:54Z</updated>
+    <id>uuid:42ffd3514e7fcd78762426a872c458cf</id>
+    <updated>2026-05-31T19:36:42Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_3.epub" type="application/epub+zip" title="Original" length="2802471"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6447117"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_3.epub" type="application/epub+zip" title="Original" length="2802471"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6447117"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 4</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 4</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:0eb66877d91e912a1bd6f90cfc9fc03b</id>
-    <updated>2026-05-27T03:45:02Z</updated>
+    <id>uuid:ea746b4661ae9770cc14f1015845b198</id>
+    <updated>2026-05-31T19:36:42Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_4.epub" type="application/epub+zip" title="Original" length="2684382"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6571743"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_4.epub" type="application/epub+zip" title="Original" length="2684382"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6571743"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 5</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 5</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:ccf4f160d0260b13799e365b21230295</id>
-    <updated>2026-05-27T03:45:13Z</updated>
+    <id>uuid:67d74d4cdc8570f96fefe6be0eb46871</id>
+    <updated>2026-05-31T19:36:43Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_5.epub" type="application/epub+zip" title="Original" length="2895321"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6875389"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_5.epub" type="application/epub+zip" title="Original" length="2895321"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6875389"/>
   </entry>
   <entry>
-    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Innocent High School Girl  Vol 6</title>
+    <title>That Stupid Runt Who Reunited With Me After 10 Years Is Now Transformed into a Beautiful and Inno.  Vol 6</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:a4e218557dd42c905959b64189f4b5b5</id>
-    <updated>2026-05-27T03:45:17Z</updated>
+    <id>uuid:016f1757a325eb3450e99a23581b0b29</id>
+    <updated>2026-05-31T19:36:44Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_6.epub" type="application/epub+zip" title="Original" length="2708254"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Innocent_High_School_Girl__Vol_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6560499"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_6.epub" type="application/epub+zip" title="Original" length="2708254"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--That_Stupid_Runt_Who_Reunited_With_Me_After_10_Years_Is_Now_Transformed_into_a_Beautiful_and_Inno.__Vol_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6560499"/>
   </entry>
   <entry>
     <title>The Girl I Met on the Matchmaking App Turned Out to Be My Student  Vol 1</title>
