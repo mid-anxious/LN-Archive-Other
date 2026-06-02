@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: KDT Translations</title>
-  <updated>2026-06-02T23:42:32.299886Z</updated>
+  <updated>2026-06-03T01:52:49.635557Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_kdt.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -512,96 +512,108 @@
     <title>The Young Lady Has Been Acting Weird Ever Since Someone Confessed to Me  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:0748be51ec677953796e4eacd7a2d48c</id>
-    <updated>2026-05-27T03:45:32Z</updated>
+    <updated>2026-06-02T18:46:02Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--The_Young_Lady_Has_Been_Acting_Weird_Ever_Since_Someone_Confessed_to_Me__Vol_3.epub" type="application/epub+zip" title="Original" length="2298162"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--The_Young_Lady_Has_Been_Acting_Weird_Ever_Since_Someone_Confessed_to_Me__Vol_3.epub" type="application/epub+zip" title="Original" length="2298101"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--The_Young_Lady_Has_Been_Acting_Weird_Ever_Since_Someone_Confessed_to_Me__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3163450"/>
   </entry>
   <entry>
     <title>VIP An Unexpected Exile and the Slow Life that Followed  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3ef084199dfc6af8064d5c02d3b2800d</id>
-    <updated>2026-05-27T03:42:33Z</updated>
+    <updated>2026-06-02T18:46:11Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_1.epub" type="application/epub+zip" title="Original" length="4066074"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_1.epub" type="application/epub+zip" title="Original" length="4065953"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2630347"/>
   </entry>
   <entry>
     <title>VIP An Unexpected Exile and the Slow Life that Followed  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ebac1bdd2733e904167b557d48683607</id>
-    <updated>2026-05-27T03:42:36Z</updated>
+    <updated>2026-06-02T18:46:20Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_2.epub" type="application/epub+zip" title="Original" length="2269692"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_2.epub" type="application/epub+zip" title="Original" length="2269546"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_An_Unexpected_Exile_and_the_Slow_Life_that_Followed__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2261592"/>
   </entry>
   <entry>
     <title>VIP Gariben-kun to Uraaka-san  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ae6f4119fcb36b4bfdf0085fb9c69d51</id>
-    <updated>2026-05-27T03:43:27Z</updated>
+    <updated>2026-06-02T18:46:30Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_1.epub" type="application/epub+zip" title="Original" length="2579797"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_1.epub" type="application/epub+zip" title="Original" length="2579742"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2959357"/>
   </entry>
   <entry>
     <title>VIP Gariben-kun to Uraaka-san  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ae6de2b5685e4376c9e98958885f4399</id>
-    <updated>2026-05-27T03:43:30Z</updated>
+    <updated>2026-06-02T18:46:39Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_2.epub" type="application/epub+zip" title="Original" length="2835166"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_2.epub" type="application/epub+zip" title="Original" length="2835134"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3172559"/>
   </entry>
   <entry>
     <title>VIP Gariben-kun to Uraaka-san  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:096dd8dd85663f8c6bc3b3f35765a131</id>
-    <updated>2026-05-27T03:43:33Z</updated>
+    <updated>2026-06-02T18:46:48Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_3.epub" type="application/epub+zip" title="Original" length="2852494"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_3.epub" type="application/epub+zip" title="Original" length="2852466"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_Gariben-kun_to_Uraaka-san__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2947487"/>
   </entry>
   <entry>
     <title>VIP How Could You Like Another Girl When You Already Have A Cute Fiancee Like Me  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:b5b87e962748ddd021e4470836e030e0</id>
-    <updated>2026-05-27T03:44:04Z</updated>
+    <updated>2026-06-02T18:46:58Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_1.epub" type="application/epub+zip" title="Original" length="4960934"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_1.epub" type="application/epub+zip" title="Original" length="4960862"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4417402"/>
   </entry>
   <entry>
     <title>VIP How Could You Like Another Girl When You Already Have A Cute Fiancee Like Me  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:00774b6eacad8c003c7dce1d4069d747</id>
-    <updated>2026-05-27T03:44:12Z</updated>
+    <updated>2026-06-02T18:47:08Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_2.epub" type="application/epub+zip" title="Original" length="2805025"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_2.epub" type="application/epub+zip" title="Original" length="2804962"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3263708"/>
   </entry>
   <entry>
     <title>VIP How Could You Like Another Girl When You Already Have A Cute Fiancee Like Me  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:736424530d59cca5615ac1818d69d599</id>
-    <updated>2026-05-27T03:44:17Z</updated>
+    <updated>2026-06-02T18:47:17Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_3.epub" type="application/epub+zip" title="Original" length="2155423"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_3.epub" type="application/epub+zip" title="Original" length="2155359"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_How_Could_You_Like_Another_Girl_When_You_Already_Have_A_Cute_Fiancee_Like_Me__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2747441"/>
   </entry>
   <entry>
     <title>VIP When I Became the Manager of Popular Streamers They Were All My Ex-Girlfriends  Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1fef8e2fd050b7670b147f13c6327a60</id>
-    <updated>2026-05-27T03:44:20Z</updated>
+    <updated>2026-06-02T18:47:27Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_1.epub" type="application/epub+zip" title="Original" length="4715495"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_1.epub" type="application/epub+zip" title="Original" length="4715467"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2754632"/>
   </entry>
   <entry>
     <title>VIP When I Became the Manager of Popular Streamers They Were All My Ex-Girlfriends  Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e4f0ac7dbc4d5392d07822aa87ed3781</id>
-    <updated>2026-05-27T03:44:26Z</updated>
+    <updated>2026-06-02T18:47:37Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_2.epub" type="application/epub+zip" title="Original" length="4135342"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_2.epub" type="application/epub+zip" title="Original" length="4135308"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2770000"/>
   </entry>
   <entry>
     <title>VIP When I Became the Manager of Popular Streamers They Were All My Ex-Girlfriends  Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:f6b3098ffff13f8c6a677828ca374850</id>
-    <updated>2026-05-27T03:44:29Z</updated>
+    <updated>2026-06-02T18:47:46Z</updated>
     <content type="text">Source: KDT</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_3.epub" type="application/epub+zip" title="Original" length="3406580"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_3.epub" type="application/epub+zip" title="Original" length="3406543"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--VIP_When_I_Became_the_Manager_of_Popular_Streamers_They_Were_All_My_Ex-Girlfriends__Vol_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2023622"/>
   </entry>
 </feed>
