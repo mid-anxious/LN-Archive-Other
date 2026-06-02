@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: EsNovels</title>
-  <updated>2026-06-02T23:42:32.287270Z</updated>
+  <updated>2026-06-03T01:52:49.629842Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_es.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
-  <entry>
-    <title>Brainwashing Skills Make Me Unrivaled in Another World If My Skills are Discovered Ill Be Execute.  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e9f41d84799a2fc14d62cfc344a98d06</id>
-    <updated>2026-05-31T19:35:10Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_1.epub" type="application/epub+zip" title="Original" length="9965891"/>
-  </entry>
-  <entry>
-    <title>Brainwashing Skills Make Me Unrivaled in Another World If My Skills are Discovered Ill Be Execute.  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:f6c60e58281b0e78d99984e66d37990f</id>
-    <updated>2026-05-31T19:35:10Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_2.epub" type="application/epub+zip" title="Original" length="6845710"/>
-  </entry>
   <entry>
     <title>Amamori Junna is Humid  Volume 1</title>
     <author><name>Unknown Author</name></author>
@@ -100,38 +84,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_a_Desperate_Struggle_to_Avoid_Annihilation_My_Party_Became_Unwell__Volume_2.epub" type="application/epub+zip" title="Original" length="5463745"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_a_Desperate_Struggle_to_Avoid_Annihilation_My_Party_Became_Unwell__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2673930"/>
-  </entry>
-  <entry>
-    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:2574bbc34f80c62f6ccd35f6cff507b4</id>
-    <updated>2026-05-31T14:29:08Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_1.epub" type="application/epub+zip" title="Original" length="4132077"/>
-  </entry>
-  <entry>
-    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:06b09ce9ca5bb9565ada52dcbf521389</id>
-    <updated>2026-05-31T14:29:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_2.epub" type="application/epub+zip" title="Original" length="4394248"/>
-  </entry>
-  <entry>
-    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:524e979cb33b72c1b14af4d986fceaf9</id>
-    <updated>2026-05-31T14:29:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_3.epub" type="application/epub+zip" title="Original" length="3077199"/>
-  </entry>
-  <entry>
-    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:05ef6985b5baab1e35466bb1cb841d93</id>
-    <updated>2026-05-31T14:29:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_4.epub" type="application/epub+zip" title="Original" length="4360880"/>
   </entry>
   <entry>
     <title>A Solo Gal who Doesnt Get Close to Anyone wants to stay over Every Day  Volume 1</title>
@@ -222,38 +174,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Aristocratic_Daughters_Got_Used_To_Me__Volume_4.epub" type="application/epub+zip" title="Original" length="3133975"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Aristocratic_Daughters_Got_Used_To_Me__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3071380"/>
-  </entry>
-  <entry>
-    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:41074b048a06154774801402e4d86edb</id>
-    <updated>2026-05-31T19:35:11Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_1.epub" type="application/epub+zip" title="Original" length="1638414"/>
-  </entry>
-  <entry>
-    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:1fd9f07fcc741cab91b6f030dab5e902</id>
-    <updated>2026-05-31T19:35:11Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_2.epub" type="application/epub+zip" title="Original" length="1692792"/>
-  </entry>
-  <entry>
-    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:8845a227c851f28f5b40400678792c28</id>
-    <updated>2026-05-31T19:35:12Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_3.epub" type="application/epub+zip" title="Original" length="6763262"/>
-  </entry>
-  <entry>
-    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:4d9b1ad2bf3cc3da0d0b6ea346ad8092</id>
-    <updated>2026-05-31T19:35:12Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_4.epub" type="application/epub+zip" title="Original" length="5635286"/>
   </entry>
   <entry>
     <title>Encore of the Worlds End  Volume 1</title>
@@ -472,14 +392,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Chikasugiru_Karera_no_Juunanasai_no_Tooi_Kankei__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1661723"/>
   </entry>
   <entry>
-    <title>Arent You Too Sweet Salt God Sato San  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:a75ba02165cb58cc202b5d405b64ffdd</id>
-    <updated>2026-05-31T14:29:29Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Arent_You_Too_Sweet_Salt_God_Sato_San__Volume_1.epub" type="application/epub+zip" title="Original" length="10644798"/>
-  </entry>
-  <entry>
     <title>Classmates With the Girls I Was Close to Loving  Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:6b39253bee74fca0e04c7b4e98cb27c5</id>
@@ -597,14 +509,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Eoge_no_Hakushaku_Reijou_wo_Hoshi_Meido_Ochisaseru_Akuyaku_Onzoushi_ni_Tensei_shita_Ore_wa_Zama_w.__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3326151"/>
   </entry>
   <entry>
-    <title>Asahi san the Light Attribute Beauty Somehow Started Hanging Out in My Room Every Weekend  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:ea44a809c0da353b7cfeb7586abc4f4b</id>
-    <updated>2026-05-31T14:29:36Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Asahi_san_the_Light_Attribute_Beauty_Somehow_Started_Hanging_Out_in_My_Room_Every_Weekend__Volume_1.epub" type="application/epub+zip" title="Original" length="1476643"/>
-  </entry>
-  <entry>
     <title>Blue Outline  Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c98d9d8b9f9f3bc633d1e59762693ec0</id>
@@ -711,14 +615,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Live_SS__Volume_2.epub" type="application/epub+zip" title="Original" length="30510879"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Live_SS__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2744759"/>
-  </entry>
-  <entry>
-    <title>For Some Reason a Gal in My Class Became Friends With My Step sister  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:3420f436f598c815804e010b568a42a4</id>
-    <updated>2026-05-31T14:29:42Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_a_Gal_in_My_Class_Became_Friends_With_My_Step_sister__Volume_1.epub" type="application/epub+zip" title="Original" length="1726253"/>
   </entry>
   <entry>
     <title>Even Though Im a Former Noble and a Single Mother My Daughters are too Cute and Working as an Adv.  Volume 1</title>
@@ -964,14 +860,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Cross_Connect__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1074834"/>
   </entry>
   <entry>
-    <title>After I Save The Ice Princess From Another School From a Molster We Started as Friends Chapter 1 2  Episode 1 41</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:feac922d4bfc2d3e2623a6b1f5e1c866</id>
-    <updated>2026-05-31T15:34:39Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_2__Episode_1_41.epub" type="application/epub+zip" title="Original" length="574302"/>
-  </entry>
-  <entry>
     <title>Date A Bullet Encore  Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1555f89c3ca8ed5bf978bffbcd661777</id>
@@ -979,22 +867,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Bullet_Encore__Volume_1.epub" type="application/epub+zip" title="Original" length="1782073"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Bullet_Encore__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="459953"/>
-  </entry>
-  <entry>
-    <title>Battle Divas The Incorruptible Battle Blossom Princess  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e57433fc42fbba0120b17c9aa6ee9c65</id>
-    <updated>2026-05-31T14:29:57Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_1.epub" type="application/epub+zip" title="Original" length="19268841"/>
-  </entry>
-  <entry>
-    <title>Battle Divas The Incorruptible Battle Blossom Princess  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:08ff6e864322307d905e8ba482a8be5c</id>
-    <updated>2026-05-31T14:29:57Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_2.epub" type="application/epub+zip" title="Original" length="15542803"/>
   </entry>
   <entry>
     <title>Free Life Fantasy Online  Volume 1</title>
@@ -1195,22 +1067,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Alice_and_Shirley__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4978147"/>
   </entry>
   <entry>
-    <title>Fake Marriage with my Ex Girlfriend  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:fee3b8e1230ce70c97155f35b48b4125</id>
-    <updated>2026-05-31T14:30:08Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_1.epub" type="application/epub+zip" title="Original" length="15967524"/>
-  </entry>
-  <entry>
-    <title>Fake Marriage with my Ex Girlfriend  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:60450d646f2e05fcf7dff5cc66e5019b</id>
-    <updated>2026-05-31T14:30:09Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_2.epub" type="application/epub+zip" title="Original" length="4846942"/>
-  </entry>
-  <entry>
     <title>Brunhild The Dragon Slayer  Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:d4fd5283fa3fb97b2339f53ee384b284</id>
@@ -1344,14 +1200,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Are_You_Really_My_Angel__Volume_2.epub" type="application/epub+zip" title="Original" length="22416763"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Are_You_Really_My_Angel__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2483372"/>
-  </entry>
-  <entry>
-    <title>An Autumn in Amber a Zero Second Journey  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:df65f2567d23eb0020125f2857ed8eea</id>
-    <updated>2026-05-31T14:30:17Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--An_Autumn_in_Amber_a_Zero_Second_Journey__Volume_1.epub" type="application/epub+zip" title="Original" length="3128194"/>
   </entry>
   <entry>
     <title>Chronicle Legion  The Road of Conquest Volume 1</title>
@@ -1667,38 +1515,6 @@
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Live__Volume_9.epub" type="application/epub+zip" title="Original" length="17673698"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Date_A_Live__Volume_9--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2967396"/>
-  </entry>
-  <entry>
-    <title>A Certain Times Mythological After school War  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:4a5b8267f5c0519869e6244cba291406</id>
-    <updated>2026-05-31T14:30:34Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_1.epub" type="application/epub+zip" title="Original" length="8302609"/>
-  </entry>
-  <entry>
-    <title>A Certain Times Mythological After school War  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7ff7d8bbcfac553545ec2c3d999aa413</id>
-    <updated>2026-05-31T14:30:35Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_2.epub" type="application/epub+zip" title="Original" length="9061473"/>
-  </entry>
-  <entry>
-    <title>Ex girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:9236da7b42e7ea75e72121112aee1e69</id>
-    <updated>2026-05-31T14:30:35Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Ex_girlfriend_Teachers_Want_to_Nurture_Love_by_Making_Slightly_Naughty_Visits_to_Your_Home__Volume_1.epub" type="application/epub+zip" title="Original" length="5215137"/>
-  </entry>
-  <entry>
-    <title>Good Bye Declaration  Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:584d9c3c3e8c7e6570af0d512a7e3151</id>
-    <updated>2026-05-31T14:30:36Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Good_Bye_Declaration__Volume_1.epub" type="application/epub+zip" title="Original" length="1546686"/>
   </entry>
   <entry>
     <title>Chronicles of an Aristocrat Reborn in Another World  the Apostle of the Gods Who Know No Self-Restraint Volume 1</title>
@@ -2216,6 +2032,213 @@
     <updated>2026-05-31T15:37:30Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_2__Episode_1-41--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="459555"/>
+  </entry>
+  <entry>
+    <title>Brainwashing Skills Make Me Unrivaled in Another World If My Skills are Discovered Ill Be Execute.  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e9f41d84799a2fc14d62cfc344a98d06</id>
+    <updated>2026-06-02T18:24:36Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_1.epub" type="application/epub+zip" title="Original" length="9953883"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3356823"/>
+  </entry>
+  <entry>
+    <title>Brainwashing Skills Make Me Unrivaled in Another World If My Skills are Discovered Ill Be Execute.  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f6c60e58281b0e78d99984e66d37990f</id>
+    <updated>2026-06-02T18:24:46Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_2.epub" type="application/epub+zip" title="Original" length="6844885"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Brainwashing_Skills_Make_Me_Unrivaled_in_Another_World_If_My_Skills_are_Discovered_Ill_Be_Execute.__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3395366"/>
+  </entry>
+  <entry>
+    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:2574bbc34f80c62f6ccd35f6cff507b4</id>
+    <updated>2026-06-02T18:24:57Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_1.epub" type="application/epub+zip" title="Original" length="4277997"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4209010"/>
+  </entry>
+  <entry>
+    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:06b09ce9ca5bb9565ada52dcbf521389</id>
+    <updated>2026-06-02T18:25:06Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_2.epub" type="application/epub+zip" title="Original" length="4395245"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="6997179"/>
+  </entry>
+  <entry>
+    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:524e979cb33b72c1b14af4d986fceaf9</id>
+    <updated>2026-06-02T18:25:19Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_3.epub" type="application/epub+zip" title="Original" length="3078823"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4344272"/>
+  </entry>
+  <entry>
+    <title>For Some Reason Im a Topic of Conversation Between S Rank Beauties  Volume 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:05ef6985b5baab1e35466bb1cb841d93</id>
+    <updated>2026-06-02T18:25:31Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_4.epub" type="application/epub+zip" title="Original" length="4372314"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_Im_a_Topic_of_Conversation_Between_S_Rank_Beauties__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2921855"/>
+  </entry>
+  <entry>
+    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:41074b048a06154774801402e4d86edb</id>
+    <updated>2026-06-02T18:25:40Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_1.epub" type="application/epub+zip" title="Original" length="1637690"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3405717"/>
+  </entry>
+  <entry>
+    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1fd9f07fcc741cab91b6f030dab5e902</id>
+    <updated>2026-06-02T18:25:49Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_2.epub" type="application/epub+zip" title="Original" length="1692296"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3686804"/>
+  </entry>
+  <entry>
+    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8845a227c851f28f5b40400678792c28</id>
+    <updated>2026-06-02T18:25:59Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_3.epub" type="application/epub+zip" title="Original" length="6763103"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="9345001"/>
+  </entry>
+  <entry>
+    <title>A Toxic 20 Year Old Game Streamer Accidentally Reveals His Nice Personality Because He Forgot to .  Volume 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4d9b1ad2bf3cc3da0d0b6ea346ad8092</id>
+    <updated>2026-06-02T18:26:09Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_4.epub" type="application/epub+zip" title="Original" length="5634648"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Toxic_20_Year_Old_Game_Streamer_Accidentally_Reveals_His_Nice_Personality_Because_He_Forgot_to_.__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2593522"/>
+  </entry>
+  <entry>
+    <title>Arent You Too Sweet Salt God Sato San  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a75ba02165cb58cc202b5d405b64ffdd</id>
+    <updated>2026-06-02T18:26:20Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Arent_You_Too_Sweet_Salt_God_Sato_San__Volume_1.epub" type="application/epub+zip" title="Original" length="10639363"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Arent_You_Too_Sweet_Salt_God_Sato_San__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3454159"/>
+  </entry>
+  <entry>
+    <title>Asahi san the Light Attribute Beauty Somehow Started Hanging Out in My Room Every Weekend  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ea44a809c0da353b7cfeb7586abc4f4b</id>
+    <updated>2026-06-02T18:26:29Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Asahi_san_the_Light_Attribute_Beauty_Somehow_Started_Hanging_Out_in_My_Room_Every_Weekend__Volume_1.epub" type="application/epub+zip" title="Original" length="1476765"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Asahi_san_the_Light_Attribute_Beauty_Somehow_Started_Hanging_Out_in_My_Room_Every_Weekend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1676548"/>
+  </entry>
+  <entry>
+    <title>For Some Reason a Gal in My Class Became Friends With My Step sister  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3420f436f598c815804e010b568a42a4</id>
+    <updated>2026-06-02T18:26:38Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_a_Gal_in_My_Class_Became_Friends_With_My_Step_sister__Volume_1.epub" type="application/epub+zip" title="Original" length="1726899"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--For_Some_Reason_a_Gal_in_My_Class_Became_Friends_With_My_Step_sister__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3189996"/>
+  </entry>
+  <entry>
+    <title>After I Save The Ice Princess From Another School From a Molster We Started as Friends Chapter 1 2  Episode 1 41</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:feac922d4bfc2d3e2623a6b1f5e1c866</id>
+    <updated>2026-06-02T18:26:47Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_2__Episode_1_41.epub" type="application/epub+zip" title="Original" length="577130"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--After_I_Save_The_Ice_Princess_From_Another_School_From_a_Molster_We_Started_as_Friends_Chapter_1_2__Episode_1_41--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="423510"/>
+  </entry>
+  <entry>
+    <title>Battle Divas The Incorruptible Battle Blossom Princess  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e57433fc42fbba0120b17c9aa6ee9c65</id>
+    <updated>2026-06-02T18:27:02Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_1.epub" type="application/epub+zip" title="Original" length="19266018"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2964469"/>
+  </entry>
+  <entry>
+    <title>Battle Divas The Incorruptible Battle Blossom Princess  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:08ff6e864322307d905e8ba482a8be5c</id>
+    <updated>2026-06-02T18:27:16Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_2.epub" type="application/epub+zip" title="Original" length="15536103"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Battle_Divas_The_Incorruptible_Battle_Blossom_Princess__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2654188"/>
+  </entry>
+  <entry>
+    <title>Fake Marriage with my Ex Girlfriend  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fee3b8e1230ce70c97155f35b48b4125</id>
+    <updated>2026-06-02T18:27:28Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_1.epub" type="application/epub+zip" title="Original" length="15957394"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3546506"/>
+  </entry>
+  <entry>
+    <title>Fake Marriage with my Ex Girlfriend  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:60450d646f2e05fcf7dff5cc66e5019b</id>
+    <updated>2026-06-02T18:27:38Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_2.epub" type="application/epub+zip" title="Original" length="4838584"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Fake_Marriage_with_my_Ex_Girlfriend__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1633588"/>
+  </entry>
+  <entry>
+    <title>An Autumn in Amber a Zero Second Journey  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:df65f2567d23eb0020125f2857ed8eea</id>
+    <updated>2026-06-02T18:27:48Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--An_Autumn_in_Amber_a_Zero_Second_Journey__Volume_1.epub" type="application/epub+zip" title="Original" length="3103958"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--An_Autumn_in_Amber_a_Zero_Second_Journey__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2093478"/>
+  </entry>
+  <entry>
+    <title>A Certain Times Mythological After school War  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4a5b8267f5c0519869e6244cba291406</id>
+    <updated>2026-06-02T18:27:59Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_1.epub" type="application/epub+zip" title="Original" length="8302702"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5094857"/>
+  </entry>
+  <entry>
+    <title>A Certain Times Mythological After school War  Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7ff7d8bbcfac553545ec2c3d999aa413</id>
+    <updated>2026-06-02T18:28:10Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_2.epub" type="application/epub+zip" title="Original" length="9061436"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--A_Certain_Times_Mythological_After_school_War__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="5013263"/>
+  </entry>
+  <entry>
+    <title>Ex girlfriend Teachers Want to Nurture Love by Making Slightly Naughty Visits to Your Home  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9236da7b42e7ea75e72121112aee1e69</id>
+    <updated>2026-06-02T18:28:22Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Ex_girlfriend_Teachers_Want_to_Nurture_Love_by_Making_Slightly_Naughty_Visits_to_Your_Home__Volume_1.epub" type="application/epub+zip" title="Original" length="5213457"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Ex_girlfriend_Teachers_Want_to_Nurture_Love_by_Making_Slightly_Naughty_Visits_to_Your_Home__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3153912"/>
+  </entry>
+  <entry>
+    <title>Good Bye Declaration  Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:584d9c3c3e8c7e6570af0d512a7e3151</id>
+    <updated>2026-06-02T18:28:33Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Good_Bye_Declaration__Volume_1.epub" type="application/epub+zip" title="Original" length="1553269"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Es--Good_Bye_Declaration__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3675503"/>
   </entry>
   <entry>
     <title>Have a Coffee After School In Another Worlds Cafe  Volume 1</title>
@@ -4351,21 +4374,20 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2214582"/>
   </entry>
   <entry>
-    <title>Overwrite  Volume 2</title>
+    <title>Overwrite  Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:d21f45fd154fc2ed9f77d8be53df7888</id>
-    <updated>2026-05-31T15:44:30Z</updated>
+    <id>uuid:42fca75e752f0cea070adc337a2b7b78</id>
+    <updated>2026-06-02T20:22:35Z</updated>
     <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Volume_2.epub" type="application/epub+zip" title="Original" length="9907751"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Vol_2.epub" type="application/epub+zip" title="Original" length="8217004"/>
   </entry>
   <entry>
-    <title>Overwrite  Volume 3</title>
+    <title>Overwrite  Vol 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:e7987058179a816b917079a56f55d9b4</id>
-    <updated>2026-05-31T15:44:32Z</updated>
+    <id>uuid:56ff4a9cb0103b07be2650c50e1e0f30</id>
+    <updated>2026-06-02T20:22:40Z</updated>
     <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Volume_3.epub" type="application/epub+zip" title="Original" length="8599939"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2070848"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Overwrite__Vol_3.epub" type="application/epub+zip" title="Original" length="6654286"/>
   </entry>
   <entry>
     <title>Paradise Noise  Volume 1</title>
@@ -4602,20 +4624,21 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Regarding_my_Married_Life_with_a_Childhood_Friend_Whom_I_Thought_Was_a_Boy_Going_Way_Too_Smoothly__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2640708"/>
   </entry>
   <entry>
+    <title>Repeat Vice  The Villainous Noble Doesnt Want to Die So He Swore to Not Die As One of The Four Heavenly Kings </title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7247d0242ba68b60601b3d706a6b02e9</id>
+    <updated>2026-06-02T18:32:26Z</updated>
+    <content type="text">Source: Es</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Repeat_Vice__The_Villainous_Noble_Doesnt_Want_to_Die_So_He_Swore_to_Not_Die_As_One_of_The_Four_Heavenly_Kings_.epub" type="application/epub+zip" title="Original" length="16188605"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Repeat_Vice__The_Villainous_Noble_Doesnt_Want_to_Die_So_He_Swore_to_Not_Die_As_One_of_The_Four_Heavenly_Kings_--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3444311"/>
+  </entry>
+  <entry>
     <title>Repeat Vice  The Villainous Noble Doesnt Want to Die So He Swore to Not Die As One of The Four Heavenly Kings .</title>
     <author><name>Repeat Vice  The Villainous Noble Doesnt Want to Die So He Swore to Not Die As One of The Four Heavenly Kings .</name></author>
     <id>uuid:4b0be8b6555787b7cfbfe6e9585c7570</id>
     <updated>2026-05-31T19:36:00Z</updated>
     <content type="text">Source: Es</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Repeat_Vice__The_Villainous_Noble_Doesnt_Want_to_Die_So_He_Swore_to_Not_Die_As_One_of_The_Four_Heavenly_Kings_.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3178826"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice  The Villainous Noble Doesnt Want to Die So He Swore to Not Die As One of The Four Heavenly Kings </title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7247d0242ba68b60601b3d706a6b02e9</id>
-    <updated>2026-05-31T19:36:01Z</updated>
-    <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Repeat_Vice__The_Villainous_Noble_Doesnt_Want_to_Die_So_He_Swore_to_Not_Die_As_One_of_The_Four_Heavenly_Kings_.epub" type="application/epub+zip" title="Original" length="16184801"/>
   </entry>
   <entry>
     <title>Repeat Vice  The Villainous Noble Doesnt Want to Die So He Swore to Not Die As One of The Four Heavenly Kings Volume 2</title>
@@ -4942,12 +4965,12 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Something_as_Simple_as_Reincarnation_Cant_Fill_the_Hole_in_My_Heart__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3530443"/>
   </entry>
   <entry>
-    <title>Something as Simple as Reincarnation Cant Fill the Hole in My Heart  Volume 4</title>
+    <title>Something as Simple as Reincarnation Cant Fill the Hole in My Heart  Vol 4</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:24e8c6f556c305537a3d1164419e9c53</id>
-    <updated>2026-05-31T15:45:58Z</updated>
+    <id>uuid:e89b9a6c59f86787f0bb87988f5b93bf</id>
+    <updated>2026-06-02T19:46:01Z</updated>
     <content type="text">Source: Es</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Something_as_Simple_as_Reincarnation_Cant_Fill_the_Hole_in_My_Heart__Volume_4.epub" type="application/epub+zip" title="Original" length="21208451"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Es--Something_as_Simple_as_Reincarnation_Cant_Fill_the_Hole_in_My_Heart__Vol_4.epub" type="application/epub+zip" title="Original" length="8142911"/>
   </entry>
   <entry>
     <title>Sorcery Hacker  Divulge the Magic Vulnerability Volume 1</title>
