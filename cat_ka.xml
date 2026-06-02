@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-06-02T23:42:32.297586Z</updated>
+  <updated>2026-06-03T01:52:49.634959Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -148,14 +148,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine_V.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2843055"/>
   </entry>
   <entry>
-    <title>ENG  A childhood friend who has already won but mistakenly believes herself to be the losing heroine V</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:eb50efe493ebf2c4ff8c9276929b19a4</id>
-    <updated>2026-06-01T19:12:46Z</updated>
-    <content type="text">Source: KA</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine_V.epub" type="application/epub+zip" title="Original" length="4769806"/>
-  </entry>
-  <entry>
     <title>ENG  Exhausted with Life I Arrived at a Village Where Beautiful Women Won t Let Me Go Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:2258b626bfa12c76584a2ca3dd2af654</id>
@@ -180,14 +172,6 @@
     <updated>2026-06-01T19:13:41Z</updated>
     <content type="text">Source: KA</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commu_V.--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3445400"/>
-  </entry>
-  <entry>
-    <title>ENG  If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy She Becomes a Commu V</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7ba95c3d73d3a6516fdaa14dd272bedd</id>
-    <updated>2026-06-01T19:14:09Z</updated>
-    <content type="text">Source: KA</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commu_V.epub" type="application/epub+zip" title="Original" length="6949799"/>
   </entry>
   <entry>
     <title>ENG  Isekai Relaxed Uninhabited Island Life Only I Who Chose the Crafting Ability During the Class Volume 2</title>
@@ -350,6 +334,24 @@
     <content type="text">Source: KA</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG_Isekai_Relaxed_Uninhabited_Island_Life_Only_I_Who_Chose_the_Crafting_Ability_During_the_Class__Volume_1.epub" type="application/epub+zip" title="Original" length="8479816"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG_Isekai_Relaxed_Uninhabited_Island_Life_Only_I_Who_Chose_the_Crafting_Ability_During_the_Class__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4145351"/>
+  </entry>
+  <entry>
+    <title>ENG  A childhood friend who has already won but mistakenly believes herself to be the losing heroine V</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:eb50efe493ebf2c4ff8c9276929b19a4</id>
+    <updated>2026-06-02T18:28:45Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine_V.epub" type="application/epub+zip" title="Original" length="4769807"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__A_childhood_friend_who_has_already_won_but_mistakenly_believes_herself_to_be_the_losing_heroine_V--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2843055"/>
+  </entry>
+  <entry>
+    <title>ENG  If I Become the Lifesaver of the Single Most Adorable Kouhai in the Academy She Becomes a Commu V</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7ba95c3d73d3a6516fdaa14dd272bedd</id>
+    <updated>2026-06-02T18:28:56Z</updated>
+    <content type="text">Source: KA</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commu_V.epub" type="application/epub+zip" title="Original" length="6949800"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--ENG__If_I_Become_the_Lifesaver_of_the_Single_Most_Adorable_Kouhai_in_the_Academy_She_Becomes_a_Commu_V--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3445400"/>
   </entry>
   <entry>
     <title>Higawari kanojo  hatsukoi wa usotsuki no hajimari English Volume 1</title>
