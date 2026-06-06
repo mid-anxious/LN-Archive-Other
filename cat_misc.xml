@@ -1,293 +1,250 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Miscellaneous</title>
-  <updated>2026-06-03T01:52:49.635890Z</updated>
+  <updated>2026-06-06T06:48:17.305889Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
-    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN Volume 1</title>
+    <title>Alone In A Room With A Beautifu - Kizu Kanada</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:4b3db9230d9fadefe3673687ba2befb5</id>
-    <updated>2026-05-31T15:34:37Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_1.epub" type="application/epub+zip" title="Original" length="1536612"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="317253"/>
+    <id>uuid:69ff927a7eefce0e7d423a0579d65219</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone_In_A_Room_With_A_Beautifu__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone_In_A_Room_With_A_Beautifu__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo ga  Ore ni Dake Amaetekuru Riyuu LN Volume 2</title>
+    <title>Angel Only Drinks Soda - v01</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:39db6aeeae6d72eaa515de1c012ce467</id>
-    <updated>2026-05-31T15:34:37Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_2.epub" type="application/epub+zip" title="Original" length="1539619"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="306273"/>
+    <id>uuid:f8b2ec99eaa9620ccefe087ce32aa229</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Angel Only Drinks Soda  v01</title>
+    <title>Angel Only Drinks Soda - v02</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:00718271e645e0810d57e915dec887d4</id>
-    <updated>2026-05-31T15:37:54Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v01.epub" type="application/epub+zip" title="Original" length="3348379"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2136239"/>
+    <id>uuid:318042dd76f4721b7f0db1981b224a21</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Angel Only Drinks Soda  v02</title>
+    <title>Angel Only Drinks Soda - v03</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:ff31d3c6de74185267fbbd5535a6eb44</id>
-    <updated>2026-05-31T15:37:56Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v02.epub" type="application/epub+zip" title="Original" length="6533085"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v02--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2432482"/>
+    <id>uuid:b4a669530dbbbbe5c3a9c74ac41c018d</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Angel Only Drinks Soda  v03</title>
+    <title>Angel Only Drinks Soda - v04</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:552538076c6d4720a0f002d788bbd3b9</id>
-    <updated>2026-05-31T15:37:57Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v03.epub" type="application/epub+zip" title="Original" length="2272704"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v03--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2636970"/>
+    <id>uuid:40715e9246fdc41124c4e94b5eac28d1</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Angel Only Drinks Soda  v04</title>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo Ga - Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:87130fed8bf4c8b925ee81008476d4fa</id>
-    <updated>2026-05-31T15:37:58Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v04.epub" type="application/epub+zip" title="Original" length="1498768"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Angel_Only_Drinks_Soda__v04--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1730317"/>
+    <id>uuid:4e1ec9ac963f0a689a4b625c96d3f0ca</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_Ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_Ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Alone in a Room With a Beautifu - Kizu Kanada</title>
+    <title>Darenimo Natsukanai Tobikyuu Tensai Youjo Ga - Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:0508d5c54bb332b5a3c18dc0bcb883a7</id>
-    <updated>2026-05-31T15:38:00Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone_in_a_Room_With_a_Beautifu_-_Kizu_Kanada.epub" type="application/epub+zip" title="Original" length="11965755"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Alone_in_a_Room_With_a_Beautifu_-_Kizu_Kanada--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2790705"/>
+    <id>uuid:d542c10751656a352933c26ec4568756</id>
+    <updated>2026-06-04 02:12:54Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_Ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/Misc--Darenimo_Natsukanai_Tobikyuu_Tensai_Youjo_Ga__Ore_ni_Dake_Amaetekuru_Riyuu_LN_Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>1LDK Soshite 2JK  Volume 2 English</title>
+    <title>1Ldk Soshite 2Jk - Volume_2_English</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:809974677499307c378be73ffb7058c9</id>
-    <updated>2026-05-31T15:42:59Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK__Volume_2_English.epub" type="application/epub+zip" title="Original" length="7729260"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK__Volume_2_English--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3210268"/>
+    <id>uuid:a41d07114dfd4557ac7809bedfafc927</id>
+    <updated>2026-06-04 02:17:41Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_2_English.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_2_English--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Love Comedy Which Nurtured With a Mom Friend 01 - Futaba Ono</title>
+    <title>Love Comedy Which Nurtured With A Mom Friend 01 - Futaba Ono</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:317e09926289bf5e53e07b25781af315</id>
-    <updated>2026-05-31T15:43:00Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_01_-_Futaba_Ono.epub" type="application/epub+zip" title="Original" length="10958205"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_01_-_Futaba_Ono--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4273894"/>
+    <id>uuid:6b48c0d3cb05867f3608a8f9da22fdec</id>
+    <updated>2026-06-04 02:17:41Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_01__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_01__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Love Comedy Which Nurtured With a Mom Friend 02 - Futaba Ono</title>
+    <title>Love Comedy Which Nurtured With A Mom Friend 02 - Futaba Ono</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:d5a44cb42299010963f2fba96deee220</id>
-    <updated>2026-05-31T15:43:01Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_02_-_Futaba_Ono.epub" type="application/epub+zip" title="Original" length="5288278"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_02_-_Futaba_Ono--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3475625"/>
+    <id>uuid:501752cc68ddbdc746aaf5bff44542a6</id>
+    <updated>2026-06-04 02:17:41Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_02__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_02__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Love Comedy Which Nurtured With a Mom Friend 03 - Futaba Ono</title>
+    <title>Love Comedy Which Nurtured With A Mom Friend 03 - Futaba Ono</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:81f464c442ce17bb5c180b4146b3d761</id>
-    <updated>2026-05-31T15:43:02Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_03_-_Futaba_Ono.epub" type="application/epub+zip" title="Original" length="5752500"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_a_Mom_Friend_03_-_Futaba_Ono--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3683907"/>
+    <id>uuid:8183f65eaccfed50912f96da4c07c43c</id>
+    <updated>2026-06-04 02:17:41Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_03__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/Misc--Love_Comedy_Which_Nurtured_With_A_Mom_Friend_03__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  v01</title>
+    <title>Rabudame - v01</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:1849ec257a736cf2621fda5d4cd64034</id>
-    <updated>2026-05-31T15:46:35Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v01.epub" type="application/epub+zip" title="Original" length="22680976"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3752933"/>
+    <id>uuid:bdc3e0f0305da1e7fd1ffb5307fbc845</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  v02</title>
+    <title>Rabudame - v02</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:f4974b7ffeec0a929cd4761293fad9e6</id>
-    <updated>2026-05-31T15:46:37Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v02.epub" type="application/epub+zip" title="Original" length="56112043"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v02--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3894488"/>
+    <id>uuid:8012658af199145044e7319814a0878d</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  v03</title>
+    <title>Rabudame - v03</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:a163635ea8f7b15b4f5f00c96678aae2</id>
-    <updated>2026-05-31T15:46:38Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v03.epub" type="application/epub+zip" title="Original" length="9152615"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__v03--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3131632"/>
+    <id>uuid:bb42eefcc525acae757dba73ff4d5156</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  Volume4 Final</title>
+    <title>Rabudame - Volume4_Final</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:08b596f8ef6b04d030f77d276325bc79</id>
-    <updated>2026-05-31T15:46:40Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume4_Final.epub" type="application/epub+zip" title="Original" length="8305304"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume4_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="9551255"/>
+    <id>uuid:52a368560b7b4b90e7e8c4b966aa0996</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_4_Final.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_4_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  Volume5 Final</title>
+    <title>Rabudame - Volume5_Final</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:3ba27110255f1b381c59e2076f852450</id>
-    <updated>2026-05-31T15:46:41Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume5_Final.epub" type="application/epub+zip" title="Original" length="8093822"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume5_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="9527918"/>
+    <id>uuid:c9431a4c75f6e8c0118a58b3b921c414</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_5_Final.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_5_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>RabuDame  Volume6 Final</title>
+    <title>Rabudame - Volume6_Final</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:9bfceb510722e377d91596716726dc35</id>
-    <updated>2026-05-31T15:46:43Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume6_Final.epub" type="application/epub+zip" title="Original" length="2403450"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--RabuDame__Volume6_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2403675"/>
+    <id>uuid:ab576353c819a489885629244c286cee</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_6_Final.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Rabudame__Volume_6_Final--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>ReincarnatedVillainEnjoyingYouth  volume 1</title>
+    <title>Reincarnatedvillainenjoyingyouth - volume_1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:732e1ed09a7464ad179b3a05762dc4cd</id>
-    <updated>2026-05-31T15:46:44Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth__volume_1.epub" type="application/epub+zip" title="Original" length="3851450"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth__volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3852032"/>
+    <id>uuid:4c1cff755d7358086e6e8e4915d9f03f</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Reincarnatedvillainenjoyingyouth__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Reincarnatedvillainenjoyingyouth__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>ReincarnatedVillainEnjoyingYouth  volume 2</title>
+    <title>Reincarnatedvillainenjoyingyouth - volume_2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:5688f7d8ed77f702bd780e9ec0dbbce6</id>
-    <updated>2026-05-31T15:46:45Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth__volume_2.epub" type="application/epub+zip" title="Original" length="3852608"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--ReincarnatedVillainEnjoyingYouth__volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3853127"/>
+    <id>uuid:7866de06babd12d521b655d031eab535</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Reincarnatedvillainenjoyingyouth__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Reincarnatedvillainenjoyingyouth__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Slimey Translations Archery Senpai 01 - Shijou Kanata</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:b8641190409b54c4c0ec267930e5bd54</id>
-    <updated>2026-06-01T20:00:28Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_01_-_Shijou_Kanata.epub" type="application/epub+zip" title="Original" length="10869571"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_01_-_Shijou_Kanata--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2835657"/>
+    <id>uuid:a031685aab8d13802e61ef428e4fb3ec</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_01__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_01__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Slimey Translations Archery Senpai 02 - Shijou Kanata</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:6e34b91c84186d17ce2229d6ec32d997</id>
-    <updated>2026-06-01T20:01:01Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_02_-_Shijou_Kanata.epub" type="application/epub+zip" title="Original" length="7033000"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_02_-_Shijou_Kanata--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="1892801"/>
+    <id>uuid:5cfcfb99a620e3243ef18c7c800485ef</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_02__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Archery_Senpai_02__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Slimey Translations Secret Night Call 01</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:5ba7e2dbc8da01759b026cbdc655ebad</id>
-    <updated>2026-06-01T20:00:13Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Secret_Night_Call_01.epub" type="application/epub+zip" title="Original" length="11121052"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Secret_Night_Call_01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3290296"/>
+    <id>uuid:88b08c05e31d1b39dc88c138a8a17876</id>
+    <updated>2026-06-04 02:21:23Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Secret_Night_Call_01__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/Misc--Slimey_Translations_Secret_Night_Call_01__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>TL 1LDK Soshite 2JK - Volumen 01 EHJR</title>
+    <title>The Method To Make That Novelist-Wannabe Write</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:d78d7f82df2e7545f9cc95bc48612010</id>
-    <updated>2026-05-31T15:47:26Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_01_EHJR.epub" type="application/epub+zip" title="Original" length="7074033"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_01_EHJR--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2972239"/>
+    <id>uuid:39a7ce2a497360fa4a4e4827207eb8cf</id>
+    <updated>2026-06-04 02:25:00Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The_Method_To_Make_That_Novelist_Wannabe_Write__.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The_Method_To_Make_That_Novelist_Wannabe_Write__--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>TL 1LDK Soshite 2JK - Volumen 02 EHJR</title>
+    <title>Zero Damage Sword Saint - - Volume_01_Premium</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:18c5110216b2db8e429357dc369e6b0f</id>
-    <updated>2026-05-31T15:47:29Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_02_EHJR.epub" type="application/epub+zip" title="Original" length="7705802"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_02_EHJR--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3216515"/>
+    <id>uuid:806ee94861c641f52f0a67476828cf3a</id>
+    <updated>2026-06-04 02:25:00Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint__Volume_1_Premium.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint__Volume_1_Premium--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>TL 1LDK Soshite 2JK - Volumen 03 EHJR</title>
+    <title>Zero Damage Sword Saint I Enrolled In A Magic School And Wound Up In A Contract With The Demon Qu. - Volume_2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:dd7e013639b5c3a33125a53f796201ce</id>
-    <updated>2026-05-31T15:47:32Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_03_EHJR.epub" type="application/epub+zip" title="Original" length="6266091"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_03_EHJR--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3090739"/>
+    <id>uuid:1cb31ec190780e794c8d2cbcba63d286</id>
+    <updated>2026-06-04 02:25:00Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>TL 1LDK Soshite 2JK - Volumen 04 EHJR</title>
+    <title>Zero Damage Sword Saint I Enrolled In A Magic School And Wound Up In A Contract With The Demon Qu. - Volume_3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:049147b41a3bb5f51371caf7fb51682c</id>
-    <updated>2026-05-31T15:47:34Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_04_EHJR.epub" type="application/epub+zip" title="Original" length="6999100"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/TL_1LDK_Soshite_2JK_-_Volumen_04_EHJR--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2607580"/>
+    <id>uuid:b4355dce26c5cc48ed48e6d90f9f769e</id>
+    <updated>2026-06-04 02:25:00Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Method to Make That Novelist-Wannabe Write</title>
+    <title>1Ldk Soshite 2Jk - - Volume_01</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:e614a60621fed0079c44cc0a96be261f</id>
-    <updated>2026-05-31T15:55:04Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The_Method_to_Make_That_Novelist-Wannabe_Write.epub" type="application/epub+zip" title="Original" length="2256679"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--The_Method_to_Make_That_Novelist-Wannabe_Write--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3176150"/>
-  </entry>
-  <entry>
-    <title>Zero Damage Sword Saint -  Volume 01 Premium</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:475a75b77ca911ba9803c9569e56ea09</id>
-    <updated>2026-06-02T18:47:59Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_-__Volume_01_Premium.epub" type="application/epub+zip" title="Original" length="19210543"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_-__Volume_01_Premium--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="3186030"/>
-  </entry>
-  <entry>
-    <title>Zero Damage Sword Saint I Enrolled in a Magic School and Wound Up in a Contract with the Demon Qu.  Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7d88f600a046760e38c305fc6130bc41</id>
-    <updated>2026-06-02T20:22:22Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_in_a_Magic_School_and_Wound_Up_in_a_Contract_with_the_Demon_Qu.__Volume_2.epub" type="application/epub+zip" title="Original" length="21862832"/>
-  </entry>
-  <entry>
-    <title>Zero Damage Sword Saint I Enrolled in a Magic School and Wound Up in a Contract with the Demon Qu.  Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:0313881f5857ca32dfe76c38a9990f6d</id>
-    <updated>2026-06-02T20:22:28Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_in_a_Magic_School_and_Wound_Up_in_a_Contract_with_the_Demon_Qu.__Volume_3.epub" type="application/epub+zip" title="Original" length="18488495"/>
-  </entry>
-  <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Heros Party  The Swordsman Who Became a Support Mage Due to Party Circumstances Becomes All Powerful Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:4ebf51eae9d9a4677db604483218e24e</id>
-    <updated>2026-06-02T18:48:08Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1.epub" type="application/epub+zip" title="Original" length="1516448"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/The_Jack-of-all-trades_Kicked_Out_of_the_Heros_Party__The_Swordsman_Who_Became_a_Support_Mage_Due_to_Party_Circumstances_Becomes_All_Powerful_Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="2142059"/>
-  </entry>
-  <entry>
-    <title>1LDK Soshite 2JK -  Volume 01</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:37c8fa219df1153b7d49edb7bf2f28bd</id>
-    <updated>2026-05-31T15:57:57Z</updated>
-    <content type="text">Source: Misc</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK_-__Volume_01.epub" type="application/epub+zip" title="Original" length="4092641"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1LDK_Soshite_2JK_-__Volume_01--Kindle.epub" type="application/epub+zip" title="Kindle Optimized" length="4188822"/>
+    <id>uuid:7025b9748fedf9e7b782a9434f19c494</id>
+    <updated>2026-06-04 02:26:58Z</updated>
+    <content type="text">Source: Miscellaneous</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
