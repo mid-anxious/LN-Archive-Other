@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Fun Translations</title>
-  <updated>2026-06-06T06:48:17.305181Z</updated>
+  <updated>2026-06-10T13:59:44.556931Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_fun.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>A mob character reincarnated with skills is pursued by a beautiful final boss - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:abf53a1ce576ad4b3bfe84164de5948a</id>
-    <updated>2026-06-04 02:11:38Z</updated>
+    <updated>2026-06-07 03:28:35Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_mob_character_reincarnated_with_skills_is_pursued_by_a_beautiful_final_boss__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_mob_character_reincarnated_with_skills_is_pursued_by_a_beautiful_final_boss__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>A Simple Soldier, Granted the Reincarnation Gift of ‘Infinite Regeneration,’... - Vol 1</title>
+    <title>A Simple Soldier, Granted the Reincarnation Gift of ‘Infinite Regeneration,’... - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:33f392ad9653560048608e6d2b64ae11</id>
-    <updated>2026-06-04 02:11:40Z</updated>
+    <updated>2026-06-06 18:47:35Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Simple_Soldier_Granted_the_Reincarnation_Gift_of_Infinite_Regeneration__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Simple_Soldier_Granted_the_Reincarnation_Gift_of_Infinite_Regeneration__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Hero Sensei: My Students Are Fighting Monsters, Aliens, and Mysterious Organizations~ - Volume 1</title>
+    <title>Hero Sensei: My Students Are Fighting Monsters, Aliens, and Mysterious Organizations~ - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1402725d91c281ff0688cae49858c4e4</id>
-    <updated>2026-06-04 02:16:19Z</updated>
+    <updated>2026-06-07 03:32:50Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Hero_Sensei__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Hero_Sensei__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Hero Sensei: My Students Are Fighting Monsters, Aliens, and Mysterious Organizations~ - Volume 2</title>
+    <title>Hero Sensei: My Students Are Fighting Monsters, Aliens, and Mysterious Organizations~ - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:22551ff353a59540f3e904b04dce4105</id>
-    <updated>2026-06-04 02:16:21Z</updated>
+    <updated>2026-06-07 03:33:00Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Hero_Sensei__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Hero_Sensei__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -44,7 +44,7 @@
     <title>Immortal Detective, Reidou Momiji - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:25203df850fe5857be43958051026aae</id>
-    <updated>2026-06-04 02:16:23Z</updated>
+    <updated>2026-06-08 23:02:38Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -53,7 +53,7 @@
     <title>Immortal Detective, Reidou Momiji - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:f61fc2b5314ad12999197341d5c54239</id>
-    <updated>2026-06-04 02:16:24Z</updated>
+    <updated>2026-06-08 23:02:48Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -62,34 +62,16 @@
     <title>Immortal Detective, Reidou Momiji - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1bacce527af207a25a40da8c9a82f270</id>
-    <updated>2026-06-04 02:16:25Z</updated>
+    <updated>2026-06-08 23:02:58Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>I Have Been Reincarnated As a Lazy, Arrogant Noble, but When I Destroyed The... - Vol 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:b412950b87f06c9599bc868078734f0f</id>
-    <updated>2026-06-04 02:16:26Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>I Have Been Reincarnated As a Lazy, Arrogant Noble, but When I Destroyed The... - Vol 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:8acddc5ee50a08b1ce32637d2d007e16</id>
-    <updated>2026-06-04 02:16:28Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
     <title>I, Who Command a Thousand Swords, Am the Strongest in the World - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:630956eaed1510d82eddc2327c55599c</id>
-    <updated>2026-06-04 02:16:29Z</updated>
+    <updated>2026-06-07 03:31:44Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Who_Command_a_Thousand_Swords_Am_the_Strongest_in_the_World__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Who_Command_a_Thousand_Swords_Am_the_Strongest_in_the_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -98,430 +80,250 @@
     <title>Reincarnated as the Mastermind of the Story - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ff25ec98fb1b75f18d259ebb0a29bba1</id>
-    <updated>2026-06-04 02:19:55Z</updated>
+    <updated>2026-06-06 18:45:55Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:a37a984da6974275d64b3361402ee8fc</id>
-    <updated>2026-06-04 02:19:56Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:8537db3599796416581b49ca3038c07a</id>
-    <updated>2026-06-04 02:19:57Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e3da88aea012fa016720d4b0447010b2</id>
-    <updated>2026-06-04 02:19:58Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 5</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:c0cb03e7a71b7825c66c1ac5f7c717a9</id>
-    <updated>2026-06-04 02:19:59Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_5.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 6</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:cc6d64859bf993461a1c6303bdc95a74</id>
-    <updated>2026-06-04 02:20:00Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_6.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Reincarnated as the Mastermind of the Story - Volume 7</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:3b2700d2169409c3ebe502b1c329eaed</id>
-    <updated>2026-06-04 02:20:01Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_7.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice - Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:9c333098c18e10160c608bc6defce997</id>
-    <updated>2026-06-04 02:20:02Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice - Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:747dff914fbf67871cf38567527fbb02</id>
-    <updated>2026-06-04 02:20:05Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice - Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:aa2306fb955f4391d572607d5f2b92c1</id>
-    <updated>2026-06-04 02:20:06Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice - Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:21df6d252caa7a93d707a776dc2621b7</id>
-    <updated>2026-06-04 02:20:08Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Repeat Vice - Volume 5</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:e98c26d4679c9bc277c951192689c948</id>
-    <updated>2026-06-04 02:20:10Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_5.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:064ec85c72cf12bfa0b60199b7f57f18</id>
-    <updated>2026-06-04 02:20:13Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:089d8aa9586c37516c6301d2b4789dab</id>
-    <updated>2026-06-04 02:20:17Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:72e0d34f97671044893bef1b31d92582</id>
-    <updated>2026-06-04 02:20:19Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:d8d7b4f1af6a336b0c47c2745636d263</id>
-    <updated>2026-06-04 02:20:23Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Volume 5</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:9b16fe5515077ec986cd414ec1273bc3</id>
-    <updated>2026-06-04 02:20:24Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_5.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Something as simple as reincarnation can't fill the hole in my heart - Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:5bda10a175a9645f69f299ed228f64af</id>
-    <updated>2026-06-04 02:20:25Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Something as simple as reincarnation can't fill the hole in my heart - Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:59baaf2082e5657633bd1030532c11d8</id>
-    <updated>2026-06-04 02:20:27Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Something as simple as reincarnation can't fill the hole in my heart - Volume 3</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:1ae92d570e12bc181646b59e7f7cab25</id>
-    <updated>2026-06-04 02:20:30Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Something as simple as reincarnation can't fill the hole in my heart - Volume 4</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:a5ce56acb8aa6a5c4014626d7a3ab7c6</id>
-    <updated>2026-06-04 02:20:31Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>The Corrupt Lord Who Got a Do-Over Doesn't Repent! - Vol 1</title>
+    <title>The Corrupt Lord Who Got a Do-Over Doesn't Repent! - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:02b2e1b54c6167c46f3a675c120e6d96</id>
-    <updated>2026-06-04 02:23:28Z</updated>
+    <updated>2026-06-06 18:44:40Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Volume 1</title>
+    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e6d1ada08fa6d8006609023d7cf6109f</id>
-    <updated>2026-06-04 02:23:29Z</updated>
+    <updated>2026-06-06 23:53:23Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Volume 2</title>
+    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:91483d72e32d48097d17db58b157833d</id>
-    <updated>2026-06-04 02:23:30Z</updated>
+    <updated>2026-06-06 23:55:06Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Volume 3</title>
+    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:49a1e8e7bb676a82f03d7aace2f38bdb</id>
-    <updated>2026-06-04 02:23:31Z</updated>
+    <updated>2026-06-06 23:57:54Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 1</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:75d10a421e647ab6190b5f578f8bb149</id>
-    <updated>2026-06-04 02:23:32Z</updated>
+    <updated>2026-06-06 23:59:47Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 10</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 10</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:59876643c7b6361df98d3f9dacfa7a6f</id>
-    <updated>2026-06-04 02:23:33Z</updated>
+    <updated>2026-06-07 00:21:30Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_10.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_10--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 2</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:7cb47746515bf0baf49c34e9ec80995b</id>
-    <updated>2026-06-04 02:23:34Z</updated>
+    <updated>2026-06-07 00:01:23Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 3</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:5587c86f0fc7ed995b3b56b21007740f</id>
-    <updated>2026-06-04 02:23:36Z</updated>
+    <updated>2026-06-07 00:01:58Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 4</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:82768176b03ffdf47966bf69fb9b0215</id>
-    <updated>2026-06-04 02:23:38Z</updated>
+    <updated>2026-06-07 00:03:39Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 5</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 5</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1bb5db1a73b664d8b6af172e75059077</id>
-    <updated>2026-06-04 02:23:39Z</updated>
+    <updated>2026-06-07 00:11:28Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_5.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 6</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 6</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1a37a684c6b09fd68326b0249104465d</id>
-    <updated>2026-06-04 02:23:40Z</updated>
+    <updated>2026-06-07 00:12:59Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_6.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 7</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 7</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:b98f2b7c5d9a598414834d2e34f2daff</id>
-    <updated>2026-06-04 02:23:41Z</updated>
+    <updated>2026-06-07 00:14:45Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_7.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 8</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 8</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:648847c38db51ee41719efa075a45047</id>
-    <updated>2026-06-04 02:23:41Z</updated>
+    <updated>2026-06-07 00:16:32Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_8.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Volume 9</title>
+    <title>The Jack-of-all-trades Kicked Out of the Hero’s Party ~ The Swordsman Who Became a Support Mage... - Vol 9</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:d2f0dd91b697434a678ca0f18001cf31</id>
-    <updated>2026-06-04 02:23:43Z</updated>
+    <updated>2026-06-07 00:19:03Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_9.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Jack_of_all_trades_Kicked_Out_of_the_Heros_Party__Volume_9--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 1</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:d239806d2df1394727da70620f144b3f</id>
-    <updated>2026-06-04 02:23:44Z</updated>
+    <updated>2026-06-07 02:29:05Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 2</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:96e0c934d15c2706bb4ee0c47793b4d5</id>
-    <updated>2026-06-04 02:23:46Z</updated>
+    <updated>2026-06-07 02:29:40Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 3</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1468076ace1f5bd99b4ea755923902b7</id>
-    <updated>2026-06-04 02:23:48Z</updated>
+    <updated>2026-06-07 02:30:16Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 4</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:2e767fb792dd3df336fb4c6963c63400</id>
-    <updated>2026-06-04 02:23:51Z</updated>
+    <updated>2026-06-07 02:30:51Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 5</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 5</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3d8a3708e3001a1a32f33f2c22a2ae98</id>
-    <updated>2026-06-04 02:23:52Z</updated>
+    <updated>2026-06-07 02:31:25Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_5.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 6</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 6</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ca726dfc2211a2d7c3bd696de67e9c9d</id>
-    <updated>2026-06-04 02:23:52Z</updated>
+    <updated>2026-06-07 02:31:56Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_6.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The magician who was constantly called incompetent is actually the strongest... - Volume 7</title>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 7</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:5c7f962daad7c3de86834cfbe0b3f930</id>
-    <updated>2026-06-04 02:23:53Z</updated>
+    <updated>2026-06-07 02:32:30Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_7.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Marquis's Second Son Runs Away From Home - Volume 1</title>
+    <title>The Marquis's Second Son Runs Away From Home - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:fa51aa1b3ac3650b63add78e6bc6b742</id>
-    <updated>2026-06-04 02:23:56Z</updated>
+    <updated>2026-06-07 03:26:32Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Marquis's Second Son Runs Away From Home - Volume 2</title>
+    <title>The Marquis's Second Son Runs Away From Home - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:17734c9e34f47c30027a7d8acf7c90f9</id>
-    <updated>2026-06-04 02:23:57Z</updated>
+    <updated>2026-06-07 03:27:01Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Marquis's Second Son Runs Away From Home - Volume 3</title>
+    <title>The Marquis's Second Son Runs Away From Home - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:dd43d67005b7d327f49746ef03857fc3</id>
-    <updated>2026-06-04 02:24:00Z</updated>
+    <updated>2026-06-07 03:27:15Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Marquis_s_Second_Son_Runs_Away_From_Home__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Volume 1</title>
+    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:14dab255ef2e7bcce6c782e1b7655b26</id>
-    <updated>2026-06-04 02:24:01Z</updated>
+    <updated>2026-06-07 03:25:08Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Volume 2</title>
+    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c6ef518246b84c1641220bf7185601f1</id>
-    <updated>2026-06-04 02:24:02Z</updated>
+    <updated>2026-06-07 03:25:21Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Volume 3</title>
+    <title>The Ordinary Head of the Family Who Became the Strongest Through Divine Trial... - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:cf28ee945352f5b88d372adfa3e4a4f8</id>
-    <updated>2026-06-04 02:24:03Z</updated>
+    <updated>2026-06-07 03:25:35Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Ordinary_Head_of_the_Family_Who_Became_the_Strongest_Through_Divine_Trial__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -530,16 +332,826 @@
     <title>The Villainous Aristocrat Dominates with Humility and Honesty - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:de3b1d5af5d0676407bdf160003f63bf</id>
-    <updated>2026-06-04 02:24:05Z</updated>
+    <updated>2026-06-07 03:31:52Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Villainous_Aristocrat_Dominates_with_Humility_and_Honesty__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Villainous_Aristocrat_Dominates_with_Humility_and_Honesty__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
+    <title>Having Had My Bride Stolen, I Just Want to Live Peacefully - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cf28847dd1f951768972c2be5b4ccfb9</id>
+    <updated>2026-06-06 19:11:51Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Having_Had_My_Bride_Stolen_I_Just_Want_to_Live_Peacefully__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Having_Had_My_Bride_Stolen_I_Just_Want_to_Live_Peacefully__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a37a984da6974275d64b3361402ee8fc</id>
+    <updated>2026-06-07 03:11:53Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8537db3599796416581b49ca3038c07a</id>
+    <updated>2026-06-07 03:12:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e3da88aea012fa016720d4b0447010b2</id>
+    <updated>2026-06-07 03:13:03Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c0cb03e7a71b7825c66c1ac5f7c717a9</id>
+    <updated>2026-06-07 03:13:39Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cc6d64859bf993461a1c6303bdc95a74</id>
+    <updated>2026-06-07 03:14:12Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Reincarnated as the Mastermind of the Story - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3b2700d2169409c3ebe502b1c329eaed</id>
+    <updated>2026-06-07 03:15:15Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Reincarnated_as_the_Mastermind_of_the_Story__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Got Kicked Out of the Hero's Party, So I Went Back to My Hometown, but the... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:775eeeb38b391b51550df3d3cae1553a</id>
+    <updated>2026-06-07 03:00:36Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Got_Kicked_Out_of_the_Hero_s_Party_So_I_Went_Back_to_My_Hometown_but_the__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Got_Kicked_Out_of_the_Hero_s_Party_So_I_Went_Back_to_My_Hometown_but_the__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:32fc805616bca0aa1f3ea5b8eba12244</id>
+    <updated>2026-06-06 23:58:25Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Girl_I_Picked_Up_in_the_Back_Alley_Turned_Out_to_Be_the_Heroine_of_a_Bad__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Was the Invincible Wizard in My Previous Life, and Now I'm Unrivaled with t... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:591631e49e1bc063f9fc1f6c8982e66e</id>
+    <updated>2026-06-07 00:27:58Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Was_the_Invincible_Wizard_in_My_Previous_Life_and_Now_I_m_Unrivaled_with_t__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Was_the_Invincible_Wizard_in_My_Previous_Life_and_Now_I_m_Unrivaled_with_t__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Cold-Hearted Prince's Plan to Recapture the Empire - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:284a829ca3e4cf9e7983c1bf279af1a9</id>
+    <updated>2026-06-07 00:28:21Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Cold_Hearted_Prince_s_Plan_to_Recapture_the_Empire__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Cold_Hearted_Prince_s_Plan_to_Recapture_the_Empire__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magi... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1d939c6dd09c127f05753daea496c5f8</id>
+    <updated>2026-06-07 00:33:07Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magi__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Was_Reincarnated_as_the_7th_Prince_so_I_Can_Take_My_Time_Perfecting_My_Magi__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7f8d5942adc8142247231e4e6a399f1b</id>
+    <updated>2026-06-07 02:08:18Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d1b8faff64651cbc5d29c8de284854bb</id>
+    <updated>2026-06-07 02:08:24Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f9ec1085fcbe6dfde41c0313abc8a9a7</id>
+    <updated>2026-06-07 02:08:31Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:736c12b31da57f8060c5f295484d8f45</id>
+    <updated>2026-06-07 02:08:38Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:71a3aac4ae370c14320ffca9da5252b0</id>
+    <updated>2026-06-07 02:08:44Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4b26f23dfc3f08190341c9f728c8af36</id>
+    <updated>2026-06-07 02:08:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f27da78a193e86b0f835852e4e0a0721</id>
+    <updated>2026-06-07 02:08:57Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:43bb681a6630417bf6beee733b1b1504</id>
+    <updated>2026-06-07 02:09:03Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_8.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 9</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:639095b1f2fa880e4d5fb38f3ef8d015</id>
+    <updated>2026-06-07 02:09:09Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_9.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_9--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Wise Man's Grandson (LN) - Vol 10</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a5bdc48d73e294b81668d534b90617f4</id>
+    <updated>2026-06-07 02:09:15Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_10.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Wise_Man_s_Grandson_LN__Volume_10--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>God-Slayer of the Fire Realm King's Sword - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ba4415324664612a523fab0913410aca</id>
+    <updated>2026-06-07 02:14:45Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>God-Slayer of the Fire Realm King's Sword - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:08f9b9e43cbeebe620995ec4a6e8c88c</id>
+    <updated>2026-06-07 02:15:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>God-Slayer of the Fire Realm King's Sword - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:577505c3e8dd49d80363e3e39091548d</id>
+    <updated>2026-06-07 02:15:34Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--God_Slayer_of_the_Fire_Realm_King_s_Sword__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Having Had My Bride Stolen, I Just Want to Live Peacefully - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:524ac48fbde71d043fe2415885485fa7</id>
+    <updated>2026-06-07 02:16:08Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Having_Had_My_Bride_Stolen_I_Just_Want_to_Live_Peacefully__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Having_Had_My_Bride_Stolen_I_Just_Want_to_Live_Peacefully__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Ken Oni Tensei Kiwameshi Ken wa Majutsu o Kiri Saku - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cffcc4fa90c35e84ea5e0c14cd5c2875</id>
+    <updated>2026-06-07 02:19:14Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Ken_Oni_Tensei_Kiwameshi_Ken_wa_Majutsu_o_Kiri_Saku__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Ken_Oni_Tensei_Kiwameshi_Ken_wa_Majutsu_o_Kiri_Saku__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Even Though I Was Rejected by the Two Most Beautiful Girls in My Grade, for S... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:69d9e27af760f420bb2cb52bb4100fe9</id>
+    <updated>2026-06-07 02:26:27Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Even_Though_I_Was_Rejected_by_the_Two_Most_Beautiful_Girls_in_My_Grade_for_S__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Even_Though_I_Was_Rejected_by_the_Two_Most_Beautiful_Girls_in_My_Grade_for_S__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Sword Saint Story: Starting from Zero Attack Power - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e3c8c91ea4111014300a9e8fe4eacb80</id>
+    <updated>2026-06-07 02:27:10Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sword_Saint_Story_Starting_from_Zero_Attack_Power__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sword_Saint_Story_Starting_from_Zero_Attack_Power__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Sword Saint Story: Starting from Zero Attack Power - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cae4a40d832d2a77b7910aad08cb36f9</id>
+    <updated>2026-06-07 02:28:26Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sword_Saint_Story_Starting_from_Zero_Attack_Power__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sword_Saint_Story_Starting_from_Zero_Attack_Power__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The magician who was constantly called incompetent is actually the strongest... - Vol 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:160f8b785472e8ce70cb09df2b5c7279</id>
+    <updated>2026-06-08 22:44:09Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_8.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ed61092eed0931ffae472834ff3ceb82</id>
+    <updated>2026-06-07 02:34:25Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:422be4b5b424ee624c1cae371b21da9d</id>
+    <updated>2026-06-07 02:34:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:90a08aed723e9c267f634eb430275ceb</id>
+    <updated>2026-06-07 02:35:15Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:65e6a772cc814cfa5611f2cf20da76d7</id>
+    <updated>2026-06-07 02:35:41Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:54650fe0d7180000ea450e0aed39fcb3</id>
+    <updated>2026-06-07 02:36:06Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a4c3621bac226198f01c66c949020560</id>
+    <updated>2026-06-07 02:36:32Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Very Popular Idol Classmate Has Taken a Liking to Me, A Person Who Doesn’t... - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:336e52b4f08bfeee4f1a9962e3b897e3</id>
+    <updated>2026-06-07 02:36:56Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--A_Very_Popular_Idol_Classmate_Has_Taken_a_Liking_to_Me_A_Person_Who_Doesnt__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>From Toxic Classmate to Girlfriend Goals - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fd11ede6e1b08d8a67d14b44d6db6e91</id>
+    <updated>2026-06-07 02:37:07Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--From_Toxic_Classmate_to_Girlfriend_Goals__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--From_Toxic_Classmate_to_Girlfriend_Goals__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I, a Tired Office Worker, Start Living Together with a Beautiful Highschool G... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ddb54013034566e085faad69cd0af6c2</id>
+    <updated>2026-06-07 02:39:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I, a Tired Office Worker, Start Living Together with a Beautiful Highschool G... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:27d02235c378b25a23326d40c4cd13a1</id>
+    <updated>2026-06-07 02:40:55Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I, a Tired Office Worker, Start Living Together with a Beautiful Highschool G... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5656e6f81b2b615ef1389422144f5ecb</id>
+    <updated>2026-06-07 02:41:56Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I, a Tired Office Worker, Start Living Together with a Beautiful Highschool G... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1d39fb657858d9e437fbe19f607a8f67</id>
+    <updated>2026-06-07 02:43:04Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I, a Tired Office Worker, Start Living Together with a Beautiful Highschool G... - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:200ec688ba872fbb41b0ab199eda5c29</id>
+    <updated>2026-06-07 02:43:14Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_a_Tired_Office_Worker_Start_Living_Together_with_a_Beautiful_Highschool_G__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Repeat Vice - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9c333098c18e10160c608bc6defce997</id>
+    <updated>2026-06-07 02:43:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Repeat Vice - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:747dff914fbf67871cf38567527fbb02</id>
+    <updated>2026-06-07 02:44:18Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Repeat Vice - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:aa2306fb955f4391d572607d5f2b92c1</id>
+    <updated>2026-06-07 02:44:45Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Repeat Vice - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:21df6d252caa7a93d707a776dc2621b7</id>
+    <updated>2026-06-07 02:45:17Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Repeat Vice - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e98c26d4679c9bc277c951192689c948</id>
+    <updated>2026-06-07 02:45:47Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Repeat_Vice__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:14d2adbc109f24291e95150b57ba68da</id>
+    <updated>2026-06-08 23:43:51Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3eb29004d006e69379265e1154e100c2</id>
+    <updated>2026-06-08 23:44:15Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:220e9d7c49c795ad65ab8b4e0d8a42b1</id>
+    <updated>2026-06-08 23:44:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7e8718746bb84c2eaeb18b6f851cc0ad</id>
+    <updated>2026-06-08 23:46:03Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:822aadb889d23c54d1a0f232387644f7</id>
+    <updated>2026-06-08 23:46:11Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5e08a14e5cf3a5b0b96c8e3803719778</id>
+    <updated>2026-06-08 23:49:01Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Thou, As My Knight - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:84ba297fb8438cc8a2593bba9afcb114</id>
+    <updated>2026-06-07 03:06:40Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Thou, As My Knight - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:540f90485cc32f2c1960ace0afb40963</id>
+    <updated>2026-06-07 03:08:39Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Thou, As My Knight - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f0876ca014c80f8a1674f6baf6829abf</id>
+    <updated>2026-06-07 03:08:49Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Thou_As_My_Knight__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b4e4cb9075d1f5380d7f9d3c06299e9b</id>
+    <updated>2026-06-07 03:09:12Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:39ddbcc8712fb38354f7641ee143065e</id>
+    <updated>2026-06-07 03:09:27Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:187e5d70a691d13506ae8513a2af1e26</id>
+    <updated>2026-06-07 03:09:42Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0a1b783c72b916013014394ba43133e6</id>
+    <updated>2026-06-07 03:09:56Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0098b8ffdd79492b6d83ba59dee4fb1a</id>
+    <updated>2026-06-07 03:10:11Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8baaadeb06004120be1dea0877f97a86</id>
+    <updated>2026-06-07 03:10:35Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1477c25527ad15bb24d67903d1ab69c0</id>
+    <updated>2026-06-07 03:10:55Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Omiai Shitakunakatta node, Muri Nandai na Jouken wo Tsuketara Doukyuusei ga K... - Vol 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8806cfad85d6b6021b19bfa32f776dfb</id>
+    <updated>2026-06-07 03:11:11Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_8.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Omiai_Shitakunakatta_node_Muri_Nandai_na_Jouken_wo_Tsuketara_Doukyuusei_ga_K__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>This is Wizard's Last Card - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8e0a325df51a1d6e96e85b0d7ca87fc1</id>
+    <updated>2026-06-07 03:20:20Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>This is Wizard's Last Card - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4678ac6247c3ef0430d24f4b7f7d077e</id>
+    <updated>2026-06-07 03:20:34Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>This is Wizard's Last Card - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8c5c4423f59ea6819e35f7e1e4de64f7</id>
+    <updated>2026-06-07 03:20:47Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>This is Wizard's Last Card - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:baf8afc7b600dbec11d908927f93aea9</id>
+    <updated>2026-06-07 03:20:54Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--This_is_Wizard_s_Last_Card__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c47bdcda9bc3dcd62cd97f1155c184fe</id>
+    <updated>2026-06-07 03:21:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a9bc0aa46171971c799ded90878a35ea</id>
+    <updated>2026-06-07 03:23:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>LV999 Villager - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a6d6e03da1f71e2c8f2be0f40a8153db</id>
+    <updated>2026-06-07 03:24:50Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--LV999_Villager__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--LV999_Villager__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Funeral Flame Blade and the Immortal Witch - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5482be44495caba8dc08b1c51d23a7a8</id>
+    <updated>2026-06-07 03:27:27Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Funeral_Flame_Blade_and_the_Immortal_Witch__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Funeral_Flame_Blade_and_the_Immortal_Witch__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Funeral Flame Blade and the Immortal Witch - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b5bc595af088448fddba0f311abf6e89</id>
+    <updated>2026-06-07 03:27:36Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Funeral_Flame_Blade_and_the_Immortal_Witch__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Funeral_Flame_Blade_and_the_Immortal_Witch__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4e768cfcdf6af96d012e81461e76d759</id>
+    <updated>2026-06-07 03:27:46Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:963560c5129362e683376931199ee9b3</id>
+    <updated>2026-06-07 03:27:52Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:abae1efac8a1395ff04db06098c9d203</id>
+    <updated>2026-06-07 03:27:58Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fcb39b5690d942f37e3961cc059fb404</id>
+    <updated>2026-06-07 03:28:04Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:99846a923a0ba17d3207d8180aa3bc80</id>
+    <updated>2026-06-07 03:28:08Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6677bd72bb339a6a03c5af784bc751f2</id>
+    <updated>2026-06-07 03:28:14Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:99e73a86fa4ecdae0b035a66b4f280fa</id>
+    <updated>2026-06-07 03:28:20Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Assassins Pride - Vol 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:307044d819fb9af9022104e00b7c72eb</id>
+    <updated>2026-06-07 03:28:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_8.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Assassins_Pride__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Because I Am Freedom! Magus Engineer Feya Challenges Ancient Civilizations - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9a6421b95b8abd4c36d1d7c9e19149d9</id>
+    <updated>2026-06-07 03:31:34Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Because_I_Am_Freedom_Magus_Engineer_Feya_Challenges_Ancient_Civilizations__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--Because_I_Am_Freedom_Magus_Engineer_Feya_Challenges_Ancient_Civilizations__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Iceblade Sorcerer Shall Rule the World - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:489cff8bf55078039b071db5b880b4c6</id>
+    <updated>2026-06-07 03:32:02Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Iceblade Sorcerer Shall Rule the World - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8efe6f4b9a15dceb90884a000b1b47fa</id>
+    <updated>2026-06-07 03:32:11Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Iceblade Sorcerer Shall Rule the World - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:2453fb20bd9e85021e0e470cefe33693</id>
+    <updated>2026-06-07 03:32:19Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Iceblade Sorcerer Shall Rule the World - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d71a65dc6169673480f841a7cb02e83f</id>
+    <updated>2026-06-07 03:32:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Iceblade_Sorcerer_Shall_Rule_the_World__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Sakura-Colored Strange Girl~I Thought I Reincarnated as a Slum Orphan, But I'... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:efe9264f7b9003e7b43ad829461334cf</id>
+    <updated>2026-06-07 03:32:36Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sakura_Colored_Strange_Girl_I_Thought_I_Reincarnated_as_a_Slum_Orphan_But_I__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Sakura_Colored_Strange_Girl_I_Thought_I_Reincarnated_as_a_Slum_Orphan_But_I__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Omniscient and Omnipotent King - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3d484d3c45e6f5026a65c0a267c42ae3</id>
+    <updated>2026-06-09 01:34:10Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Omniscient_and_Omnipotent_King__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Omniscient_and_Omnipotent_King__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
     <title>The World of Ash is Colored by God's Eyes - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:5db0b66404996164c5d893ad761ec209</id>
-    <updated>2026-06-04 02:24:06Z</updated>
+    <updated>2026-06-07 05:04:30Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -548,9 +1160,225 @@
     <title>The World of Ash is Colored by God's Eyes - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:792a1cf68a57159d12a5ec84e56f7e28</id>
-    <updated>2026-06-04 02:24:07Z</updated>
+    <updated>2026-06-07 05:04:39Z</updated>
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The World of Ash is Colored by God's Eyes - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8e42cad9c94371d27b230a3cace9173e</id>
+    <updated>2026-06-07 05:05:17Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_World_of_Ash_is_Colored_by_God_s_Eyes__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9b16fe5515077ec986cd414ec1273bc3</id>
+    <updated>2026-06-07 05:06:47Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Helping “Ice Princess” From Another School, I Decided to Start as a Fri... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6922515cdf7072f0aba6aec238972363</id>
+    <updated>2026-06-08 22:27:49Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Helping “Ice Princess” From Another School, I Decided to Start as a Fri... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:86989d641a6f710864c40bf061a96898</id>
+    <updated>2026-06-08 22:28:20Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Helping “Ice Princess” From Another School, I Decided to Start as a Fri... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3ef4ba0b9a63c47acff0f84d9c354ba7</id>
+    <updated>2026-06-08 22:28:38Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Helping “Ice Princess” From Another School, I Decided to Start as a Fri... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:910e04692d5d516672f3de8041d42bb6</id>
+    <updated>2026-06-08 22:28:54Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/FUN--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Fri__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Have Been Reincarnated As a Lazy, Arrogant Noble, but When I Destroyed The... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b412950b87f06c9599bc868078734f0f</id>
+    <updated>2026-06-08 22:33:28Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Have Been Reincarnated As a Lazy, Arrogant Noble, but When I Destroyed The... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8acddc5ee50a08b1ce32637d2d007e16</id>
+    <updated>2026-06-08 22:35:03Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Have Been Reincarnated As a Lazy, Arrogant Noble, but When I Destroyed The... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8a0ba16eb4e0fa680ad194d3a43273df</id>
+    <updated>2026-06-08 22:35:10Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Have_Been_Reincarnated_As_a_Lazy_Arrogant_Noble_but_When_I_Destroyed_The__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:064ec85c72cf12bfa0b60199b7f57f18</id>
+    <updated>2026-06-08 22:37:25Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:089d8aa9586c37516c6301d2b4789dab</id>
+    <updated>2026-06-08 22:39:24Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:72e0d34f97671044893bef1b31d92582</id>
+    <updated>2026-06-08 22:41:14Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō Rakudai Kizoku no Kenma Kiwameshi Antō Tan - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d8d7b4f1af6a336b0c47c2745636d263</id>
+    <updated>2026-06-08 22:43:04Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_Rakudai_Kizoku_no_Kenma_Kiwameshi_Anto_Tan__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Mimimi - Mio Mitarai can see the future - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8a70b3b3c6609dd4246455529c18dbac</id>
+    <updated>2026-06-08 22:45:21Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Mimimi_Mio_Mitarai_can_see_the_future__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Mimimi_Mio_Mitarai_can_see_the_future__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Saikyō kenja fūfu no ko-dzukuri jijō-en to kōri ga awasattara sekai o sukuema... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:31f6cbb484ae82f93904483fd92e2310</id>
+    <updated>2026-06-08 22:45:41Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_kenja_fufu_no_ko_dzukuri_jijo_en_to_kori_ga_awasattara_sekai_o_sukuema__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Saikyo_kenja_fufu_no_ko_dzukuri_jijo_en_to_kori_ga_awasattara_sekai_o_sukuema__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Something as simple as reincarnation can't fill the hole in my heart - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5bda10a175a9645f69f299ed228f64af</id>
+    <updated>2026-06-08 22:46:20Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Something as simple as reincarnation can't fill the hole in my heart - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:59baaf2082e5657633bd1030532c11d8</id>
+    <updated>2026-06-08 22:46:51Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Something as simple as reincarnation can't fill the hole in my heart - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1ae92d570e12bc181646b59e7f7cab25</id>
+    <updated>2026-06-08 22:47:18Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Something as simple as reincarnation can't fill the hole in my heart - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a5ce56acb8aa6a5c4014626d7a3ab7c6</id>
+    <updated>2026-06-08 22:47:47Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/FUN--Something_as_simple_as_reincarnation_can_t_fill_the_hole_in_my_heart__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Crush's Little Sister - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3e31584a534039b2891a988c73df18c2</id>
+    <updated>2026-06-08 22:48:15Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Crush's Little Sister - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d72ba87dbe0fcecbe680e06ad4103481</id>
+    <updated>2026-06-08 22:48:40Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Crush's Little Sister - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f8b9cde1ec78c77435bd15deaa1acec5</id>
+    <updated>2026-06-08 22:49:04Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--My_Crush_s_Little_Sister__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnated Demon King and the Hero Candidate's Academy War - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c5e17b3ae7d988771d711ebc3d966902</id>
+    <updated>2026-06-08 22:49:33Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Reincarnated_Demon_King_and_the_Hero_Candidate_s_Academy_War__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Reincarnated_Demon_King_and_the_Hero_Candidate_s_Academy_War__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Reincarnated Demon King and the Hero Candidate's Academy War - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:598e8e8e4589fc34a21faed44ea485d1</id>
+    <updated>2026-06-08 22:49:42Z</updated>
+    <content type="text">Source: Fun Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Reincarnated_Demon_King_and_the_Hero_Candidate_s_Academy_War__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Reincarnated_Demon_King_and_the_Hero_Candidate_s_Academy_War__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
