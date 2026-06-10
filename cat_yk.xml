@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-06-10T13:59:44.564792Z</updated>
+  <updated>2026-06-10T14:08:08.609110Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -250,11 +250,11 @@
   <entry>
     <title>It Was Like Petals Dancing Through A Raging Wind 02 - Yu Arisawa - Volume_2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:2008b7ef252fa7412e09579ee6adbce5</id>
+    <id>uuid:8b24ba098e213fba5cccdf3fb10b8423</id>
     <updated>2026-06-06 20:47:37Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_Was_Like_Petals_Dancing_Through_a_Raging_Wind_02_-_Yu_Arisawa__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_Was_Like_Petals_Dancing_Through_a_Raging_Wind_02_-_Yu_Arisawa__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_Was_Like_Petals_Dancing_Through_A_Raging_Wind_02__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_Was_Like_Petals_Dancing_Through_A_Raging_Wind_02__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>My Plain-looking Fiance is Secretly Sweet with Me - Volume 4</title>
@@ -1295,7 +1295,7 @@
     <title>It was like snow, quietly falling and piling up. - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:04f98bd266211d050fad127ef9bef262</id>
-    <updated>2026-06-06 22:27:52Z</updated>
+    <updated>2026-06-10 08:37:19Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1304,7 +1304,7 @@
     <title>It was like snow, quietly falling and piling up. - Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:06bcd465dc5a89ce140d549e94e3f195</id>
-    <updated>2026-06-06 22:28:02Z</updated>
+    <updated>2026-06-10 08:37:35Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
