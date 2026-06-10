@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Fun Translations</title>
-  <updated>2026-06-10T14:08:08.598741Z</updated>
+  <updated>2026-06-10T14:51:29.918407Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_fun.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -971,19 +971,19 @@
     <title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c47bdcda9bc3dcd62cd97f1155c184fe</id>
-    <updated>2026-06-07 03:21:50Z</updated>
+    <updated>2026-06-10 09:21:16Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Tensai Joyuu no Osananajimi to, Kiss Scene wo Enjiru Koto ni Natta - Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:a9bc0aa46171971c799ded90878a35ea</id>
+    <id>uuid:776106b2dbeebd5c016e411de13743ca</id>
     <updated>2026-06-07 03:23:28Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--Tensai_Joyuu_no_Osananajimi_to_Kiss_Scene_wo_Enjiru_Koto_ni_Natta__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--tensai_joyuu_no_osananajimi_to_kiss_scene_wo_enjiru_koto_ni_natta__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--tensai_joyuu_no_osananajimi_to_kiss_scene_wo_enjiru_koto_ni_natta__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>LV999 Villager - Vol 1</title>
