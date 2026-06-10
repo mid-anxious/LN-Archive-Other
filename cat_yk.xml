@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-06-10T14:08:08.609110Z</updated>
+  <updated>2026-06-10T14:51:29.920949Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -246,6 +246,24 @@
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Once_I_Became_Friends_with_Hoshigasaki_san_the_Cutest_Girl_in_My_Grade_She__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Once_I_Became_Friends_with_Hoshigasaki_san_the_Cutest_Girl_in_My_Grade_She__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Houkago Famiresu - Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:712bca36db96f349df9adac90c505432</id>
+    <updated>2026-06-10 07:27:02Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Houkago Famiresu - Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:89a1a6cc3024e83ab0ea12e42c206827</id>
+    <updated>2026-06-10 07:27:10Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>It Was Like Petals Dancing Through A Raging Wind 02 - Yu Arisawa - Volume_2</title>
@@ -1560,23 +1578,5 @@
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Houkago Famiresu - Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:712bca36db96f349df9adac90c505432</id>
-    <updated>2026-06-10 07:27:02Z</updated>
-    <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Houkago Famiresu - Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:89a1a6cc3024e83ab0ea12e42c206827</id>
-    <updated>2026-06-10 07:27:10Z</updated>
-    <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Houkago_Famiresu__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
