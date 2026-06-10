@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Fun Translations</title>
-  <updated>2026-06-10T13:59:44.556931Z</updated>
+  <updated>2026-06-10T14:08:08.598741Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_fun.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -781,56 +781,56 @@
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:14d2adbc109f24291e95150b57ba68da</id>
+    <id>uuid:9ce8acdeccf691f02cd5b70085196449</id>
     <updated>2026-06-08 23:43:51Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:3eb29004d006e69379265e1154e100c2</id>
+    <id>uuid:225ccb2b62ebc5d09bcca5f9f5aacb5d</id>
     <updated>2026-06-08 23:44:15Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:220e9d7c49c795ad65ab8b4e0d8a42b1</id>
+    <id>uuid:df841cfcf783a83667d194bf696650ba</id>
     <updated>2026-06-08 23:44:50Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 4</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:7e8718746bb84c2eaeb18b6f851cc0ad</id>
+    <id>uuid:9c20d319ab67aecb00b019c9987acf2b</id>
     <updated>2026-06-08 23:46:03Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 5</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:822aadb889d23c54d1a0f232387644f7</id>
+    <id>uuid:0d504b3e3c189a03bebe140acd82db81</id>
     <updated>2026-06-08 23:46:11Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_5.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Reincarnation of an Ordinary Person with Unparalleled Effort - Vol 6</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:5e08a14e5cf3a5b0b96c8e3803719778</id>
+    <id>uuid:df9b993faffd4343fa973352894be076</id>
     <updated>2026-06-08 23:49:01Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_6.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Reincarnation_of_an_Ordinary_Person_with_Unparalleled_Effort__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--the_reincarnation_of_ordinary_person__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Thou, As My Knight - Vol 1</title>
