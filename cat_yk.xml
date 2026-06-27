@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-06-10T14:51:29.920949Z</updated>
+  <updated>2026-06-27T19:54:50.936974Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -1124,7 +1124,7 @@
     <title>Life Reversal ~ I Was Cheated On and Falsely Accused, but Now the Most Beautiful Girl in the School Is Getting Close to Me ~ - Volume 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3e9e724bcdbbf375af5d4ea18a25be82</id>
-    <updated>2026-06-06 22:20:48Z</updated>
+    <updated>2026-06-27 13:50:57Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Life_Reversal__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Life_Reversal__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1286,16 +1286,16 @@
     <title>The Beast Tamer who got kicked out from the Hero Party, meets a Cat Girl from... - Volume 10</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:8ab22d58c28c445bcbe4b68bb6481e2a</id>
-    <updated>2026-06-06 22:25:46Z</updated>
+    <updated>2026-06-27 13:52:19Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Beast_Tamer_who_got_kicked_out_from_the_Hero_Party_meets_a_Cat_Girl_from__Volume_10.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/YK--The_Beast_Tamer_who_got_kicked_out_from_the_Hero_Party_meets_a_Cat_Girl_from__Volume_10--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/YK--The_Beast_Tamer_who_got_kicked_out_from_the_Hero_Party_meets_a_Cat_Girl_from__Volume_10.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/YK--The_Beast_Tamer_who_got_kicked_out_from_the_Hero_Party_meets_a_Cat_Girl_from__Volume_10--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>I Won't Choose You - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:f86d86f3fe2af2785dcaa150314f2028</id>
-    <updated>2026-06-06 22:26:01Z</updated>
+    <updated>2026-06-27 13:52:35Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Won_t_Choose_You__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Won_t_Choose_You__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1312,26 +1312,26 @@
   <entry>
     <title>It was like snow, quietly falling and piling up. - Volume 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:04f98bd266211d050fad127ef9bef262</id>
+    <id>uuid:15a4c47ae22ab4373d390b4a6a926fb9</id>
     <updated>2026-06-10 08:37:19Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_was_like_snow_quietly_falling_and_piling_up__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_was_like_snow_quietly_falling_and_piling_up__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>It was like snow, quietly falling and piling up. - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:06bcd465dc5a89ce140d549e94e3f195</id>
+    <id>uuid:3249964ef48ee44cacf41297154210a7</id>
     <updated>2026-06-10 08:37:35Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--like_snow_piling_up__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_was_like_snow_quietly_falling_and_piling_up__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--It_was_like_snow_quietly_falling_and_piling_up__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Living with the Arrogant Queen from High School Is Surprisingly Not Uncomfortable - Volume 5</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a55683a32b0e6f689542a22184d8402a</id>
-    <updated>2026-06-06 22:31:43Z</updated>
+    <updated>2026-06-27 13:53:15Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Living_with_the_Arrogant_Queen_from_High_School_Is_Surprisingly_Not_Uncomfort__Volume_5.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Living_with_the_Arrogant_Queen_from_High_School_Is_Surprisingly_Not_Uncomfort__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1340,7 +1340,7 @@
     <title>Just Get Married Already! There Are Three Girls People Say THat To, You Know? - Volume 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3efd2e0b88122e5c0046d7b54ad5b3f9</id>
-    <updated>2026-06-06 22:33:10Z</updated>
+    <updated>2026-06-27 14:17:53Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Just_Get_Married_Already_There_Are_Three_Girls_People_Say_THat_To_You_Know__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Just_Get_Married_Already_There_Are_Three_Girls_People_Say_THat_To_You_Know__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1484,7 +1484,7 @@
     <title>My Childhood Friend Thinks She’s the Losing Heroine, But She Has Actually Alr... - Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:bb7768308a5c3f09d2e80c9862c6a92d</id>
-    <updated>2026-06-06 22:53:10Z</updated>
+    <updated>2026-06-27 13:54:50Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Childhood_Friend_Thinks_Shes_the_Losing_Heroine_But_She_Has_Actually_Alr__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--My_Childhood_Friend_Thinks_Shes_the_Losing_Heroine_But_She_Has_Actually_Alr__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1502,7 +1502,7 @@
     <title>Hammered Girl - Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:21e051709a14c75e9dd0a54a97d4a6a2</id>
-    <updated>2026-06-06 22:57:49Z</updated>
+    <updated>2026-06-27 13:55:23Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Hammered_Girl__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--Hammered_Girl__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1538,7 +1538,7 @@
     <title>I Was Giving Love Advice to the School’s Cutest Girl Like We Were Best Friend... - Volume 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:761ad96936da06b86730c04b87a6baa3</id>
-    <updated>2026-06-08 23:57:57Z</updated>
+    <updated>2026-06-27 13:54:39Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Was_Giving_Love_Advice_to_the_Schools_Cutest_Girl_Like_We_Were_Best_Friend__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Was_Giving_Love_Advice_to_the_Schools_Cutest_Girl_Like_We_Were_Best_Friend__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1547,7 +1547,7 @@
     <title>I Lent a Friend 500 Yen, and He Sent His Little Sister Over as Payment—What t... - Volume 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:8b3286aaab257e20d1fae879b0a49764</id>
-    <updated>2026-06-08 23:59:22Z</updated>
+    <updated>2026-06-27 13:55:36Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Lent_a_Friend_500_Yen_and_He_Sent_His_Little_Sister_Over_as_PaymentWhat_t__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/YK--I_Lent_a_Friend_500_Yen_and_He_Sent_His_Little_Sister_Over_as_PaymentWhat_t__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -1555,28 +1555,37 @@
   <entry>
     <title>Pass the Monster Meat, Milady! - Volume 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:d18c5b3a54dde2ccd229b2a63ac22194</id>
+    <id>uuid:75ba2d6f5564b260ce3bdf1974c53f2e</id>
     <updated>2026-06-10 07:07:54Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Pass the Monster Meat, Milady! - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:13824c2dfa70cb3cdab92790dabc8027</id>
+    <id>uuid:8a31e37d959fecf08a13fbe45abbaec1</id>
     <updated>2026-06-10 07:08:11Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Pass the Monster Meat, Milady! - Volume 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:c424de251e7f2f09f59633f2a074ab43</id>
+    <id>uuid:6cc9ecd0ec2485fa1ab66d4baa000078</id>
     <updated>2026-06-10 07:08:25Z</updated>
     <content type="text">Source: Yuki Kitsuneko</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--pass_monster_meat_milady__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The AV App: Lovey-Dovey Sex with My Crush in Another Dimension! - Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fad0f628130b0037bdfd643d995bb524</id>
+    <updated>2026-06-27 13:55:09Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/YK--The_AV_App_Lovey_Dovey_Sex_with_My_Crush_in_Another_Dimension__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/YK--The_AV_App_Lovey_Dovey_Sex_with_My_Crush_in_Another_Dimension__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
