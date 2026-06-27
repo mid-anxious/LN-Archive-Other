@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: LT</title>
+  <updated>2026-06-27T20:01:03.980895Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_lt.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>after-helping-ice-princess-from-another-school-i-decided-to-start-as-a-friend - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6881348fceee707c0790b5ce7053484b</id>
+    <updated>2026-06-27 14:30:36Z</updated>
+    <content type="text">Source: LT</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/LT--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Friend__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/LT--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Friend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>after-helping-ice-princess-from-another-school-i-decided-to-start-as-a-friend - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3ae09ba10a48f1ef43d13d1cc458ffba</id>
+    <updated>2026-06-27 14:30:48Z</updated>
+    <content type="text">Source: LT</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/LT--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Friend__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/LT--After_Helping_Ice_Princess_From_Another_School_I_Decided_to_Start_as_a_Friend__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+</feed>
