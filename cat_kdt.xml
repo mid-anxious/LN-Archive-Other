@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: KDT Translations</title>
-  <updated>2026-06-10T14:51:29.919623Z</updated>
+  <updated>2026-06-27T19:54:50.932567Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_kdt.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -149,13 +149,13 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>I Became Friends with the Second Cutest Girl in My Class - Vol 7.5</title>
+    <title>I Became Friends with the Second Cutest Girl in My Class - Volume 7 5</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:6fc1fa160d4e148ccb51b2906f9db955</id>
-    <updated>2026-06-06 23:12:54Z</updated>
+    <id>uuid:af2264c39b466157f1fbc58e2de9c118</id>
+    <updated>2026-06-06 23:12:51Z</updated>
     <content type="text">Source: KDT Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7_5.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class - Vol 8</title>
@@ -1877,6 +1877,15 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KDT--The_Story_of_Alya_san_as_a_Heroine_from_Another_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
+    <title>I Became Friends with the Second Cutest Girl in My Class - Vol 7.5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6fc1fa160d4e148ccb51b2906f9db955</id>
+    <updated>2026-06-06 23:12:54Z</updated>
+    <content type="text">Source: KDT Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Became_Friends_with_the_Second_Cutest_Girl_in_My_Class__Volume_7_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
     <title>I Became Friends with the Second Cutest Girl in My Class - Vol 9</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:0a6c3a825292f01338928fa5a461f31b</id>
@@ -1911,5 +1920,14 @@
     <content type="text">Source: KDT Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Thought_I_Had_Reincarnated_in_a_Musou_Game_But_It_Turns_Out_This_Is_a_Hard__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KDT--I_Thought_I_Had_Reincarnated_in_a_Musou_Game_But_It_Turns_Out_This_Is_a_Hard__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Otherworldly Heroine’s Tale - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9c96f59bdbba6b83f49b51a62fa4be29</id>
+    <updated>2026-06-27 14:19:17Z</updated>
+    <content type="text">Source: KDT Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KDT--The_Otherworldly_Heroines_Tale__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KDT--The_Otherworldly_Heroines_Tale__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
