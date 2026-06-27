@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: ND</title>
+  <updated>2026-06-27T19:54:50.935612Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_nd.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Genius Warlock - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:01aef97ccd2f37cd4c5405bcfaedceed</id>
+    <updated>2026-06-11 18:19:01Z</updated>
+    <content type="text">Source: ND</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ND--Genius_Warlock__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ND--Genius_Warlock__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Murim Dragon - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e91800309c729c28b06c79229a8ecfeb</id>
+    <updated>2026-06-11 20:27:26Z</updated>
+    <content type="text">Source: ND</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ND--Murim_Dragon__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ND--Murim_Dragon__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+</feed>
