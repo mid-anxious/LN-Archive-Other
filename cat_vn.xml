@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: VN</title>
+  <updated>2026-06-27T19:54:50.936964Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_vn.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>the-villainous-aristocrats-efforts-led-to-a-genuine-harem - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:60a65bc69ce07dbe7207d6f9dc56f3c7</id>
+    <updated>2026-06-22 14:50:20Z</updated>
+    <content type="text">Source: VN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/VN--the_villainous_aristocrats_efforts_led_to_a_genuine_harem__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/VN--the_villainous_aristocrats_efforts_led_to_a_genuine_harem__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+</feed>
