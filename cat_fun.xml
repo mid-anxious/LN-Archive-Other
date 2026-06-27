@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Fun Translations</title>
-  <updated>2026-06-27T19:54:50.930866Z</updated>
+  <updated>2026-06-27T19:56:00.532840Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_fun.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -66,15 +66,6 @@
     <content type="text">Source: Fun Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--Immortal_Detective_Reidou_Momiji__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>I, Who Command a Thousand Swords, Am the Strongest in the World - Vol 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:630956eaed1510d82eddc2327c55599c</id>
-    <updated>2026-06-07 03:31:44Z</updated>
-    <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Who_Command_a_Thousand_Swords_Am_the_Strongest_in_the_World__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/FUN--I_Who_Command_a_Thousand_Swords_Am_the_Strongest_in_the_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Reincarnated as the Mastermind of the Story - Volume 1</title>
