@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: RJ-Novels</title>
-  <updated>2026-06-27T19:56:00.536182Z</updated>
+  <updated>2026-06-27T20:01:03.981337Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_rj.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -251,7 +251,7 @@
     <title>I Fell in Love with a Delusional Loner Girl, and Now Things Are Giga Heavy - Volume_1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4944af012e16abb4d18daee7258f3dcc</id>
-    <updated>2026-06-27T19:56:00.525689Z</updated>
+    <updated>2026-06-27T20:01:03.973598Z</updated>
     <content type="text">Source: RJ-Novels</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Fell_in_Love_with_a_Delusional_Loner_Girl_and_Now_Things_Are_Giga_Heavy__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/RJ--I_Fell_in_Love_with_a_Delusional_Loner_Girl_and_Now_Things_Are_Giga_Heavy__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
