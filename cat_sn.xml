@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: SN</title>
-  <updated>2026-06-27T19:56:00.536641Z</updated>
+  <updated>2026-06-27T20:01:03.981955Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_sn.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -14,7 +14,7 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Furarete_Kara_Hajimaru_Rabukome__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Vol 1</title>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a65d18229b57a2ad0bfb3889f8b7918a</id>
     <updated>2026-06-14 20:52:52Z</updated>
@@ -311,13 +311,13 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Sent_a_Message_Saying_I_Found_Someo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed Vol.1 - Vol 1</title>
+    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed - Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:b8b084ad5f1a05c05105189affc0b332</id>
+    <id>uuid:76cccbaf278e60f2cad0d46200394025</id>
     <updated>2026-06-14 21:14:48Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_1__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_1__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Girl With High Pride at School Is My Maid at Home - Vol 1</title>
@@ -347,13 +347,13 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Told_My_Female_Best_Friend_Who_Gives_Love_Advice_That_I_Got_Asked_Out__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Cursed, Pure Love Vol.1 - Vol 1</title>
+    <title>Cursed, Pure Love - Vol 1</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:41b695f7023f4e6e57ff27d151097796</id>
+    <id>uuid:0f83df55e276afa7de0b4135cb6beb18</id>
     <updated>2026-06-14 21:17:07Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_1__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_1__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Case Where After Saving the Beautiful Girl Who Sits Next to Me from Being... - Vol 1</title>
@@ -365,57 +365,57 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Case_Where_After_Saving_the_Beautiful_Girl_Who_Sits_Next_to_Me_from_Being__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 4 - Vol 1</title>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Volume 3</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:3af3137c39a92d1ec49b637099035e1a</id>
-    <updated>2026-06-14 20:39:48Z</updated>
+    <id>uuid:86db8e8f9a5f9f3d7a61d5160b80c185</id>
+    <updated>2026-06-27 14:29:30Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_4__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_4__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 3 - Vol 1</title>
+    <title>All mankind is my enemy - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:382a95352af57feecde9457a7ec010da</id>
-    <updated>2026-06-14 20:40:29Z</updated>
+    <id>uuid:b8cba7f28a5d11cc870a1b3b1274264a</id>
+    <updated>2026-06-27 14:29:05Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_3__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_3__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>All mankind is my enemy Vol.2 - Vol 1</title>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:0d901747e9fa3d6223b81b8fa3842999</id>
-    <updated>2026-06-14 20:40:32Z</updated>
+    <id>uuid:08f955d1df672c44597accdfb4fc1d20</id>
+    <updated>2026-06-27 14:29:28Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 2 - Vol 1</title>
+    <title>Cursed, Pure Love - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:338348e90ae2ae4da1a943f6a4092c23</id>
-    <updated>2026-06-14 20:47:46Z</updated>
+    <id>uuid:7eb21282d5fac7d9e80ff1bec917b2a4</id>
+    <updated>2026-06-27 14:28:53Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Cursed, Pure Love Vol.2 - Vol 1</title>
+    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed - Volume 2</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:bafc557903a277969fc504bb2ed19272</id>
-    <updated>2026-06-14 21:09:51Z</updated>
+    <id>uuid:ab68f18befcfc3406cba2185a38af466</id>
+    <updated>2026-06-27 14:29:15Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed Vol.2 - Vol 1</title>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Volume 4</title>
     <author><name>Unknown Author</name></author>
-    <id>uuid:8c98e818d4a9c4a321a80f22ca1b5695</id>
-    <updated>2026-06-14 21:13:04Z</updated>
+    <id>uuid:c1465a6b401d0b013d4d6e6d74f55cd9</id>
+    <updated>2026-06-27 14:29:34Z</updated>
     <content type="text">Source: SN</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
