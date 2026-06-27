@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: SN</title>
+  <updated>2026-06-27T19:54:50.936341Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_sn.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Furarete Kara Hajimaru Rabukome - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:bd60e471c51ee9b5deda08add388a5aa</id>
+    <updated>2026-06-14 20:40:09Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Furarete_Kara_Hajimaru_Rabukome__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Furarete_Kara_Hajimaru_Rabukome__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a65d18229b57a2ad0bfb3889f8b7918a</id>
+    <updated>2026-06-14 20:52:52Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Eroge no Utsu Endo kara Hiroin-tachi wo Kyuusai Shitara - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8ca21cd8c87bff3ced0b98e4b29552b8</id>
+    <updated>2026-06-14 20:40:26Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Eroge_no_Utsu_Endo_kara_Hiroin_tachi_wo_Kyuusai_Shitara__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Eroge_no_Utsu_Endo_kara_Hiroin_tachi_wo_Kyuusai_Shitara__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Ore ni Dake Mieru Make Heroine (Fukusuu) ga Geki-Omoi Kanjou Sugiru - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:999fb12be456e3f9b5cb86ffc57fb106</id>
+    <updated>2026-06-14 20:41:33Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--Ore_ni_Dake_Mieru_Make_Heroine_Fukusuu_ga_Geki_Omoi_Kanjou_Sugiru__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--Ore_ni_Dake_Mieru_Make_Heroine_Fukusuu_ga_Geki_Omoi_Kanjou_Sugiru__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Gyaru na Osananajimi ni Uragirueta Yokujitsu, Mou Hitori no Kuuru Bouisshu na... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3aed0737c39c769364b308ea8af3599d</id>
+    <updated>2026-06-14 20:42:16Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Gyaru_na_Osananajimi_ni_Uragirueta_Yokujitsu_Mou_Hitori_no_Kuuru_Bouisshu_na__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Gyaru_na_Osananajimi_ni_Uragirueta_Yokujitsu_Mou_Hitori_no_Kuuru_Bouisshu_na__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>On My Way Home After Overhearing My Childhood Friend Badmouthing Me, I Was Co... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:99bfe83695fd40824cfa0cfa84eb6c0e</id>
+    <updated>2026-06-14 20:43:12Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--On_My_Way_Home_After_Overhearing_My_Childhood_Friend_Badmouthing_Me_I_Was_Co__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--On_My_Way_Home_After_Overhearing_My_Childhood_Friend_Badmouthing_Me_I_Was_Co__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>From That Day On, I Stopped Chasing After You - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:29c1ab116295bd4ec0c438528525b6b3</id>
+    <updated>2026-06-14 20:43:49Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--From_That_Day_On_I_Stopped_Chasing_After_You__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--From_That_Day_On_I_Stopped_Chasing_After_You__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>All mankind is my enemy - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7ec231682b685b151f6679c42f3a2ba6</id>
+    <updated>2026-06-14 20:43:57Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The One Who Saved Me When I Was Depressed After My Girlfriend Was Stolen From... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:94ee2372947b55f65c15710dbd0f0099</id>
+    <updated>2026-06-14 20:45:34Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_One_Who_Saved_Me_When_I_Was_Depressed_After_My_Girlfriend_Was_Stolen_From__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_One_Who_Saved_Me_When_I_Was_Depressed_After_My_Girlfriend_Was_Stolen_From__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Love Comedy with the Unfallable Beautiful Girl Classmate Is Too Much of an... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:422daece3dffe3ad78e8d4e892f4bd1d</id>
+    <updated>2026-06-14 20:45:47Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Love_Comedy_with_the_Unfallable_Beautiful_Girl_Classmate_Is_Too_Much_of_an__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Love_Comedy_with_the_Unfallable_Beautiful_Girl_Classmate_Is_Too_Much_of_an__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>For Example, What If the One Who Stopped Me From Trying to Commit Suicide Aft... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:40152418f22ec42db14c5f0f1751e48c</id>
+    <updated>2026-06-14 20:46:46Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--For_Example_What_If_the_One_Who_Stopped_Me_From_Trying_to_Commit_Suicide_Aft__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--For_Example_What_If_the_One_Who_Stopped_Me_From_Trying_to_Commit_Suicide_Aft__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Senpai, Would You Like to Try Cheating With Me? - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3b4833cdb3c510e0726b8a536dfc7500</id>
+    <updated>2026-06-14 20:47:02Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--Senpai_Would_You_Like_to_Try_Cheating_With_Me__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/SN--Senpai_Would_You_Like_to_Try_Cheating_With_Me__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Lie,lie,lie…but,I love you! - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:87cbeed8786bb9706d2639bc05fd44ec</id>
+    <updated>2026-06-14 20:47:09Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Lie_lie_lie_but_I_love_you__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Lie_lie_lie_but_I_love_you__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>For Some Reason, the Internet Cafe Where I Work Part-Time Has Become a Hangou... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ba0fba49162340723daedf47b7388ffe</id>
+    <updated>2026-06-14 20:47:19Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--For_Some_Reason_the_Internet_Cafe_Where_I_Work_Part_Time_Has_Become_a_Hangou__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--For_Some_Reason_the_Internet_Cafe_Where_I_Work_Part_Time_Has_Become_a_Hangou__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>They Found Out I Was the One Who Saved the School’s Three Great Bishoujo-sama... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:41e74ed0c1ae773fc624804d846a463e</id>
+    <updated>2026-06-14 20:47:28Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--They_Found_Out_I_Was_the_One_Who_Saved_the_Schools_Three_Great_Bishoujo_sama__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--They_Found_Out_I_Was_the_One_Who_Saved_the_Schools_Three_Great_Bishoujo_sama__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Case Where I'm Always on the Agenda of the All-Beautiful-Girls Student Co... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e95d980c3d55b14a02a5eddb2fca5fdf</id>
+    <updated>2026-06-14 20:47:39Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Case_Where_I_m_Always_on_the_Agenda_of_the_All_Beautiful_Girls_Student_Co__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Case_Where_I_m_Always_on_the_Agenda_of_the_All_Beautiful_Girls_Student_Co__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Girlfriend Was a Quiet and Kind Girl - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a1b47cdb9bd95e75f0466b7126695cf8</id>
+    <updated>2026-06-14 20:50:31Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriend_Was_a_Quiet_and_Kind_Girl__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriend_Was_a_Quiet_and_Kind_Girl__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Childhood Friends Are Coming to Destroy My Views on Love - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b069fb075eb2a3950e4031f9c6667300</id>
+    <updated>2026-06-14 20:52:32Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Childhood_Friends_Are_Coming_to_Destroy_My_Views_on_Love__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Childhood_Friends_Are_Coming_to_Destroy_My_Views_on_Love__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Reincarnated as the Underdog in a Depressing NTR Game, but Even Though I’m... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ca52ab9971b7699762e90258d4547471</id>
+    <updated>2026-06-14 20:54:09Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Reincarnated_as_the_Underdog_in_a_Depressing_NTR_Game_but_Even_Though_Im__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Reincarnated_as_the_Underdog_in_a_Depressing_NTR_Game_but_Even_Though_Im__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Yandere Stalker Who Has Became My Step-Sister Justifies Everything She Does - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ab75476ff9b2d4e86b97a6fa1cae05b8</id>
+    <updated>2026-06-14 20:55:06Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Yandere_Stalker_Who_Has_Became_My_Step_Sister_Justifies_Everything_She_Does__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Yandere_Stalker_Who_Has_Became_My_Step_Sister_Justifies_Everything_She_Does__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Classmate Feared as a Delinquent Was Just a Chihuahua with a Mean Look. - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f16a52b4df6fc610b7d1da35b5eeb7c5</id>
+    <updated>2026-06-14 20:56:59Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Classmate_Feared_as_a_Delinquent_Was_Just_a_Chihuahua_with_a_Mean_Look__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Classmate_Feared_as_a_Delinquent_Was_Just_a_Chihuahua_with_a_Mean_Look__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Entering into a Fake Engagement With the Beautiful Model Who’s Out of M... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d95de5782b66233ed971cbcc91514320</id>
+    <updated>2026-06-14 20:58:22Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--After_Entering_into_a_Fake_Engagement_With_the_Beautiful_Model_Whos_Out_of_M__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--After_Entering_into_a_Fake_Engagement_With_the_Beautiful_Model_Whos_Out_of_M__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Liberation from the Curse of Childhood Friends - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b80f8fe73006fa3254cda78f1860e562</id>
+    <updated>2026-06-14 20:59:45Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Liberation_from_the_Curse_of_Childhood_Friends__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Liberation_from_the_Curse_of_Childhood_Friends__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>When I Went Out for a Housekeeping Service, There Was a Two-Faced Beauty - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f8162f5ab44e3538cda7eef9d4056e2b</id>
+    <updated>2026-06-14 21:01:43Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Went_Out_for_a_Housekeeping_Service_There_Was_a_Two_Faced_Beauty__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Went_Out_for_a_Housekeeping_Service_There_Was_a_Two_Faced_Beauty__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>It Seems My Childhood Friend, Whom I've Reunited with After Two Years, Has a... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d2ffb865049ddd5025e871c8c860a282</id>
+    <updated>2026-06-14 20:36:05Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--It_Seems_My_Childhood_Friend_Whom_I_ve_Reunited_with_After_Two_Years_Has_a__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--It_Seems_My_Childhood_Friend_Whom_I_ve_Reunited_with_After_Two_Years_Has_a__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Story of How, After Highly Praising the Bento a Girl Classmate Shared wit... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5e14fca8d2c103ece735825027cb23af</id>
+    <updated>2026-06-14 21:03:25Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Story_of_How_After_Highly_Praising_the_Bento_a_Girl_Classmate_Shared_wit__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Story_of_How_After_Highly_Praising_the_Bento_a_Girl_Classmate_Shared_wit__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Plain Classmate I Saved from a Molester, For Some Reason Gets Cuter Every... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fb87d8ffca54ea9bfbb26975880ffea0</id>
+    <updated>2026-06-14 21:04:50Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Plain_Classmate_I_Saved_from_a_Molester_For_Some_Reason_Gets_Cuter_Every__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Plain_Classmate_I_Saved_from_a_Molester_For_Some_Reason_Gets_Cuter_Every__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>It’s Nice to Have a Romcom, But the Heroines Are Nothing but Monsters - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:be9c3c051a2358de86810bafe5f2b039</id>
+    <updated>2026-06-14 21:09:47Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Its_Nice_to_Have_a_Romcom_But_the_Heroines_Are_Nothing_but_Monsters__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Its_Nice_to_Have_a_Romcom_But_the_Heroines_Are_Nothing_but_Monsters__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Living a Sweet School Life with the Beautiful Girl from the Class Next Do... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:814ff6df955217f89480766fb0a90f7f</id>
+    <updated>2026-06-14 21:10:08Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_m_Living_a_Sweet_School_Life_with_the_Beautiful_Girl_from_the_Class_Next_Do__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_m_Living_a_Sweet_School_Life_with_the_Beautiful_Girl_from_the_Class_Next_Do__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Despaired in Life After Being Cursed and Condemned by the Girl Whose Life I... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:a693f98864a2564b99e4eef1751c9de7</id>
+    <updated>2026-06-14 21:11:12Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Despaired_in_Life_After_Being_Cursed_and_Condemned_by_the_Girl_Whose_Life_I__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Despaired_in_Life_After_Being_Cursed_and_Condemned_by_the_Girl_Whose_Life_I__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Rendezvous with the Student Council President Is Always at a Hotel - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b7990b4fc8024fbb9364428c0294bb20</id>
+    <updated>2026-06-14 21:11:24Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Rendezvous_with_the_Student_Council_President_Is_Always_at_a_Hotel__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Rendezvous_with_the_Student_Council_President_Is_Always_at_a_Hotel__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I’m Happy to Be C*ckolded! My Morally Harassing Childhood Friend Fiancée Got... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e99b0f54ce7802f2b3dd80305046597a</id>
+    <updated>2026-06-14 21:12:40Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Im_Happy_to_Be_C_ckolded_My_Morally_Harassing_Childhood_Friend_Fiancee_Got__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--Im_Happy_to_Be_C_ckolded_My_Morally_Harassing_Childhood_Friend_Fiancee_Got__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Fleeting Flower Fictions - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cc33dfd7b52261ab04fe3739da68fae4</id>
+    <updated>2026-06-14 21:13:01Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Fleeting_Flower_Fictions__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Fleeting_Flower_Fictions__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Tried to Verify What Would Happen if I Sent a Message Saying “I Found Someo... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5d8d42817278a688ce3bb8bb5d24e143</id>
+    <updated>2026-06-14 21:14:22Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Sent_a_Message_Saying_I_Found_Someo__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Sent_a_Message_Saying_I_Found_Someo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed Vol.1 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b8b084ad5f1a05c05105189affc0b332</id>
+    <updated>2026-06-14 21:14:48Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_1__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_1__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Girl With High Pride at School Is My Maid at Home - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:89f820eeb61d96a5a94c89693489c5c1</id>
+    <updated>2026-06-14 21:15:01Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Girl_With_High_Pride_at_School_Is_My_Maid_at_Home__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Girl_With_High_Pride_at_School_Is_My_Maid_at_Home__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Tried to Verify What Would Happen if I Suddenly Said “Let’s Break Up” to My... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9e57fb81701e241927fc1e32a5b9c04c</id>
+    <updated>2026-06-14 21:16:09Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Suddenly_Said_Lets_Break_Up_to_My__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Suddenly_Said_Lets_Break_Up_to_My__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>When I Told My Female Best Friend Who Gives Love Advice, That I Got Asked Out... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:35b9354e7a9f8a054245d2a748df7ec0</id>
+    <updated>2026-06-14 21:16:49Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Told_My_Female_Best_Friend_Who_Gives_Love_Advice_That_I_Got_Asked_Out__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Told_My_Female_Best_Friend_Who_Gives_Love_Advice_That_I_Got_Asked_Out__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Cursed, Pure Love Vol.1 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:41b695f7023f4e6e57ff27d151097796</id>
+    <updated>2026-06-14 21:17:07Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_1__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_1__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Case Where After Saving the Beautiful Girl Who Sits Next to Me from Being... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:fca7c7c40b78960ae1c507668f9c473f</id>
+    <updated>2026-06-14 21:17:21Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Case_Where_After_Saving_the_Beautiful_Girl_Who_Sits_Next_to_Me_from_Being__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Case_Where_After_Saving_the_Beautiful_Girl_Who_Sits_Next_to_Me_from_Being__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 4 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3af3137c39a92d1ec49b637099035e1a</id>
+    <updated>2026-06-14 20:39:48Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_4__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_4__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 3 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:382a95352af57feecde9457a7ec010da</id>
+    <updated>2026-06-14 20:40:29Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_3__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_3__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>All mankind is my enemy Vol.2 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0d901747e9fa3d6223b81b8fa3842999</id>
+    <updated>2026-06-14 20:40:32Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--All_mankind_is_my_enemy_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Protagonist's Childhood Friend is Coming On Strong to Me, a Mob 2 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:338348e90ae2ae4da1a943f6a4092c23</id>
+    <updated>2026-06-14 20:47:46Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--The_Protagonist_s_Childhood_Friend_is_Coming_On_Strong_to_Me_a_Mob_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Cursed, Pure Love Vol.2 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:bafc557903a277969fc504bb2ed19272</id>
+    <updated>2026-06-14 21:09:51Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed Vol.2 - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8c98e818d4a9c4a321a80f22ca1b5695</id>
+    <updated>2026-06-14 21:13:04Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_2__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed_Vol_2__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+</feed>
