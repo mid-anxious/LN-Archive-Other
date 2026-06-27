@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Source: ST</title>
+  <updated>2026-06-27T19:54:50.936657Z</updated>
+  <author><name>mid-anxious</name></author>
+  <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_st.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:39996b905fa7f2252698900c500ab09c</id>
+    <updated>2026-06-22 12:02:26Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3af2712879d680121fa8fdef3bf258ec</id>
+    <updated>2026-06-22 12:02:36Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:57d9e414c79d1957dc8888c7001f6ec3</id>
+    <updated>2026-06-22 12:02:46Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:88117a06b84d0cc279e297c242cf0860</id>
+    <updated>2026-06-22 12:02:58Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:97db94e67cca505be50dbd43430fecfe</id>
+    <updated>2026-06-22 12:03:09Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 6</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0a2c9df4ef8e4d24d6bc082d297fb889</id>
+    <updated>2026-06-22 12:03:20Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_6.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_6--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 7</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:cf306f3346608ed6d537261703dea468</id>
+    <updated>2026-06-22 12:03:29Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_7.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_7--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>She Was Actually My Stepsister - Vol 8</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b0225fbee7a8d68eb0d9bb28fdd86722</id>
+    <updated>2026-06-22 12:03:40Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_8.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--She_Was_Actually_My_Stepsister__Volume_8--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Beautiful Archery Club Senpai Is Sleeping in My Room with Her Tummy Out - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:14d3d4060968a7fcf77f977a40b55c4f</id>
+    <updated>2026-06-22 12:03:50Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Beautiful_Archery_Club_Senpai_Is_Sleeping_in_My_Room_with_Her_Tummy_Out__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Beautiful_Archery_Club_Senpai_Is_Sleeping_in_My_Room_with_Her_Tummy_Out__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Beautiful Archery Club Senpai Is Sleeping in My Room with Her Tummy Out - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:02b21bb93a69a853a2e23516e3612b7c</id>
+    <updated>2026-06-22 12:03:57Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Beautiful_Archery_Club_Senpai_Is_Sleeping_in_My_Room_with_Her_Tummy_Out__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Beautiful_Archery_Club_Senpai_Is_Sleeping_in_My_Room_with_Her_Tummy_Out__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Beautiful Model In My Class Comes To The Coffee Shop Where I Work Part-time... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:554e941ab211e9ce91523a94289cbd67</id>
+    <updated>2026-06-22 12:04:07Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Beautiful_Model_In_My_Class_Comes_To_The_Coffee_Shop_Where_I_Work_Part_time__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Beautiful_Model_In_My_Class_Comes_To_The_Coffee_Shop_Where_I_Work_Part_time__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Beautiful Model In My Class Comes To The Coffee Shop Where I Work Part-time... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f68b1f33ea7bd7ec80d3c213fff5ca10</id>
+    <updated>2026-06-22 12:04:15Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Beautiful_Model_In_My_Class_Comes_To_The_Coffee_Shop_Where_I_Work_Part_time__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Beautiful_Model_In_My_Class_Comes_To_The_Coffee_Shop_Where_I_Work_Part_time__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>No Way a Boy Wouldn't Want to Be Pampered by a Beautiful Onee-san! - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:52dd9f05d6872851876f28f18e0c985f</id>
+    <updated>2026-06-22 12:04:24Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>No Way a Boy Wouldn't Want to Be Pampered by a Beautiful Onee-san! - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ec6806612a34c7ecd20588c1da1e7dde</id>
+    <updated>2026-06-22 12:04:31Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>No Way a Boy Wouldn't Want to Be Pampered by a Beautiful Onee-san! - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:54cef8dbda2e1e688e7227ee3c93174b</id>
+    <updated>2026-06-22 12:04:37Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/ST--No_Way_a_Boy_Wouldn_t_Want_to_Be_Pampered_by_a_Beautiful_Onee_san__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Gonna Live with You Not Because My Parents Left Me Their Debt But Because... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e41db76b4de34ae18df65283face338c</id>
+    <updated>2026-06-22 12:04:47Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Gonna Live with You Not Because My Parents Left Me Their Debt But Because... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:aedf2d55acc267a7b9afd0ccd99d95f6</id>
+    <updated>2026-06-22 12:04:56Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Gonna Live with You Not Because My Parents Left Me Their Debt But Because... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f7feb2075bee6b050c914585c683ae8c</id>
+    <updated>2026-06-22 12:05:05Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Gonna Live with You Not Because My Parents Left Me Their Debt But Because... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:564c100c8b7300c9ec68668eb5ceff4a</id>
+    <updated>2026-06-22 12:05:15Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm Gonna Live with You Not Because My Parents Left Me Their Debt But Because... - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7ec0431ea72f2fe6817b652e0c08feed</id>
+    <updated>2026-06-22 12:05:24Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_Gonna_Live_with_You_Not_Because_My_Parents_Left_Me_Their_Debt_But_Because__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Being Doted on by the Black Saint, I've Come to Dote on Her as Well - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:825465d72d3c953f7ac88fb880b25485</id>
+    <updated>2026-06-22 12:05:32Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Being Doted on by the Black Saint, I've Come to Dote on Her as Well - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9363c7121a8583df9d392c1d1662195c</id>
+    <updated>2026-06-22 12:05:40Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After Being Doted on by the Black Saint, I've Come to Dote on Her as Well - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:341be27d74a33aba07d0ea4413ba2339</id>
+    <updated>2026-06-22 12:05:49Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_Being_Doted_on_by_the_Black_Saint_I_ve_Come_to_Dote_on_Her_as_Well__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>After I Rescued a Cold-Hearted, Black-Haired, Beautiful Girl, She Started Act... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:2498eb408961e74cfdf3920f5a4c8062</id>
+    <updated>2026-06-22 12:05:56Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_I_Rescued_a_Cold_Hearted_Black_Haired_Beautiful_Girl_She_Started_Act__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--After_I_Rescued_a_Cold_Hearted_Black_Haired_Beautiful_Girl_She_Started_Act__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm a Famous VTuber's Big Brother, but Somehow I'm the One Who Got Famous - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:50d4f037c7ea25590780d4fa291786e3</id>
+    <updated>2026-06-22 12:06:08Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_a_Famous_VTuber_s_Big_Brother_but_Somehow_I_m_the_One_Who_Got_Famous__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_a_Famous_VTuber_s_Big_Brother_but_Somehow_I_m_the_One_Who_Got_Famous__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I'm a Famous VTuber's Big Brother, but Somehow I'm the One Who Got Famous - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e33c93b610be3158f6ef2994c437dbd1</id>
+    <updated>2026-06-22 12:06:18Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_a_Famous_VTuber_s_Big_Brother_but_Somehow_I_m_the_One_Who_Got_Famous__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_m_a_Famous_VTuber_s_Big_Brother_but_Somehow_I_m_the_One_Who_Got_Famous__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family o... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:11235357c8857c8598dde25a8504765a</id>
+    <updated>2026-06-22 12:06:29Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family o... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e5dfad21aaf177f0932d419cf06473ae</id>
+    <updated>2026-06-22 12:06:37Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family o... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:1522b2f5b4fc7857adaed48d71d752f5</id>
+    <updated>2026-06-22 12:06:46Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family o... - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:43631b3dda04b563b3df7912cd8e0dc1</id>
+    <updated>2026-06-22 12:06:56Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started Working a Housekeeping Job and Ended up Being Liked by the Family o... - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:809c09db9fc621ff242d5dc89252bb9d</id>
+    <updated>2026-06-22 12:07:05Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_Working_a_Housekeeping_Job_and_Ended_up_Being_Liked_by_the_Family_o__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Human-chan's Guard Is Way Too Weak! - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9843b37b186819501264e5966889006b</id>
+    <updated>2026-06-22 12:07:14Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--Human_chan_s_Guard_Is_Way_Too_Weak__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--Human_chan_s_Guard_Is_Way_Too_Weak__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Amamori Junna is Humid - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d37ee3cfd720f6e5f485e2a0a9b80ec3</id>
+    <updated>2026-06-22 12:07:24Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Amamori Junna is Humid - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8012636e29c9ff782f72b2fa02d2412e</id>
+    <updated>2026-06-22 12:07:34Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Amamori Junna is Humid - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5b3be85adc5907df78d21b8a7d9bd832</id>
+    <updated>2026-06-22 12:07:42Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--Amamori_Junna_is_Humid__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Little Sister Can't Be My Girlfriend - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:ff276d45bd94829f36fe186ef48dd844</id>
+    <updated>2026-06-22 12:07:51Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Little Sister Can't Be My Girlfriend - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:92388ab827cdc8a6358f753778787004</id>
+    <updated>2026-06-22 12:07:59Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Little Sister Can't Be My Girlfriend - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:e823a02fed97beec0adf91a4404dc46c</id>
+    <updated>2026-06-22 12:08:07Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Little Sister Can't Be My Girlfriend - Vol 4</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:9248dbedfc29099e1b40b24546cda950</id>
+    <updated>2026-06-22 12:08:15Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>My Little Sister Can't Be My Girlfriend - Vol 5</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:f64a0e60cde0521e111850b580fb22e9</id>
+    <updated>2026-06-22 12:08:22Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_5.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--My_Little_Sister_Can_t_Be_My_Girlfriend__Volume_5--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started a Lover Agency Part-Time Job, But Multiple Beautiful Girls Are Maki... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:176e370bf0340b1585b1ab2cb11d1958</id>
+    <updated>2026-06-22 12:08:30Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started a Lover Agency Part-Time Job, But Multiple Beautiful Girls Are Maki... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:269717b205ce4186c27aa9d9fdcc7eee</id>
+    <updated>2026-06-22 12:08:38Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Started a Lover Agency Part-Time Job, But Multiple Beautiful Girls Are Maki... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:51d2cac0c17a2217fae2e1c7f858fd0d</id>
+    <updated>2026-06-22 12:08:44Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Started_a_Lover_Agency_Part_Time_Job_But_Multiple_Beautiful_Girls_Are_Maki__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Love Comedy Which Nurtured With a Mom Friend - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3e33d884d9467c711930ee2c1bfd48b1</id>
+    <updated>2026-06-22 12:08:53Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Love Comedy Which Nurtured With a Mom Friend - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:274870db40a4ae227b8246d6d9f26f3a</id>
+    <updated>2026-06-22 12:09:01Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Love Comedy Which Nurtured With a Mom Friend - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6e8048d0e2badcc59514e560d4d06685</id>
+    <updated>2026-06-22 12:09:08Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Love_Comedy_Which_Nurtured_With_a_Mom_Friend__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Made the Girl I Liked My Maid, and Now She's Secretly Doing Something in My... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d62f0e7dc15eec46785cce1225b9a241</id>
+    <updated>2026-06-22 12:09:16Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Made the Girl I Liked My Maid, and Now She's Secretly Doing Something in My... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:7af1701652c5509613e2dfb1f5a94735</id>
+    <updated>2026-06-22 12:09:24Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Made the Girl I Liked My Maid, and Now She's Secretly Doing Something in My... - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:b7186fab65863723c484530afac0c504</id>
+    <updated>2026-06-22 12:09:32Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/ST--I_Made_the_Girl_I_Liked_My_Maid_and_Now_She_s_Secretly_Doing_Something_in_My__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Quarter-Beauty of the Class Became My Stepsister - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3e5830648806a5b717142010973c643e</id>
+    <updated>2026-06-22 12:09:40Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Quarter_Beauty_of_the_Class_Became_My_Stepsister__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Quarter_Beauty_of_the_Class_Became_My_Stepsister__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>The Quarter-Beauty of the Class Became My Stepsister - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8c2f11bd6e29fcbbea9fe07d2dac2f51</id>
+    <updated>2026-06-22 12:09:48Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Quarter_Beauty_of_the_Class_Became_My_Stepsister__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--The_Quarter_Beauty_of_the_Class_Became_My_Stepsister__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>An Introvert Like Me Calls My Class' Prettiest Honor Student Late at Night - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:da9b6aac6c4c52db08e1339588e7bbe6</id>
+    <updated>2026-06-22 12:09:59Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--An_Introvert_Like_Me_Calls_My_Class_Prettiest_Honor_Student_Late_at_Night__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--An_Introvert_Like_Me_Calls_My_Class_Prettiest_Honor_Student_Late_at_Night__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>An Introvert Like Me Calls My Class' Prettiest Honor Student Late at Night - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:062720307b3b7c24d925910060a058a5</id>
+    <updated>2026-06-22 12:10:08Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--An_Introvert_Like_Me_Calls_My_Class_Prettiest_Honor_Student_Late_at_Night__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--An_Introvert_Like_Me_Calls_My_Class_Prettiest_Honor_Student_Late_at_Night__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>A Stray Cat Took a Liking to Me, and I Somehow Ended Up Its Owner - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:73525b468703eee73db1ec71cc3f5df8</id>
+    <updated>2026-06-22 12:10:18Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Stray_Cat_Took_a_Liking_to_Me_and_I_Somehow_Ended_Up_Its_Owner__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/ST--A_Stray_Cat_Took_a_Liking_to_Me_and_I_Somehow_Ended_Up_Its_Owner__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Why Not Take Both Twins as Your 'Girlfriend'? - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0544209b2e2a875247e08c646eec4ac8</id>
+    <updated>2026-06-22 12:10:28Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Why Not Take Both Twins as Your 'Girlfriend'? - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:3ad1978439e6a4e2bae03e3b58dffc0b</id>
+    <updated>2026-06-22 12:10:38Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Why Not Take Both Twins as Your 'Girlfriend'? - Vol 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:d431a09eca0685af63b18f649b1da28b</id>
+    <updated>2026-06-22 12:10:48Z</updated>
+    <content type="text">Source: ST</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/ST--Why_Not_Take_Both_Twins_as_Your_Girlfriend__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+</feed>
