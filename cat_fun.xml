@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Fun Translations</title>
-  <updated>2026-07-05T02:12:16.327068Z</updated>
+  <updated>2026-07-05T02:19:21.492022Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_fun.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -91,8 +91,8 @@
     <id>uuid:02b2e1b54c6167c46f3a675c120e6d96</id>
     <updated>2026-06-06 18:44:40Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_Corrupt_Lord_Who_Got_a_Do_Over_Doesn_t_Repent__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Girl I Picked Up in the Back Alley Turned Out to Be the Heroine of a Bad Ending Otome Game - Vol 1</title>
@@ -217,8 +217,8 @@
     <id>uuid:d239806d2df1394727da70620f144b3f</id>
     <updated>2026-06-07 02:29:05Z</updated>
     <content type="text">Source: Fun Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/FUN--The_magician_who_was_constantly_called_incompetent_is_actually_the_strongest__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The magician who was constantly called incompetent is actually the strongest... - Vol 2</title>
