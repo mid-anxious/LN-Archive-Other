@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Yuki Kitsuneko</title>
-  <updated>2026-07-05T02:54:38.428762Z</updated>
+  <updated>2026-07-05T03:34:37.784722Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_yk.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -1551,6 +1551,33 @@
     <content type="text">Source: Yuki Kitsuneko</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/YK--I_Lent_a_Friend_500_Yen_and_He_Sent_His_Little_Sister_Over_as_PaymentWhat_t__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/YK--I_Lent_a_Friend_500_Yen_and_He_Sent_His_Little_Sister_Over_as_PaymentWhat_t__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Pass the Monster Meat, Milady! - Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:75ba2d6f5564b260ce3bdf1974c53f2e</id>
+    <updated>2026-07-04 22:02:40Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Pass the Monster Meat, Milady! - Volume 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:8a31e37d959fecf08a13fbe45abbaec1</id>
+    <updated>2026-07-04 22:02:56Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Pass the Monster Meat, Milady! - Volume 3</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6cc9ecd0ec2485fa1ab66d4baa000078</id>
+    <updated>2026-07-04 22:03:08Z</updated>
+    <content type="text">Source: Yuki Kitsuneko</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/YK--Pass_the_Monster_Meat_Milady__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The AV App: Lovey-Dovey Sex with My Crush in Another Dimension! - Volume 3</title>
