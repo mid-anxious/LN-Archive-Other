@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: SN</title>
-  <updated>2026-07-05T02:54:38.428386Z</updated>
+  <updated>2026-07-05T03:34:37.784314Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_sn.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -311,6 +311,15 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/SN--I_Tried_to_Verify_What_Would_Happen_if_I_Sent_a_Message_Saying_I_Found_Someo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
+    <title>My Girlfriend’s Older Sister… Is My First Love, Who Has Changed - Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:76cccbaf278e60f2cad0d46200394025</id>
+    <updated>2026-07-04 21:28:29Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/SN--My_Girlfriends_Older_Sister_Is_My_First_Love_Who_Has_Changed__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
     <title>Girl With High Pride at School Is My Maid at Home - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:89f820eeb61d96a5a94c89693489c5c1</id>
@@ -336,6 +345,15 @@
     <content type="text">Source: SN</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Told_My_Female_Best_Friend_Who_Gives_Love_Advice_That_I_Got_Asked_Out__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/SN--When_I_Told_My_Female_Best_Friend_Who_Gives_Love_Advice_That_I_Got_Asked_Out__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Cursed, Pure Love - Volume 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:0f83df55e276afa7de0b4135cb6beb18</id>
+    <updated>2026-07-04 21:29:34Z</updated>
+    <content type="text">Source: SN</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/SN--Cursed_Pure_Love__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Case Where After Saving the Beautiful Girl Who Sits Next to Me from Being... - Vol 1</title>
