@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-07-05T02:12:16.327646Z</updated>
+  <updated>2026-07-05T02:19:21.492591Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -73,8 +73,8 @@
     <id>uuid:9ffc77826443961fc79d546c10f670a9</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Higawari_kanojo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Higawari_kanojo__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Higawari_kanojo__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Hitchuu no Danjon Tansaku ~ Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu [LN] - Hitchuunanode Anzen ken Kara Pechipechi ya o Utte Reberuappu LN Volume 1</title>
@@ -82,8 +82,8 @@
     <id>uuid:eecb096ba8e768cba0e7ceb1e8be25d4</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Hitchuu no Danjon Tansaku ~ Hitchuunanode Anzen-ken Kara Pechipechi ya o Utte Reberuappu [LN] - Hitchuunanode Anzen ken Kara Pechipechi ya o Utte Reberuappu LN Volume 2</title>
@@ -91,8 +91,8 @@
     <id>uuid:ca69dfd4a7813e5f355f287439413dd1</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hitchuu_no_Danjon_Tansaku__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Ippanjin no ore o geinō-ka joshi-tachi ga nigashite kurenai kudan [LN] - Volume 1</title>
@@ -253,8 +253,8 @@
     <id>uuid:1292c962ae8c25825e5ea94e0ae8b1a5</id>
     <updated>2026-06-10 07:37:49Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Yuusha Ni Zenbu Ubawareta Ore Wa Yuusha No Hahaoya To Party Wo Kumimashita! N... - NOVEL Volume 2</title>
@@ -262,8 +262,8 @@
     <id>uuid:cfc3bb339c7c317c65a8afcf5dc05eae</id>
     <updated>2026-06-10 07:37:49Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Yuusha Party wo Tsuihou Sareta Hakuma Doushi, S-Rank Bouken Shani Hirowa reru [LN] - S Rank Bouken Shani Hirowa reru LN Volume 1</title>
@@ -271,8 +271,8 @@
     <id>uuid:f2a59837c2ac2a429f5b7da2686f8e30</id>
     <updated>2026-06-10 07:37:49Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi_S_Rank_Bouken_Shani_Hirowa_reru__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi_S_Rank_Bouken_Shani_Hirowa_reru__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi_S_Rank_Bouken_Shani_Hirowa_reru__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Party_wo_Tsuihou_Sareta_Hakuma_Doushi_S_Rank_Bouken_Shani_Hirowa_reru__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Zense Fujimi no Maou Nitotte Death Game ha Nurusugiru [LN] - Vol 1</title>
@@ -487,8 +487,8 @@
     <id>uuid:5d9bb4eed58e3c3e4ad77b7949623346</id>
     <updated>2026-06-10 07:37:49Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Yuusha_Ni_Zenbu_Ubawareta_Ore_Wa_Yuusha_No_Hahaoya_To_Party_Wo_Kumimashita_N__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Kosotto Hajirau Sugata wo Ore dake ni Misete kuru Gakuen no Ohime-sama [LN] - Vol 1</title>
@@ -523,8 +523,8 @@
     <id>uuid:ebf5ce06aa20dce031f99938b84067af</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Ichizuna_kanojo_ga_fura_rete_kurenai__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Ano natsu ni sasagu ai kotoba ~ English - English Volume 1</title>
@@ -559,8 +559,8 @@
     <id>uuid:0bca833c650340b3460d92a5035ff678</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>TS tensei bishōjo-on tora Reiko wa netora reiko ~ English - English Volume 2</title>
@@ -568,8 +568,8 @@
     <id>uuid:8d2980b546b3296fe5b7c4a98f239dc9</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--TS_tensei_bishojo_on_tora_Reiko_wa_netora_reiko__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>[ENG] I was scolded by my younger female instructor again today ~English - I was scolded by my younger female instructor again today English Volume 1</title>
@@ -748,8 +748,8 @@
     <id>uuid:f9c887cb23cfc6c5cdd54bbfe3dda7c7</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Hokuō bishōjo no kurasumeito ga, fianse ni nattara deredere no amaama ni natt... - fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit Volume 2</title>
@@ -757,8 +757,8 @@
     <id>uuid:93b42f2866e2a34439cdd50789834a33</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Hokuō bishōjo no kurasumeito ga, fianse ni nattara deredere no amaama ni natt... - fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit Volume 3</title>
@@ -766,8 +766,8 @@
     <id>uuid:6f82f3caa9b2669ac7d10c97e4b51703</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Hokuō bishōjo no kurasumeito ga, fianse ni nattara deredere no amaama ni natt... - fianse ni nattara deredere no amaama ni natte shimatta kudan ni tsuit Volume 4</title>
@@ -775,8 +775,8 @@
     <id>uuid:0027dece4ebe33f488df3dbba9543ebd</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_4.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_4.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Hokuo_bishojo_no_kurasumeito_ga_fianse_ni_nattara_deredere_no_amaama_ni_natt__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>I was reincarnated as a mob villain in a game world, so I aimed to become the... - so I aimed to become the final boss For some rea Volume 1</title>
@@ -784,8 +784,8 @@
     <id>uuid:fd6f2989075a6ccc96ab92f0a3ba2ab7</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>I was reincarnated as a mob villain in a game world, so I aimed to become the... - so I aimed to become the final boss For some rea Volume 2</title>
@@ -793,8 +793,8 @@
     <id>uuid:e5791d22924df8fd0ba72503df6d950a</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--I_was_reincarnated_as_a_mob_villain_in_a_game_world_so_I_aimed_to_become_the__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Tomodachi ijō uwaki-miman no kanojo-tachi ~ English - English Volume 1</title>
@@ -802,8 +802,8 @@
     <id>uuid:328b358e0716c341746d38c9b131ca3c</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki_miman_no_kanojo_tachi__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tomodachi_ijo_uwaki_miman_no_kanojo_tachi__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tomodachi_ijo_uwaki_miman_no_kanojo_tachi__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tomodachi_ijo_uwaki_miman_no_kanojo_tachi__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters: The four famous sisters can't live without me ~ English - The four famous sisters can t live without me English Volume 1</title>
@@ -811,8 +811,8 @@
     <id>uuid:055e7a4bdfc49d89a09469929d71b262</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters: The four famous sisters can't live without me ~ English - The four famous sisters can t live without me English Volume 2</title>
@@ -820,8 +820,8 @@
     <id>uuid:8f1abd1c528e0a2e0d68599ec6493fc4</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Tier 1 Sisters: The four famous sisters can't live without me ~ English - The four famous sisters can t live without me English Volume 3</title>
@@ -829,8 +829,8 @@
     <id>uuid:f2e6054b05a05a2c2934a0b8520f073d</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_3.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_3.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--Tier_1_Sisters_The_four_famous_sisters_can_t_live_without_me__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>What Happens If You Saved A High School Girl Who Was About To Jump Off? ~English - English Volume 1</title>
@@ -838,8 +838,8 @@
     <id>uuid:7bd219afc6a8ca4af0e777db377f12ab</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>What Happens If You Saved A High School Girl Who Was About To Jump Off? ~English - English Volume 2</title>
@@ -847,8 +847,8 @@
     <id>uuid:7d97677b2b71b24b89e2692bb698ba17</id>
     <updated>2026-06-10 07:37:48Z</updated>
     <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/KA--What_Happens_If_You_Saved_A_High_School_Girl_Who_Was_About_To_Jump_Off__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Sensei…… kisu wa jugyō no han'i-gaidesu - Vol 1</title>
