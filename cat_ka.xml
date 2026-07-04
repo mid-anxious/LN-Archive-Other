@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-07-05T02:19:21.492591Z</updated>
+  <updated>2026-07-05T02:54:38.426712Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -122,15 +122,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kanojo_wo_Deresaseru_Houhou_wo_Shorai_Kekon_Suru_Oredake_ga_Shitteiru_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Kokōna kanojo to, kanojonoheya de shi teru koto ~English - kanojonoheya de shi teru koto English Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:b2e01fb039da42f48275df325656035e</id>
-    <updated>2026-06-10 07:37:48Z</updated>
-    <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to_kanojonoheya_de_shi_teru_koto__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kokona_kanojo_to_kanojonoheya_de_shi_teru_koto__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
     <title>Nawagami-san Wants to Be Tied Up ~English - English Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:9e11f47ce94f0041e8855592de606f1e</id>
@@ -158,15 +149,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Netori_Mahoutsukai_no_Bouken_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Omoi tabako o sutteru fukenkō-sōna toshiue bijin to dorodoro no kankei ni natte ita hanashi~ English - English Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:b54c4a1312c0fa269719971dc7aea456</id>
-    <updated>2026-06-10 07:37:48Z</updated>
-    <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko_sona_toshiue_bijin_to_dorodoro_no_kankei_ni_nat__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Omoi_tabako_o_sutteru_fukenko_sona_toshiue_bijin_to_dorodoro_no_kankei_ni_nat__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
     <title>Only Sense Online - Volume 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:c7c7aac5b973bddbd9e6c370200af70b</id>
@@ -192,15 +174,6 @@
     <content type="text">Source: Kaori Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power_The_Strongest_in_Another_World_It_Seems_These_Tr__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Overwhelming_Magic_Power_The_Strongest_in_Another_World_It_Seems_These_Tr__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>Sen'nō sukiru de i sekai musō! ? ~ Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara, naze ka bishōjo-tachi ni aisa rete iru kudan ni tsuite ~ - Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to Volume 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:bd46a7c1537a3232a9094629663e19b7</id>
-    <updated>2026-06-10 07:37:48Z</updated>
-    <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/KA--Sen_no_sukiru_de_i_sekai_muso__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Sen'nō sukiru de i sekai musō! ? ~ Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to shitara, naze ka bishōjo-tachi ni aisa rete iru kudan ni tsuite ~ - Sukiru ga baretara shokei sa rerunode kenzen seijitsu ni ikiyou to Volume 2</title>
@@ -644,15 +617,6 @@
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Isekai_Relaxed_Uninhabited_Island_Life__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
-    <title>Isekai Relaxed Uninhabited Island Life - Isekai Relaxed Uninhabited Island Life Only I Who Chose the Crafting Ability During the Class Volume 2</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:6205b7bb5de1c4d0d11de2e9fcce9d9d</id>
-    <updated>2026-06-10 07:37:47Z</updated>
-    <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Isekai_Relaxed_Uninhabited_Island_Life__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/KA--Isekai_Relaxed_Uninhabited_Island_Life__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
     <title>Isekai Relaxed Uninhabited Island Life - Isekai Relaxed Uninhabited Island Life Only I Who Chose the Crafting Ability During the Class Volume 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:8689c7fd7dd6d774ab5c7e66839d5dcf</id>
@@ -1020,15 +984,6 @@
     <content type="text">Source: Kaori Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kyoto_nadeshiko_Kiyoko_san_no_junjo_uraomote__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/KA--Kyoto_nadeshiko_Kiyoko_san_no_junjo_uraomote__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>10-Nen-buri ni saikai shita kusogaki wa seijun bishōjo JK ni seichō shite ita - Vol 1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:6f1e36f7cf36ff04f8c91971f2ed10f6</id>
-    <updated>2026-07-04 20:08:34Z</updated>
-    <content type="text">Source: Kaori Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--10_Nen_buri_ni_saikai_shita_kusogaki_wa_seijun_bishojo_JK_ni_seicho_shite_ita__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/KA--10_Nen_buri_ni_saikai_shita_kusogaki_wa_seijun_bishojo_JK_ni_seicho_shite_ita__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The Disciplinary Committee’s Lewd Games - Vol 1</title>
