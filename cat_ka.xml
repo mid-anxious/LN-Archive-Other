@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Kaori Translations</title>
-  <updated>2026-07-05T02:11:31.398388Z</updated>
+  <updated>2026-07-05T02:12:16.327646Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_ka.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -1074,6 +1074,15 @@
     <content type="text">Source: Kaori Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Ill_catch_up_later_Go_on_ahead_Im_the_Reincarnator_though__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Ill_catch_up_later_Go_on_ahead_Im_the_Reincarnator_though__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>King’s Upset: The Emperor of Online Shogi - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:27307638ce804ff891fcf2f04bf15f05</id>
+    <updated>2026-07-04 20:11:20Z</updated>
+    <content type="text">Source: Kaori Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Kings_Upset_The_Emperor_of_Online_Shogi__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/KA--Kings_Upset_The_Emperor_of_Online_Shogi__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>King’s Upset: The Emperor of Online Shogi - Vol 2</title>
