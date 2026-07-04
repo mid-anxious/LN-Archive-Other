@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Miscellaneous</title>
-  <updated>2026-07-05T02:19:21.493922Z</updated>
+  <updated>2026-07-05T02:54:38.427944Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_misc.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
@@ -237,14 +237,5 @@
     <content type="text">Source: Miscellaneous</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/Misc--Zero_Damage_Sword_Saint_I_Enrolled_In_A_Magic_School_And_Wound_Up_In_A_Contra__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
-  </entry>
-  <entry>
-    <title>1Ldk Soshite 2Jk - Volume_1</title>
-    <author><name>Unknown Author</name></author>
-    <id>uuid:7025b9748fedf9e7b782a9434f19c494</id>
-    <updated>2026-06-06 21:13:11Z</updated>
-    <content type="text">Source: Miscellaneous</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-Other/releases/download/v1.0-Library/Misc--1Ldk_Soshite_2Jk__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
