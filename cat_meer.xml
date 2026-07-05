@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
   <title>Source: Meerkat Translations</title>
-  <updated>2026-07-05T03:34:37.783778Z</updated>
+  <updated>2026-07-05T05:56:58.931544Z</updated>
   <author><name>mid-anxious</name></author>
   <link rel="self" href="https://mid-anxious.github.io/LN-Archive-Other/cat_meer.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <entry>
     <title>[Advice Thread] I’m a Scientist for an Evil Organization, But My Boss is Too... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:ab311acfa5e07b540c74ba4e2f9437a4</id>
-    <updated>2026-06-07 08:50:12Z</updated>
+    <updated>2026-07-05 00:08:57Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Advice_Thread_Im_a_Scientist_for_an_Evil_Organization_But_My_Boss_is_Too__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Advice_Thread_Im_a_Scientist_for_an_Evil_Organization_But_My_Boss_is_Too__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -17,7 +17,7 @@
     <title>a-mob-who-died-a-million-times-light-novel - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:279884a16b0f63bd63bed5a573b287a0</id>
-    <updated>2026-06-07 08:50:16Z</updated>
+    <updated>2026-07-05 00:09:08Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--A_Mob_Who_Died_a_Million_Times_Light_Novel__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--A_Mob_Who_Died_a_Million_Times_Light_Novel__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -26,7 +26,7 @@
     <title>A Story About a Mob Character in a World Where Magic and Supernatural Powers... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e56faeb9f99a2e5eb14aa5ea32ab0a2e</id>
-    <updated>2026-06-07 08:50:37Z</updated>
+    <updated>2026-07-05 00:09:17Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--A_Story_About_a_Mob_Character_in_a_World_Where_Magic_and_Supernatural_Powers__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--A_Story_About_a_Mob_Character_in_a_World_Where_Magic_and_Supernatural_Powers__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -35,7 +35,7 @@
     <title>Abandoned Corporate Drone Acquires an Ancient Space Battleship - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a380cebb64acf1aa15270acecc977ca5</id>
-    <updated>2026-06-07 08:50:41Z</updated>
+    <updated>2026-07-05 00:09:25Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Abandoned_Corporate_Drone_Acquires_an_Ancient_Space_Battleship_So_He_Switche__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Abandoned_Corporate_Drone_Acquires_an_Ancient_Space_Battleship_So_He_Switche__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -44,7 +44,7 @@
     <title>After My Sister Enrolling in Girl Knights’ School, I Became a Hero - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:06e6f51c5568acb0b1b4384e4675acd5</id>
-    <updated>2026-06-07 08:51:00Z</updated>
+    <updated>2026-07-05 00:09:35Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -53,7 +53,7 @@
     <title>After My Sister Enrolling in Girl Knights’ School, I Became a Hero - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:d992bdaaec988e3f22a5908626bdeec2</id>
-    <updated>2026-06-07 08:51:24Z</updated>
+    <updated>2026-07-05 00:09:49Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -62,7 +62,7 @@
     <title>After My Sister Enrolling in Girl Knights’ School, I Became a Hero - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:fac95a109810c4ec5278eb7811a75901</id>
-    <updated>2026-06-07 08:51:49Z</updated>
+    <updated>2026-07-05 00:10:04Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -71,7 +71,7 @@
     <title>After My Sister Enrolling in Girl Knights’ School, I Became a Hero - Vol 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a8a4d1185aa0ba9d5d2984ef324323de</id>
-    <updated>2026-06-07 08:51:52Z</updated>
+    <updated>2026-07-05 00:10:13Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--After_My_Sister_Enrolling_in_Girl_Knights_School_I_Became_a_Hero_LN__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -80,7 +80,7 @@
     <title>Because I became my Oshi’s enemy (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:80f7324ccf001860aa478d8dfddbed9e</id>
-    <updated>2026-06-07 08:52:24Z</updated>
+    <updated>2026-07-05 00:10:32Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Because_I_became_my_Oshis_enemy_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Because_I_became_my_Oshis_enemy_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -89,7 +89,7 @@
     <title>Because I became my Oshi’s enemy (LN) - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:49884653728c834d20af85d229a1683e</id>
-    <updated>2026-06-07 08:53:00Z</updated>
+    <updated>2026-07-05 00:10:54Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Because_I_became_my_Oshis_enemy_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--Because_I_became_my_Oshis_enemy_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -98,7 +98,7 @@
     <title>C-level magic student who thinks he is SSS class (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:1deba321450b4e637f5823f1fccdf61c</id>
-    <updated>2026-06-07 08:53:41Z</updated>
+    <updated>2026-07-05 00:11:15Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--C_level_magic_student_who_thinks_he_is_SSS_class_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--C_level_magic_student_who_thinks_he_is_SSS_class_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -107,7 +107,7 @@
     <title>C-level magic student who thinks he is SSS class (LN) - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:9ef2ed8a1233dd4bf982f6486a11ea85</id>
-    <updated>2026-06-07 08:54:10Z</updated>
+    <updated>2026-07-05 00:11:48Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--C_level_magic_student_who_thinks_he_is_SSS_class_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-A-G/releases/download/v1.0-Library/MEER--C_level_magic_student_who_thinks_he_is_SSS_class_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -116,34 +116,34 @@
     <title>Hero-making Classroom of a Reborn Nobody (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:7e589ba71ca35a6d3e40df54f4ba8865</id>
-    <updated>2026-06-07 08:54:16Z</updated>
+    <updated>2026-07-05 00:12:00Z</updated>
     <content type="text">Source: Meerkat Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--Hero_making_Classroom_of_a_Reborn_Nobody_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--Hero_making_Classroom_of_a_Reborn_Nobody_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Hero_making_Classroom_of_a_Reborn_Nobody_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Hero_making_Classroom_of_a_Reborn_Nobody_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>I Tell You Monster - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:f5c0a3c5007eade7d837ba3425defca0</id>
-    <updated>2026-06-07 08:54:35Z</updated>
+    <updated>2026-07-05 00:23:39Z</updated>
     <content type="text">Source: Meerkat Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--I_Tell_You_Monster__Volume_2.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--I_Tell_You_Monster__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--I_Tell_You_Monster__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--I_Tell_You_Monster__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>My Party Members Are Too Strong So I Have Nothing to Do, So I’m Banishing Eve... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:bd4f9cbd763868bcbdd45fe42219fea6</id>
-    <updated>2026-06-07 08:54:54Z</updated>
+    <updated>2026-07-05 00:13:54Z</updated>
     <content type="text">Source: Meerkat Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--My_Party_Members_Are_Too_Strong_So_I_Have_Nothing_to_Do_So_Im_Banishing_Eve__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.0-Library/MEER--My_Party_Members_Are_Too_Strong_So_I_Have_Nothing_to_Do_So_Im_Banishing_Eve__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--My_Party_Members_Are_Too_Strong_So_I_Have_Nothing_to_Do_So_Im_Banishing_Eve__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--My_Party_Members_Are_Too_Strong_So_I_Have_Nothing_to_Do_So_Im_Banishing_Eve__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>Observation Diary of Romantic Comedy by a High School Boy (Light Novel) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:18c2fd7034ca9b40a6b3a7914f482ee7</id>
-    <updated>2026-06-07 08:55:22Z</updated>
+    <updated>2026-07-05 00:14:08Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Observation_Diary_of_Romantic_Comedy_by_a_High_School_Boy_Light_Novel__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Observation_Diary_of_Romantic_Comedy_by_a_High_School_Boy_Light_Novel__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -152,7 +152,7 @@
     <title>Spirit Master Who Is Thought to Be Hiding His True Ability Is Actually Always... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:e4ad7aa213bcab5386fba569dccf2d7b</id>
-    <updated>2026-06-07 08:56:06Z</updated>
+    <updated>2026-07-05 00:15:27Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -161,7 +161,7 @@
     <title>Spirit Master Who Is Thought to Be Hiding His True Ability Is Actually Always... - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:0a372a0a98095116a16e8067c0d6b0e7</id>
-    <updated>2026-06-07 08:56:52Z</updated>
+    <updated>2026-07-05 00:15:49Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -170,7 +170,7 @@
     <title>Spirit Master Who Is Thought to Be Hiding His True Ability Is Actually Always... - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:6a45441917b5b09d4f17294b8f598b70</id>
-    <updated>2026-06-07 08:56:57Z</updated>
+    <updated>2026-07-05 00:16:00Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Spirit_Master_Who_Is_Thought_to_Be_Hiding_His_True_Ability_Is_Actually_Always__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -179,16 +179,16 @@
     <title>The Exiled Merchant Saves the World with the Power of Gold (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:757435d6000a2866e14a3b55eec5ef76</id>
-    <updated>2026-06-07 08:57:25Z</updated>
+    <updated>2026-07-05 00:16:16Z</updated>
     <content type="text">Source: Meerkat Translations</content>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/MEER--The_Exiled_Merchant_Saves_the_World_with_the_Power_of_Gold_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
-    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.0-Library/MEER--The_Exiled_Merchant_Saves_the_World_with_the_Power_of_Gold_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Exiled_Merchant_Saves_the_World_with_the_Power_of_Gold_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Exiled_Merchant_Saves_the_World_with_the_Power_of_Gold_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
   <entry>
     <title>The girl who can clearly say ‘I love you’ is unbeatable (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:65ec79b4017076844df65c285afcdb71</id>
-    <updated>2026-06-07 08:57:58Z</updated>
+    <updated>2026-07-05 00:16:34Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -197,7 +197,7 @@
     <title>The girl who can clearly say ‘I love you’ is unbeatable (LN) - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:a352260a5d668e2851c12529826a18e5</id>
-    <updated>2026-06-07 08:58:40Z</updated>
+    <updated>2026-07-05 00:16:50Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -206,7 +206,7 @@
     <title>The girl who can clearly say ‘I love you’ is unbeatable (LN) - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:baca5999400b4e7d66ad98b6c3103c24</id>
-    <updated>2026-06-07 08:58:46Z</updated>
+    <updated>2026-07-05 00:16:59Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_girl_who_can_clearly_say_I_love_you_is_unbeatable_LN__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -215,7 +215,7 @@
     <title>The Last Magic (Novel) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:4c9553fae81a28846ac54a156d7cb26d</id>
-    <updated>2026-06-07 08:58:55Z</updated>
+    <updated>2026-07-05 00:17:09Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Last_Magic_Novel__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Last_Magic_Novel__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -224,7 +224,7 @@
     <title>The Science Note by Delta and Gamma (Light Novel) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:17ac6a9384e017ce33bb0d460f0c2470</id>
-    <updated>2026-06-07 08:59:33Z</updated>
+    <updated>2026-07-05 00:17:29Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Science_Note_by_Delta_and_Gamma_Light_Novel__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Science_Note_by_Delta_and_Gamma_Light_Novel__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -233,7 +233,7 @@
     <title>The Story of How I Came to Call You “Natsuki” (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:f5464538f3e9e41d0573eb083ae16206</id>
-    <updated>2026-06-07 09:00:24Z</updated>
+    <updated>2026-07-05 00:17:50Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Story_of_How_I_Came_to_Call_You_Natsuki_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--The_Story_of_How_I_Came_to_Call_You_Natsuki_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -242,7 +242,7 @@
     <title>Thus, the Boy Runs Through the Labyrinth (LN) - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:b766753f5191a368e2eb6125eb02d715</id>
-    <updated>2026-06-07 09:01:40Z</updated>
+    <updated>2026-07-05 00:18:13Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Thus_the_Boy_Runs_Through_the_Labyrinth_LN__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Thus_the_Boy_Runs_Through_the_Labyrinth_LN__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -251,7 +251,7 @@
     <title>Transferred to Another World and Became a Teacher, But I’m Feared as a Witch... - Vol 3</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:83924660caa950bd3eb802a4f89346c7</id>
-    <updated>2026-06-07 09:02:26Z</updated>
+    <updated>2026-07-05 00:19:03Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_3.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_3--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -260,7 +260,7 @@
     <title>Transferred to Another World and Became a Teacher, But I’m Feared as a Witch... - Vol 4</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:67bc51d5f7bc9898497062a7c9a8467b</id>
-    <updated>2026-06-07 09:02:31Z</updated>
+    <updated>2026-07-05 00:19:19Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_4.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_4--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -269,7 +269,7 @@
     <title>What It Takes to Become the Mastermind - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:63bbd2164569d3e8742108de8a0a0460</id>
-    <updated>2026-06-07 09:03:09Z</updated>
+    <updated>2026-07-05 00:20:20Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--What_It_Takes_to_Become_the_Mastermind__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--What_It_Takes_to_Become_the_Mastermind__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -278,7 +278,7 @@
     <title>What It Takes to Become the Mastermind - Vol 2</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:85472126c8ae9b26f2aff40777ceb9a1</id>
-    <updated>2026-06-07 09:03:30Z</updated>
+    <updated>2026-07-05 00:20:33Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--What_It_Takes_to_Become_the_Mastermind__Volume_2.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--What_It_Takes_to_Become_the_Mastermind__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -287,7 +287,7 @@
     <title>When I Started Capturing the School Princesses, It Turned Into a Battlefield... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:3663b98f252d53d3eea7aa0f53ffa8fa</id>
-    <updated>2026-06-07 09:04:05Z</updated>
+    <updated>2026-07-05 00:20:49Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--When_I_Started_Capturing_the_School_Princesses_It_Turned_Into_a_Battlefield__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--When_I_Started_Capturing_the_School_Princesses_It_Turned_Into_a_Battlefield__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
@@ -296,9 +296,99 @@
     <title>[You Can Become a Hero]I Said That on a Whim to a Talentless Child, and They... - Vol 1</title>
     <author><name>Unknown Author</name></author>
     <id>uuid:cf42e03dddde48cf61205f23f8891739</id>
-    <updated>2026-06-07 09:04:39Z</updated>
+    <updated>2026-07-05 00:21:06Z</updated>
     <content type="text">Source: Meerkat Translations</content>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--You_Can_Become_a_Hero_I_Said_That_on_a_Whim_to_a_Talentless_Child_and_They__Volume_1.epub" type="application/epub+zip" title="Original"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--You_Can_Become_a_Hero_I_Said_That_on_a_Whim_to_a_Talentless_Child_and_They__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>In a world where strength is ranked, I, a high school teacher, was transporte... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:4198929e1aa73ef67a63782835572b05</id>
+    <updated>2026-07-05 00:13:05Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--In_a_world_where_strength_is_ranked_I_a_high_school_teacher_was_transporte__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--In_a_world_where_strength_is_ranked_I_a_high_school_teacher_was_transporte__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>In a world where strength is ranked, I, a high school teacher, was transporte... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:6dfbce3505e6626ee7faffe87a908612</id>
+    <updated>2026-07-05 00:13:18Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--In_a_world_where_strength_is_ranked_I_a_high_school_teacher_was_transporte__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--In_a_world_where_strength_is_ranked_I_a_high_school_teacher_was_transporte__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Mind-Reading Detective - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c429b5c286c00c3df00c3caddd47f344</id>
+    <updated>2026-07-05 00:13:39Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Mind_Reading_Detective__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Mind_Reading_Detective__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Return of the Corpse King I, a Former Hero, Am Summoned Back to Another World... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:5fb01fc4954f3ab7cad1fcbc7b74c616</id>
+    <updated>2026-07-05 00:16:06Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Return_of_the_Corpse_King_I_a_Former_Hero_Am_Summoned_Back_to_Another_World__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Return_of_the_Corpse_King_I_a_Former_Hero_Am_Summoned_Back_to_Another_World__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Return of the Corpse King I, a Former Hero, Am Summoned Back to Another World... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:c2e33bf8363c5fe1b3b249f35705158c</id>
+    <updated>2026-07-05 00:16:23Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Return_of_the_Corpse_King_I_a_Former_Hero_Am_Summoned_Back_to_Another_World__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-N-S/releases/download/v1.0-Library/MEER--Return_of_the_Corpse_King_I_a_Former_Hero_Am_Summoned_Back_to_Another_World__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Misunderstood Villainess’ Tale of Saving the Kingdom - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:eebd340ac2649e9dd6c65969cce5c8f8</id>
+    <updated>2026-07-05 00:21:22Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Misunderstood_Villainess_Tale_of_Saving_the_Kingdom__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--Misunderstood_Villainess_Tale_of_Saving_the_Kingdom__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Transferred to Another World and Became a Teacher, But I’m Feared as a Witch... - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:461c833fefa49974c448481d723accf7</id>
+    <updated>2026-07-05 00:19:38Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Transferred to Another World and Became a Teacher, But I’m Feared as a Witch... - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:957b7fae6e97c7577ab63d6f37559fd8</id>
+    <updated>2026-07-05 00:19:57Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Transferred_to_Another_World_and_Became_a_Teacher_But_Im_Feared_as_a_Witch__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>I Tell You Monster - Vol 1</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:05a5aa18e7b4025eb17a65d4ec5df58a</id>
+    <updated>2026-07-05 00:23:59Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--I_Tell_You_Monster__Volume_1.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-H-M/releases/download/v1.1-Library/MEER--I_Tell_You_Monster__Volume_1--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
+  </entry>
+  <entry>
+    <title>Thus, the Boy Runs Through the Labyrinth (LN) - Vol 2</title>
+    <author><name>Unknown Author</name></author>
+    <id>uuid:600106ddc78e18387fa056451b266003</id>
+    <updated>2026-07-05 00:18:37Z</updated>
+    <content type="text">Source: Meerkat Translations</content>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Thus_the_Boy_Runs_Through_the_Labyrinth_LN__Volume_2.epub" type="application/epub+zip" title="Original"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/mid-anxious/LN-Archive-T-Z/releases/download/v1.1-Library/MEER--Thus_the_Boy_Runs_Through_the_Labyrinth_LN__Volume_2--Kindle.epub" type="application/epub+zip" title="Kindle Optimized"/>
   </entry>
 </feed>
